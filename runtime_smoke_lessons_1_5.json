@@ -1,0 +1,199 @@
+{
+  "group": "lessons_1_5",
+  "executed": 38,
+  "passed": 38,
+  "failed": 0,
+  "total_seconds": 1.289,
+  "results": [
+    {
+      "file": "01_Python_Foundation/01_Python_Jupyter_Variables_and_Types.ipynb",
+      "status": "pass",
+      "seconds": 0.191
+    },
+    {
+      "file": "01_Python_Foundation/02_Strings_and_Core_Collections.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "01_Python_Foundation/03_Control_Flow_and_Iteration.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "01_Python_Foundation/04_Functions_Scope_and_Comprehensions.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "01_Python_Foundation/05_Files_Paths_CSV_and_JSON.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "01_Python_Foundation/06_Exceptions_Debugging_and_Logging.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "01_Python_Foundation/07_Object_Oriented_Design_and_Data_Classes.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "01_Python_Foundation/08_Iterators_Generators_Decorators_and_Context_Managers.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "01_Python_Foundation/09_Typing_Testing_Clean_Code_and_Packaging.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "02_NumPy_and_Pandas/01_NumPy_Arrays_Shape_Dtypes_and_Memory.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "02_NumPy_and_Pandas/02_Indexing_Masking_Vectorization_and_Broadcasting.ipynb",
+      "status": "pass",
+      "seconds": 0.035
+    },
+    {
+      "file": "02_NumPy_and_Pandas/03_Aggregation_Randomness_Linear_Algebra_and_Performance.ipynb",
+      "status": "pass",
+      "seconds": 0.002
+    },
+    {
+      "file": "02_NumPy_and_Pandas/04_Pandas_Series_DataFrames_and_Data_Input.ipynb",
+      "status": "pass",
+      "seconds": 0.026
+    },
+    {
+      "file": "02_NumPy_and_Pandas/05_Selection_Filtering_Sorting_and_Transformation.ipynb",
+      "status": "pass",
+      "seconds": 0.009
+    },
+    {
+      "file": "02_NumPy_and_Pandas/06_Missing_Values_Duplicates_Strings_and_Categories.ipynb",
+      "status": "pass",
+      "seconds": 0.019
+    },
+    {
+      "file": "02_NumPy_and_Pandas/07_GroupBy_Aggregation_Pivoting_Merging_and_Reshaping.ipynb",
+      "status": "pass",
+      "seconds": 0.018
+    },
+    {
+      "file": "02_NumPy_and_Pandas/08_Dates_Time_Series_Rolling_Windows_and_Performance.ipynb",
+      "status": "pass",
+      "seconds": 0.014
+    },
+    {
+      "file": "03_Data_Visualization/01_Visualization_Principles_and_Chart_Selection.ipynb",
+      "status": "pass",
+      "seconds": 0.003
+    },
+    {
+      "file": "03_Data_Visualization/02_Matplotlib_Fundamentals_and_Composition.ipynb",
+      "status": "pass",
+      "seconds": 0.051
+    },
+    {
+      "file": "03_Data_Visualization/03_Distributions_and_Relationships.ipynb",
+      "status": "pass",
+      "seconds": 0.051
+    },
+    {
+      "file": "03_Data_Visualization/04_Statistical_Visualizations_and_Correlation_Displays.ipynb",
+      "status": "pass",
+      "seconds": 0.059
+    },
+    {
+      "file": "03_Data_Visualization/05_Time_Series_and_Interactive_Visualization_Concepts.ipynb",
+      "status": "pass",
+      "seconds": 0.019
+    },
+    {
+      "file": "03_Data_Visualization/06_Dashboards_Storytelling_and_Accessibility.ipynb",
+      "status": "pass",
+      "seconds": 0.028
+    },
+    {
+      "file": "04_Statistics_and_Mathematics/01_Descriptive_Statistics_and_Robust_Summaries.ipynb",
+      "status": "pass",
+      "seconds": 0.002
+    },
+    {
+      "file": "04_Statistics_and_Mathematics/02_Probability_Conditional_Probability_and_Bayes_Rule.ipynb",
+      "status": "pass",
+      "seconds": 0.003
+    },
+    {
+      "file": "04_Statistics_and_Mathematics/03_Random_Variables_and_Probability_Distributions.ipynb",
+      "status": "pass",
+      "seconds": 0.478
+    },
+    {
+      "file": "04_Statistics_and_Mathematics/04_Sampling_Law_of_Large_Numbers_and_Central_Limit_Theorem.ipynb",
+      "status": "pass",
+      "seconds": 0.033
+    },
+    {
+      "file": "04_Statistics_and_Mathematics/05_Confidence_Intervals_and_Hypothesis_Testing.ipynb",
+      "status": "pass",
+      "seconds": 0.003
+    },
+    {
+      "file": "04_Statistics_and_Mathematics/06_t_Tests_Chi_Square_ANOVA_and_Nonparametric_Tests.ipynb",
+      "status": "pass",
+      "seconds": 0.003
+    },
+    {
+      "file": "04_Statistics_and_Mathematics/07_Covariance_Correlation_Confounding_and_Causality.ipynb",
+      "status": "pass",
+      "seconds": 0.015
+    },
+    {
+      "file": "04_Statistics_and_Mathematics/08_Linear_Algebra_for_Machine_Learning.ipynb",
+      "status": "pass",
+      "seconds": 0.002
+    },
+    {
+      "file": "04_Statistics_and_Mathematics/09_Calculus_Gradients_and_Optimization.ipynb",
+      "status": "pass",
+      "seconds": 0.025
+    },
+    {
+      "file": "05_Exploratory_Data_Analysis/01_Business_Framing_Unit_of_Analysis_and_Data_Dictionary.ipynb",
+      "status": "pass",
+      "seconds": 0.004
+    },
+    {
+      "file": "05_Exploratory_Data_Analysis/02_Data_Quality_Audit_and_Schema_Validation.ipynb",
+      "status": "pass",
+      "seconds": 0.015
+    },
+    {
+      "file": "05_Exploratory_Data_Analysis/03_Univariate_Bivariate_and_Multivariate_Analysis.ipynb",
+      "status": "pass",
+      "seconds": 0.048
+    },
+    {
+      "file": "05_Exploratory_Data_Analysis/04_Missing_Data_Outliers_and_Transformations.ipynb",
+      "status": "pass",
+      "seconds": 0.009
+    },
+    {
+      "file": "05_Exploratory_Data_Analysis/05_Feature_Target_Analysis_Leakage_Bias_and_Drift.ipynb",
+      "status": "pass",
+      "seconds": 0.108
+    },
+    {
+      "file": "05_Exploratory_Data_Analysis/06_EDA_Reporting_Decisions_and_Modelling_Recommendations.ipynb",
+      "status": "pass",
+      "seconds": 0.007
+    }
+  ]
+}

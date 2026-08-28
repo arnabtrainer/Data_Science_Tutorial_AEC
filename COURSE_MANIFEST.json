@@ -1,0 +1,1175 @@
+{
+  "course_name": "Data Science, Machine Learning, Deep Learning, and MLOps Master Course",
+  "version": "1.0.0",
+  "generated_date": "2026-08-27",
+  "python_target": "3.11",
+  "phases": 10,
+  "guided_lesson_hours": 177.8,
+  "notebooks": {
+    "total": 164,
+    "categories": {
+      "orientation_and_start": 6,
+      "phase_overviews": 10,
+      "detailed_lessons": 88,
+      "exercise_labs": 10,
+      "reference_lab_solutions": 10,
+      "assessments": 10,
+      "assessment_answer_keys": 10,
+      "project_briefs": 10,
+      "worked_capstones": 10
+    },
+    "markdown_cells": 1939,
+    "code_cells": 394,
+    "approx_markdown_words": 166780,
+    "code_lines": 6653
+  },
+  "runtime_validation": {
+    "status": "pass",
+    "validation_method": "Every code cell in all lesson, reference-solution, and worked-capstone notebooks was executed sequentially from the course root in an isolated namespace. Representative notebooks were also executed with Jupyter kernels during generation.",
+    "groups": [
+      {
+        "group": "lessons_1_5",
+        "executed": 38,
+        "passed": 38,
+        "failed": 0,
+        "total_seconds": 1.289
+      },
+      {
+        "group": "lessons_6_10",
+        "executed": 50,
+        "passed": 50,
+        "failed": 0,
+        "total_seconds": 20.375
+      },
+      {
+        "group": "solutions",
+        "executed": 10,
+        "passed": 10,
+        "failed": 0,
+        "total_seconds": 6.115
+      },
+      {
+        "group": "capstones",
+        "executed": 10,
+        "passed": 10,
+        "failed": 0,
+        "total_seconds": 7.659
+      }
+    ],
+    "total_notebooks_executed": 108,
+    "total_passed": 108,
+    "total_failed": 0,
+    "total_seconds": 35.438
+  },
+  "unit_tests": {
+    "status": "pass",
+    "tests": 5
+  },
+  "datasets": {
+    "files": 14,
+    "synthetic": true
+  },
+  "package_files_excluding_manifest": 220,
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "bytes": 343,
+      "sha256": "0566095ba07b63730cdc03b664e63ada041dace4829bc981b4cecb1dec1461e3"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 108,
+      "sha256": "a995e3bc97e95109cc20af00fa608b708d5af8ce4972fd0944d6bb2e313a3713"
+    },
+    {
+      "path": "00_Course_Orientation/00_Welcome_and_Master_Roadmap.ipynb",
+      "bytes": 5052,
+      "sha256": "b472b213e9707c3595fe6205ce7da3190bb9f9ac5aec45700c28eaad11e566c5"
+    },
+    {
+      "path": "00_Course_Orientation/01_Environment_Setup_and_Verification.ipynb",
+      "bytes": 5868,
+      "sha256": "c347f329ebec7402950f1b861709d434208c9142e51db93f50cc532eb06e4f2b"
+    },
+    {
+      "path": "00_Course_Orientation/02_How_to_Learn_with_the_Notebooks.ipynb",
+      "bytes": 3577,
+      "sha256": "90972b37d12a01436b160bab363487e1001e6c8416b8c9054244126460621b45"
+    },
+    {
+      "path": "00_Course_Orientation/03_Diagnostic_Assessment.ipynb",
+      "bytes": 3871,
+      "sha256": "6589ff7ee1dbb7e791990c8cc93f4cf72d44800901d0856e8c982c24c4756e8f"
+    },
+    {
+      "path": "00_Course_Orientation/04_Notation_Coding_and_Reporting_Conventions.ipynb",
+      "bytes": 4256,
+      "sha256": "02fe725585727971b88c2cc93228062f2e63a86506906a0d9d480ef39e0c6c73"
+    },
+    {
+      "path": "01_Python_Foundation/00_Phase_Overview.ipynb",
+      "bytes": 9002,
+      "sha256": "977973abc2754918cf0975f49837ade424581661647d1ad47ba33059966cc270"
+    },
+    {
+      "path": "01_Python_Foundation/01_Python_Jupyter_Variables_and_Types.ipynb",
+      "bytes": 16461,
+      "sha256": "ac333c3a8ac2f1db19d9b9834357f66c31c0001b701386c2dc9c0278b752ab6f"
+    },
+    {
+      "path": "01_Python_Foundation/02_Strings_and_Core_Collections.ipynb",
+      "bytes": 16460,
+      "sha256": "79bcd233256a0a519854b204316865edf6ae772649ec67ec958be605d7e7e047"
+    },
+    {
+      "path": "01_Python_Foundation/03_Control_Flow_and_Iteration.ipynb",
+      "bytes": 17203,
+      "sha256": "0c7ef7f68047afd6aa8bc7a29085e73171c7d6b9ff2cae230072b5aeedc813ec"
+    },
+    {
+      "path": "01_Python_Foundation/04_Functions_Scope_and_Comprehensions.ipynb",
+      "bytes": 17304,
+      "sha256": "d7d7d5df7c3ec31d8fbc31646795fb592798c19e84d3ddbc1795cbc33124a174"
+    },
+    {
+      "path": "01_Python_Foundation/05_Files_Paths_CSV_and_JSON.ipynb",
+      "bytes": 16891,
+      "sha256": "8d0195bb5306c93539ea0ba3189a57875fb22c85880421464ebd5685eb4967d1"
+    },
+    {
+      "path": "01_Python_Foundation/06_Exceptions_Debugging_and_Logging.ipynb",
+      "bytes": 16993,
+      "sha256": "436816d53189c0c2ff5f838d726df91ef37afecebc4fd2d3432ace3a52cd2930"
+    },
+    {
+      "path": "01_Python_Foundation/07_Object_Oriented_Design_and_Data_Classes.ipynb",
+      "bytes": 17704,
+      "sha256": "ccf975b4ac7420cd88507dafa95292439ab7f31a816502441ae34bd4c8698c09"
+    },
+    {
+      "path": "01_Python_Foundation/08_Iterators_Generators_Decorators_and_Context_Managers.ipynb",
+      "bytes": 17995,
+      "sha256": "06743b8dc1783857a3a45e251d2286951e0e34001d4967842260b1bafafaaf27"
+    },
+    {
+      "path": "01_Python_Foundation/09_Typing_Testing_Clean_Code_and_Packaging.ipynb",
+      "bytes": 17686,
+      "sha256": "cbc27149ccee2bb7959d0ab4a5e9fd5fe2ad4f1283cf2a9fef499e1c5284cd50"
+    },
+    {
+      "path": "02_NumPy_and_Pandas/00_Phase_Overview.ipynb",
+      "bytes": 8779,
+      "sha256": "f75fbfbe71b146f95a46153a530318fbdaf13c0023d4a69a79087fab69cef875"
+    },
+    {
+      "path": "02_NumPy_and_Pandas/01_NumPy_Arrays_Shape_Dtypes_and_Memory.ipynb",
+      "bytes": 16547,
+      "sha256": "81a3b1596ab12d632c3743246cc210562aa895056c85b2c7e3cf9b5e97125f61"
+    },
+    {
+      "path": "02_NumPy_and_Pandas/02_Indexing_Masking_Vectorization_and_Broadcasting.ipynb",
+      "bytes": 16780,
+      "sha256": "6e1c6a16547e76a14aacd879ce338e1d47a4e5bf443fd0ad05e9bd2e98a1c168"
+    },
+    {
+      "path": "02_NumPy_and_Pandas/03_Aggregation_Randomness_Linear_Algebra_and_Performance.ipynb",
+      "bytes": 17254,
+      "sha256": "82bd15233f54365cdcc2e4717f7521278e80034ef30067346938170f106c3c7c"
+    },
+    {
+      "path": "02_NumPy_and_Pandas/04_Pandas_Series_DataFrames_and_Data_Input.ipynb",
+      "bytes": 16626,
+      "sha256": "13378e84c263ec282c0adf04e466a02f2d591a5e5ab5682b320c8a91a3d500ec"
+    },
+    {
+      "path": "02_NumPy_and_Pandas/05_Selection_Filtering_Sorting_and_Transformation.ipynb",
+      "bytes": 16948,
+      "sha256": "4853f4f364d3c0c51cc068818ebdcfc38fb51956cae4252ddee9b892a2d0b4f6"
+    },
+    {
+      "path": "02_NumPy_and_Pandas/06_Missing_Values_Duplicates_Strings_and_Categories.ipynb",
+      "bytes": 17716,
+      "sha256": "d03390ef22f3fb52eb27dbb2a1e17dd9edda8dc2141fbd319220f35db9f7f27d"
+    },
+    {
+      "path": "02_NumPy_and_Pandas/07_GroupBy_Aggregation_Pivoting_Merging_and_Reshaping.ipynb",
+      "bytes": 17360,
+      "sha256": "9c575da19f4020bec017dc8fad987a44b5a25a5a77636860f4f6ad2d101ad615"
+    },
+    {
+      "path": "02_NumPy_and_Pandas/08_Dates_Time_Series_Rolling_Windows_and_Performance.ipynb",
+      "bytes": 17186,
+      "sha256": "d9955bcc8391dd619090342e70af0201be097eb14bb61ddcf8c8e010620d8a75"
+    },
+    {
+      "path": "03_Data_Visualization/00_Phase_Overview.ipynb",
+      "bytes": 7904,
+      "sha256": "fb57b64f9ed29d1fe6debe5aa8537e487ff495fc468372ca3f692dc8f734fdcf"
+    },
+    {
+      "path": "03_Data_Visualization/01_Visualization_Principles_and_Chart_Selection.ipynb",
+      "bytes": 17257,
+      "sha256": "00aedcf1ff98a997eb783a785642b7ffb7f4abca2d21e8ef2894b020e0e39e3a"
+    },
+    {
+      "path": "03_Data_Visualization/02_Matplotlib_Fundamentals_and_Composition.ipynb",
+      "bytes": 17328,
+      "sha256": "2918ab38f8c3a6d11a6116e99698457c56e373b29ab275831588682381cf9c5b"
+    },
+    {
+      "path": "03_Data_Visualization/03_Distributions_and_Relationships.ipynb",
+      "bytes": 16789,
+      "sha256": "ee7cb22154677423bbb868ce21b427e6bf563c69e50a4f7137fde3195135fa1c"
+    },
+    {
+      "path": "03_Data_Visualization/04_Statistical_Visualizations_and_Correlation_Displays.ipynb",
+      "bytes": 17741,
+      "sha256": "f2e067f93436a90444d32cb373162c61e1255d4b02905dc0f816e566952ade74"
+    },
+    {
+      "path": "03_Data_Visualization/05_Time_Series_and_Interactive_Visualization_Concepts.ipynb",
+      "bytes": 17225,
+      "sha256": "10a1b4da4537899d278cd14a43399d7b593f528f57c90317a316335fdfdc50d4"
+    },
+    {
+      "path": "03_Data_Visualization/06_Dashboards_Storytelling_and_Accessibility.ipynb",
+      "bytes": 17695,
+      "sha256": "39100da142ce64166ef8831e9048d94a347cd42a9d7523208de7a014bab0bb2f"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/00_Phase_Overview.ipynb",
+      "bytes": 9308,
+      "sha256": "8907c8f1c3361b664b4c1ebb1aa3b83fade6200fab3a9a34a90e46e0d1f97e2a"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/01_Descriptive_Statistics_and_Robust_Summaries.ipynb",
+      "bytes": 17011,
+      "sha256": "754bae323747362a0bc848cf222aacd2ff000fa9584a52d8906d899c64b8fdce"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/02_Probability_Conditional_Probability_and_Bayes_Rule.ipynb",
+      "bytes": 17103,
+      "sha256": "90a0fdd7a47796d30aa6e6a9344b33a192eee741ec23e98cd8356b38747ca749"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/03_Random_Variables_and_Probability_Distributions.ipynb",
+      "bytes": 17448,
+      "sha256": "327a3d040bde739e36eb4d1e9aafe7e3ec310a294821122b173281c77285dc65"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/04_Sampling_Law_of_Large_Numbers_and_Central_Limit_Theorem.ipynb",
+      "bytes": 17534,
+      "sha256": "e373e2d2a59f66f8bb0306c6244817ac987d6d481228258f0d7a805f2e65f6db"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/05_Confidence_Intervals_and_Hypothesis_Testing.ipynb",
+      "bytes": 17126,
+      "sha256": "d05d48e824e88ae964af14c57a60a783ac2c979612131ccab75ffadaf8866f16"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/06_t_Tests_Chi_Square_ANOVA_and_Nonparametric_Tests.ipynb",
+      "bytes": 17342,
+      "sha256": "7ab517024a2747d5b447ba166c9b47b9b685d074006fd8925f946ba57dcefd59"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/07_Covariance_Correlation_Confounding_and_Causality.ipynb",
+      "bytes": 17343,
+      "sha256": "d689f5ef02288beca6d15e8181644e7474b3dec2e80532cc15d233c94db65043"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/08_Linear_Algebra_for_Machine_Learning.ipynb",
+      "bytes": 17095,
+      "sha256": "1fe60c6bc276d137d5be350157a6a36583371429ca333523122b271b5a372303"
+    },
+    {
+      "path": "04_Statistics_and_Mathematics/09_Calculus_Gradients_and_Optimization.ipynb",
+      "bytes": 17321,
+      "sha256": "e9af06dd888c17e8a734d721e3141af064950ef7982280df53420ef8f4b6816e"
+    },
+    {
+      "path": "05_Exploratory_Data_Analysis/00_Phase_Overview.ipynb",
+      "bytes": 8111,
+      "sha256": "a113cdf88c0f6487fc18c12977718ce5948eb3335c530ac6783e8c2fa8481e21"
+    },
+    {
+      "path": "05_Exploratory_Data_Analysis/01_Business_Framing_Unit_of_Analysis_and_Data_Dictionary.ipynb",
+      "bytes": 17326,
+      "sha256": "4f27af48023407f784565fd0b940711a0be8a14c897db159fb7e5b1831eeb74b"
+    },
+    {
+      "path": "05_Exploratory_Data_Analysis/02_Data_Quality_Audit_and_Schema_Validation.ipynb",
+      "bytes": 17377,
+      "sha256": "b2890be6fb65ce4cfb25e7b16134861312a0fedd74f4b48b9497d5e92de169e9"
+    },
+    {
+      "path": "05_Exploratory_Data_Analysis/03_Univariate_Bivariate_and_Multivariate_Analysis.ipynb",
+      "bytes": 17519,
+      "sha256": "be6d8d13f2725629168b78f613573d4057277950b0115a5424b4afc169187c4a"
+    },
+    {
+      "path": "05_Exploratory_Data_Analysis/04_Missing_Data_Outliers_and_Transformations.ipynb",
+      "bytes": 17818,
+      "sha256": "1f2676785474d3dfbc0a459beaac757ab4f8cef20a3730fec77b92ca9b7c76e0"
+    },
+    {
+      "path": "05_Exploratory_Data_Analysis/05_Feature_Target_Analysis_Leakage_Bias_and_Drift.ipynb",
+      "bytes": 17543,
+      "sha256": "4337a856f389b083757aeb7c238da475bad8e2876a50f6738821baf0e20c61d4"
+    },
+    {
+      "path": "05_Exploratory_Data_Analysis/06_EDA_Reporting_Decisions_and_Modelling_Recommendations.ipynb",
+      "bytes": 17747,
+      "sha256": "89fe560b2a173d1b67ed05b2c5b07c2f86e92b509ab01598e8af8e7f984fb1bf"
+    },
+    {
+      "path": "06_Machine_Learning_Fundamentals/00_Phase_Overview.ipynb",
+      "bytes": 9003,
+      "sha256": "e705d81d1c6cf1134352c52a29cd1f73190c833838b53edcee41f136b80601cc"
+    },
+    {
+      "path": "06_Machine_Learning_Fundamentals/01_Problem_Formulation_and_Baseline_Models.ipynb",
+      "bytes": 17459,
+      "sha256": "29df11dd577d49f526b8cdbf7cba477e7e3a87ccc5b3481bbc58ad31bb5ecab6"
+    },
+    {
+      "path": "06_Machine_Learning_Fundamentals/02_Train_Validation_Test_Group_and_Time_Splits.ipynb",
+      "bytes": 17189,
+      "sha256": "413eba9c2b84696d9bb32317b1717253167b2a486d158f15a4097f94c35ce54b"
+    },
+    {
+      "path": "06_Machine_Learning_Fundamentals/03_Imputation_Encoding_Scaling_and_Feature_Engineering.ipynb",
+      "bytes": 17581,
+      "sha256": "6b7b6612309626dea3f53073da165000c4eca88603aec6b3d116cb78df92cd0d"
+    },
+    {
+      "path": "06_Machine_Learning_Fundamentals/04_Scikit_learn_Estimators_Pipelines_and_ColumnTransformer.ipynb",
+      "bytes": 17923,
+      "sha256": "d49e780c7f1e9465360eb537989c799e17cc449e2642f7a4055828c058de7a56"
+    },
+    {
+      "path": "06_Machine_Learning_Fundamentals/05_Regression_and_Classification_Metrics.ipynb",
+      "bytes": 17265,
+      "sha256": "c0cc715d2c4368b1fa052ce592fc7916d00bc5e46947e7f676d57fdaa1d6da9e"
+    },
+    {
+      "path": "06_Machine_Learning_Fundamentals/06_Underfitting_Overfitting_Bias_Variance_and_Regularization.ipynb",
+      "bytes": 17401,
+      "sha256": "426694698d6875f889baa2556a7aa29d19e4ff711abf646bcca32d0404e15941"
+    },
+    {
+      "path": "06_Machine_Learning_Fundamentals/07_Cross_Validation_and_Hyperparameter_Search.ipynb",
+      "bytes": 17262,
+      "sha256": "b5689ddf008b1f1876623bc9da82902fc1fa6710cf8d94b96c817a324a495785"
+    },
+    {
+      "path": "06_Machine_Learning_Fundamentals/08_Imbalance_Thresholds_Calibration_and_Error_Analysis.ipynb",
+      "bytes": 17658,
+      "sha256": "e9d52232c311b181dd58f5338f16424c0285293d80739787d86ed146c81c093c"
+    },
+    {
+      "path": "07_Supervised_Learning/00_Phase_Overview.ipynb",
+      "bytes": 10207,
+      "sha256": "a3ac0c7b265f68c8935ed0f3432f68818c7f951e140cbbdc979ef22660b23451"
+    },
+    {
+      "path": "07_Supervised_Learning/01_Simple_Linear_Regression_from_First_Principles.ipynb",
+      "bytes": 16554,
+      "sha256": "4e494daac8fb512349c7e682c65c63e22a5126bc2004015fcbcde1ee371ac562"
+    },
+    {
+      "path": "07_Supervised_Learning/02_Multiple_Regression_and_Diagnostics.ipynb",
+      "bytes": 17042,
+      "sha256": "a04192040728d04e6b14503ea639f4d4a67514bddb8fcefd464ae4df96d46c7f"
+    },
+    {
+      "path": "07_Supervised_Learning/03_Polynomial_Regression_Ridge_Lasso_and_Elastic_Net.ipynb",
+      "bytes": 17851,
+      "sha256": "c856240dbbd9f3a657ef0d192e03ca0ba6a1f812458dcef22dd6215e1370544e"
+    },
+    {
+      "path": "07_Supervised_Learning/04_K_Nearest_Neighbours.ipynb",
+      "bytes": 16678,
+      "sha256": "ed5e4a5c31bc09b302d03ba33605addc63bc9de9c195e6bfc3dffe77d20439f2"
+    },
+    {
+      "path": "07_Supervised_Learning/05_Logistic_Regression_from_First_Principles.ipynb",
+      "bytes": 17039,
+      "sha256": "72f72ed9f675bc8fddaabcb0a59b22132b961d7b54896d60c337396d12e7c8f7"
+    },
+    {
+      "path": "07_Supervised_Learning/06_Naive_Bayes_and_Linear_Discriminant_Analysis.ipynb",
+      "bytes": 17123,
+      "sha256": "3ce21f97df9d72e1d42f079a9c090d2c317dc492152353ec87fe9f236897cddd"
+    },
+    {
+      "path": "07_Supervised_Learning/07_Decision_Trees_and_Pruning.ipynb",
+      "bytes": 17293,
+      "sha256": "dafba1c31eb164820a770bfa1ef7aec38981bf42f73048e511a7570ba316bc78"
+    },
+    {
+      "path": "07_Supervised_Learning/08_Random_Forests_and_Extra_Trees.ipynb",
+      "bytes": 16998,
+      "sha256": "373f7e06d1128d2a60496b33b4dce1946a06bebc6ef1fe75c91fc0359d06e3b3"
+    },
+    {
+      "path": "07_Supervised_Learning/09_Gradient_Boosting_and_XGBoost_Concepts.ipynb",
+      "bytes": 17094,
+      "sha256": "445d8f5c4e886a2a862c80921139a4c83992836a3964dd53794660935610e7c5"
+    },
+    {
+      "path": "07_Supervised_Learning/10_Support_Vector_Machines_and_Kernels.ipynb",
+      "bytes": 16797,
+      "sha256": "b1eb02c6f8b560606c7d7bdcc0cba063217b972b52548add5e2e4163497de83a"
+    },
+    {
+      "path": "07_Supervised_Learning/11_Voting_Bagging_Boosting_and_Stacking.ipynb",
+      "bytes": 17464,
+      "sha256": "377d849372ca921ca8972e75436d9b15d4f292aa0a266929a7cefbc0c0797bf3"
+    },
+    {
+      "path": "07_Supervised_Learning/12_Explainability_Importance_PDP_ICE_and_SHAP_Concepts.ipynb",
+      "bytes": 17627,
+      "sha256": "e215dbcd295545bc184408982606e83de7d27bdfecee3f548c0d8152c7d5a806"
+    },
+    {
+      "path": "08_Unsupervised_Learning/00_Phase_Overview.ipynb",
+      "bytes": 8545,
+      "sha256": "b7a33d089077cc351fca00c1d039d0a2d3f3af03d47181c6118223765d23d4e4"
+    },
+    {
+      "path": "08_Unsupervised_Learning/01_Distance_Scaling_and_Cluster_Validation.ipynb",
+      "bytes": 16785,
+      "sha256": "5b30296f9d187966e93d8b346216ab65683171ce0566203a1ed1764a46773ce9"
+    },
+    {
+      "path": "08_Unsupervised_Learning/02_K_Means_from_First_Principles.ipynb",
+      "bytes": 17082,
+      "sha256": "842d1e0d527ffaaae650395f0e88be98d635cde27dcb35bd6d941cdc05e07279"
+    },
+    {
+      "path": "08_Unsupervised_Learning/03_Hierarchical_Clustering_and_DBSCAN.ipynb",
+      "bytes": 17131,
+      "sha256": "d4405da0d6f86ba252f3891b79145148e25b56936c6b87658132ca86dd2d48ac"
+    },
+    {
+      "path": "08_Unsupervised_Learning/04_Gaussian_Mixture_Models_and_Soft_Clustering.ipynb",
+      "bytes": 17190,
+      "sha256": "183b29c7a9e9b3ca0a2a7e5393a4828df7afbbdf0f59d36e5ede38396854ceab"
+    },
+    {
+      "path": "08_Unsupervised_Learning/05_Principal_Component_Analysis_from_First_Principles.ipynb",
+      "bytes": 16961,
+      "sha256": "40582d930f2aef7b9a56e3c7045fc72cc4646754ae2e548f3e1a53e5e17d7d64"
+    },
+    {
+      "path": "08_Unsupervised_Learning/06_t_SNE_and_UMAP_Concepts.ipynb",
+      "bytes": 17147,
+      "sha256": "1a1380eb6a761b34cedc5b2220496fc883d383759fbd29cc48c842f4663d73b3"
+    },
+    {
+      "path": "08_Unsupervised_Learning/07_Anomaly_Detection.ipynb",
+      "bytes": 17051,
+      "sha256": "7cbfc87735cc402ffd231ed3dae84b0e95ad7bb4c5ebaa81fe10d4b009e6e4bc"
+    },
+    {
+      "path": "08_Unsupervised_Learning/08_Association_Rules_and_Market_Basket_Analysis.ipynb",
+      "bytes": 17107,
+      "sha256": "87d4a969408fb66e8330488cb1a04b4c910a2a7a71eb380cd37bc47975963b66"
+    },
+    {
+      "path": "09_Deep_Learning/00_Phase_Overview.ipynb",
+      "bytes": 10316,
+      "sha256": "be32b8e04e2eb84d3147e911dc22887f9520797339ada02caa860b0ffb0bab69"
+    },
+    {
+      "path": "09_Deep_Learning/01_PyTorch_Tensors_Devices_and_Autograd.ipynb",
+      "bytes": 16444,
+      "sha256": "d25483a56923b84b35a8b7db7629eb53ad7722515011c5a239820b06016d955e"
+    },
+    {
+      "path": "09_Deep_Learning/02_Neurons_Activations_Outputs_and_Losses.ipynb",
+      "bytes": 17133,
+      "sha256": "aa5dfda1a537f1588922b90a8220da990b7809b4f77fa6264b752526e9810180"
+    },
+    {
+      "path": "09_Deep_Learning/03_Backpropagation_from_First_Principles.ipynb",
+      "bytes": 16894,
+      "sha256": "330842b96ba1a4b25512e25afa68fed3702b6d99376e83e2b3e1933802302fa6"
+    },
+    {
+      "path": "09_Deep_Learning/04_Datasets_DataLoaders_Training_Loops_and_Optimizers.ipynb",
+      "bytes": 17631,
+      "sha256": "1ce966b3eaa73ecdae762da6cf54b28583ff1911350079da23ec6fececdf605a"
+    },
+    {
+      "path": "09_Deep_Learning/05_Feed_Forward_Networks_for_Tabular_Data.ipynb",
+      "bytes": 17556,
+      "sha256": "38938f5993f3f65092b41da46ee1f37f0e66c1a0409779b70886b82b57729926"
+    },
+    {
+      "path": "09_Deep_Learning/06_Initialization_Normalization_Dropout_Schedules_and_Early_Stopping.ipynb",
+      "bytes": 18033,
+      "sha256": "482a2ff6156e69c894d697c78dcb4909a7d32560946f381d579d255e44624f11"
+    },
+    {
+      "path": "09_Deep_Learning/07_Convolutional_Neural_Networks.ipynb",
+      "bytes": 17507,
+      "sha256": "31fc660b90b1f2264fe19a90e8d2448b2c60f050a773848ecf634b1d49d3337e"
+    },
+    {
+      "path": "09_Deep_Learning/08_Transfer_Learning_and_Fine_Tuning.ipynb",
+      "bytes": 17266,
+      "sha256": "0e8f21944814d6ca8c16373ec8f2a94235057478f7fb06edf85d92406a6a1788"
+    },
+    {
+      "path": "09_Deep_Learning/09_RNNs_LSTMs_and_GRUs.ipynb",
+      "bytes": 17092,
+      "sha256": "e1de76c8ef96923043a2c33bcc43f67b417aa0816cf8b21759baf252a54ca5e1"
+    },
+    {
+      "path": "09_Deep_Learning/10_Attention_from_First_Principles.ipynb",
+      "bytes": 16664,
+      "sha256": "1c9e6e29dabd7afb6cedef90786adae7b7888a1b587e1d84fa02bbff80fc1b68"
+    },
+    {
+      "path": "09_Deep_Learning/11_Transformer_Encoders_and_Text_Classification.ipynb",
+      "bytes": 17637,
+      "sha256": "d28e1af7878092a6fb8ac6621fb0c5bc7bfd26f08a0381a1f3a9253169249eb4"
+    },
+    {
+      "path": "09_Deep_Learning/12_Deep_Learning_Debugging_Evaluation_Reproducibility_and_Serving.ipynb",
+      "bytes": 17949,
+      "sha256": "a7c9ab70d7049cb1db728d2159be0e7dbb7aace154b2d97f88b0180bf0380a2f"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/00_Phase_Overview.ipynb",
+      "bytes": 9654,
+      "sha256": "ce4a25101361e80b201ceb2bff5e00e6430e0925733f86d3ac409404e466b436"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/01_Production_Project_Structure_Configuration_Logging_and_Typing.ipynb",
+      "bytes": 17536,
+      "sha256": "0aa132828e8a141caad15ee441d41a8356d0a631b2a7058f227a3f1db75e951d"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/02_Data_Contracts_Validation_and_Testing_Strategy.ipynb",
+      "bytes": 16848,
+      "sha256": "87c3ec7fe5c16c53aee9b361ff3147effac3bbd1039c5b08ed18b495c2032302"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/03_Experiment_Tracking_Reproducibility_and_Model_Registry.ipynb",
+      "bytes": 17437,
+      "sha256": "ab4dbd2cfaeae175bb3fd403c6326eea38586099bfd2a0d2c53e80351adbcdee"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/04_Serialization_Batch_Inference_and_Feature_Parity.ipynb",
+      "bytes": 17357,
+      "sha256": "957d3afd63e6b83662f026e9bd42ce4d336ee88b88c6a3cafecbf1265b29566a"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/05_FastAPI_Model_Serving_and_API_Design.ipynb",
+      "bytes": 17389,
+      "sha256": "46e924bfdfd4fdab04decbd5fff822c81a8f176333b4554761fcbe086f9d0f40"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/06_Containers_CI_CD_and_Release_Safety.ipynb",
+      "bytes": 17128,
+      "sha256": "900162326cac45cf4f60c23419375bc90cc511044f7d1c90328075e545e75539"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/07_Deployment_Patterns_and_AWS_Oriented_Architecture.ipynb",
+      "bytes": 17992,
+      "sha256": "0adfe4fd3e341432a8708458c35e218e3990114d98a109e8160d55e387b4bc4c"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/08_Monitoring_Drift_Incidents_and_Retraining.ipynb",
+      "bytes": 17708,
+      "sha256": "7644603d0cbdde782fec821baee4541d269af837d319d456c95940737ff93d2b"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/09_Responsible_AI_Privacy_Security_and_Governance.ipynb",
+      "bytes": 17586,
+      "sha256": "40016833a8244bccba72ee3784ec44fed480ada180fcd04086be49c5d98db478"
+    },
+    {
+      "path": "10_Real_World_ML_and_MLOps/10_End_to_End_ML_System_Design.ipynb",
+      "bytes": 17125,
+      "sha256": "0db62397a907e14085a59d6fe0fb66f697cf12139523e79a216caa8b6f5b3160"
+    },
+    {
+      "path": "11_Worked_Capstones/01_Retail_Sales_EDA_and_Visual_Story.ipynb",
+      "bytes": 10623,
+      "sha256": "d6de12115c59cabdd7ccf920813cc515b7c3a5bf2a316cf952de950851f7619b"
+    },
+    {
+      "path": "11_Worked_Capstones/02_Statistical_Process_Comparison.ipynb",
+      "bytes": 9781,
+      "sha256": "66b866b1ff40c1cb6cdb98b2e13ec0d4ff2bdd508baf7f135790d4f34488d1ae"
+    },
+    {
+      "path": "11_Worked_Capstones/03_House_Price_Regression.ipynb",
+      "bytes": 11287,
+      "sha256": "4ef5b9ab461f0e62e0bd8ff90bdd04b0f78d5ff9c555ab75cedcde01ddcba83c"
+    },
+    {
+      "path": "11_Worked_Capstones/04_Customer_Churn_Classification.ipynb",
+      "bytes": 11178,
+      "sha256": "271522b1e5f3effed34f9f1718d6fb4b232ef38b848b50fd37971acf338e64e8"
+    },
+    {
+      "path": "11_Worked_Capstones/05_Customer_Segmentation.ipynb",
+      "bytes": 9246,
+      "sha256": "a9a6766cc6804fa019c8bff4fa78e5e6c7bb62703f32121ef30860cb2520fa15"
+    },
+    {
+      "path": "11_Worked_Capstones/06_Operations_Anomaly_Detection.ipynb",
+      "bytes": 9662,
+      "sha256": "dd0fd093fa03929265370665aa9121edeee0667c0d441ffa54f8f0861a73ec4e"
+    },
+    {
+      "path": "11_Worked_Capstones/07_Demand_Forecasting_with_Time_Aware_Validation.ipynb",
+      "bytes": 10010,
+      "sha256": "fde1a5ac79443b8bb97f462966c6d911ace5a13ea81201178e766f82345b165d"
+    },
+    {
+      "path": "11_Worked_Capstones/08_CNN_Image_Classification.ipynb",
+      "bytes": 10737,
+      "sha256": "140ca7d60946375878bac735342033e603879a26477968528e5c51365aa5f048"
+    },
+    {
+      "path": "11_Worked_Capstones/09_Text_Sentiment_Classification.ipynb",
+      "bytes": 9382,
+      "sha256": "4fac9c9b36aab09524d521da8d1b315274743ac6c5f1a44a597bab019c0693e5"
+    },
+    {
+      "path": "11_Worked_Capstones/10_Production_Churn_Service.ipynb",
+      "bytes": 10448,
+      "sha256": "cd929f8df4e5a7ca3b7db5d95cd00db7c4ef09a63f50583f2a898b723ca3120c"
+    },
+    {
+      "path": "COURSE_INDEX.md",
+      "bytes": 20198,
+      "sha256": "b7a6db2c22adb88bbe2436b95e45db8dbb9921f5f2b28355d984ed1814f23662"
+    },
+    {
+      "path": "Dockerfile",
+      "bytes": 294,
+      "sha256": "0b1d0ebacd28285ac72359ec2739d6cdf4788a2f0c830c447a48274719a0da4d"
+    },
+    {
+      "path": "Makefile",
+      "bytes": 274,
+      "sha256": "a8b4423dae22937bf96d90c7bcc67261d6c994fc4ae568e2db6c512d68a0737f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6962,
+      "sha256": "71a2e08dfa3cabf87392dd0156be186466cc98c730735b2b25a269f5ad906cf6"
+    },
+    {
+      "path": "START_HERE.ipynb",
+      "bytes": 2554,
+      "sha256": "fa50d9ba2ccb2647617adfe858a610e3a64f30fc028c3dac9ee1af1170c1774e"
+    },
+    {
+      "path": "VALIDATION.md",
+      "bytes": 1661,
+      "sha256": "73e3c4b6590ddb279d815d59da8764aa866e5d2c59952fb1293070a6cd40deba"
+    },
+    {
+      "path": "artifacts/README.md",
+      "bytes": 167,
+      "sha256": "119acc12bbf092a46c4c685fb6bcc2f78a61f80e964e48327fbb99e476730392"
+    },
+    {
+      "path": "assessments/Phase_01_Assessment.ipynb",
+      "bytes": 6713,
+      "sha256": "cb50b5be509c4fc9616d8403924479980091257b077f489edab82159f63af7d6"
+    },
+    {
+      "path": "assessments/Phase_02_Assessment.ipynb",
+      "bytes": 6457,
+      "sha256": "667813de1fbdcc59f9390730c5b439b5c6839eb95e8008dff89b0ab7c781248b"
+    },
+    {
+      "path": "assessments/Phase_03_Assessment.ipynb",
+      "bytes": 5676,
+      "sha256": "566275fa87c20fcd131c7b08d003994242cb0dff817f1039d7c799332c616c14"
+    },
+    {
+      "path": "assessments/Phase_04_Assessment.ipynb",
+      "bytes": 6830,
+      "sha256": "d290238a8622aacb3e3941fd3d5c80f9e5585c53dc82f87289bd5d90429eb5cf"
+    },
+    {
+      "path": "assessments/Phase_05_Assessment.ipynb",
+      "bytes": 5742,
+      "sha256": "3e70cd9ca074fe0446e966f9983b5f95eb80e8a515cdf774bd876273ba632ca5"
+    },
+    {
+      "path": "assessments/Phase_06_Assessment.ipynb",
+      "bytes": 6475,
+      "sha256": "194cff349e6c588821b06005c3f8c741fe529087684d5a17e6df5f2efdd8b1a5"
+    },
+    {
+      "path": "assessments/Phase_07_Assessment.ipynb",
+      "bytes": 7835,
+      "sha256": "815819db313031ff192ebb82a22f7d42434508b5941a94a033e24569b8898276"
+    },
+    {
+      "path": "assessments/Phase_08_Assessment.ipynb",
+      "bytes": 6389,
+      "sha256": "c23880a5f45661c251a63f4afe0ce8f89d92e5562ae6844214f47478866cfe45"
+    },
+    {
+      "path": "assessments/Phase_09_Assessment.ipynb",
+      "bytes": 7849,
+      "sha256": "b00ecd49caf5bc6d64d240b73b37d618a258ce8408bef311d82a8c5235ce88b3"
+    },
+    {
+      "path": "assessments/Phase_10_Assessment.ipynb",
+      "bytes": 7216,
+      "sha256": "1faf4ef20f03070733fa1551ac2bed8f0b5269227e40533eeaa79ef5404641b7"
+    },
+    {
+      "path": "datasets/DATA_DICTIONARY.md",
+      "bytes": 5212,
+      "sha256": "efd8cc13c43f5163ad72da007111bd6bee8e634c2ffb65f706b5feb630371d5c"
+    },
+    {
+      "path": "datasets/application.log",
+      "bytes": 328,
+      "sha256": "598191b58c59d4506cf7d84295b8c46b0c0bac2cb12b5fd851c38dde9bc0f765"
+    },
+    {
+      "path": "datasets/customer_churn.csv",
+      "bytes": 74206,
+      "sha256": "79bfdb5f2df3c5974d3184325b99d4c4b0ea4e8a0254e36c84328734c6b9eebc"
+    },
+    {
+      "path": "datasets/customer_segments.csv",
+      "bytes": 33205,
+      "sha256": "bf4022275bb00173f4afbb8b2fc2ffc9ce565221d5a8abbdacf4c76a4c0585d9"
+    },
+    {
+      "path": "datasets/demand_timeseries.csv",
+      "bytes": 23046,
+      "sha256": "518e087a9e819fe14671bbd04fb5859abad6e1326d660347ab604d7269d5f4c6"
+    },
+    {
+      "path": "datasets/house_prices.csv",
+      "bytes": 40241,
+      "sha256": "f07d8607cf4110f79588705010203f4142e2877c36ad62e9fd5e3d06e5ccaa39"
+    },
+    {
+      "path": "datasets/images/simple_shapes_X.npy",
+      "bytes": 491648,
+      "sha256": "82fdab467d15bb1fb752870baa68449863a84e206bb5e6bcc25c1cadf20df741"
+    },
+    {
+      "path": "datasets/images/simple_shapes_y.npy",
+      "bytes": 3968,
+      "sha256": "cef1ba0ed4c915d7cfbf6920c2eedcc972772a2ece606710cde81032a0d16fe5"
+    },
+    {
+      "path": "datasets/messy_retail_sales.csv",
+      "bytes": 68180,
+      "sha256": "f1a82ba55833ecc68a75e780ffc049c9e0bf678e5c9b1335c168e516fe38dd92"
+    },
+    {
+      "path": "datasets/operations_anomalies.csv",
+      "bytes": 93737,
+      "sha256": "960ed5a0e105dca33b457ba99df8dcb579284e465573f79cad6057c77912768d"
+    },
+    {
+      "path": "datasets/retail_sales.csv",
+      "bytes": 145868,
+      "sha256": "480cb6b2c64532b3e744593dcda43eb52bd09cd3b501ae6c2ec5470d776312b5"
+    },
+    {
+      "path": "datasets/sample_config.json",
+      "bytes": 187,
+      "sha256": "9f74e78ac698cfc96aa9f85369758cc06aca0675d0fcf1348483c09e248311ab"
+    },
+    {
+      "path": "datasets/student_scores.csv",
+      "bytes": 7556,
+      "sha256": "7e104780d01702423ca317b1d7de07abaff2fba11b29ac483421fd6d202d95a1"
+    },
+    {
+      "path": "datasets/text_reviews.csv",
+      "bytes": 37725,
+      "sha256": "d114796466bde7e97c5556914e2cbbe0d4d3761919a888a463a2f4a5f573b0b2"
+    },
+    {
+      "path": "environment.yml",
+      "bytes": 139,
+      "sha256": "429cce78d82e1823effcf86cb9691080ac0fdcb9ca2f63c1a1b1ad56439b4c0e"
+    },
+    {
+      "path": "exercises/Phase_01_Lab.ipynb",
+      "bytes": 4950,
+      "sha256": "07e0932df46c922763a9876e126193b160816aeb882bd19ccffcf922aec13660"
+    },
+    {
+      "path": "exercises/Phase_02_Lab.ipynb",
+      "bytes": 4808,
+      "sha256": "81f50f77b2a17917c3fb713b37a2c3ebfeabb413b42f9ad124b012561120fd33"
+    },
+    {
+      "path": "exercises/Phase_03_Lab.ipynb",
+      "bytes": 4842,
+      "sha256": "a49aa27bb39f24674d5979f6a8bd7432d4874702a86b76d39cda3ab8535c3dc6"
+    },
+    {
+      "path": "exercises/Phase_04_Lab.ipynb",
+      "bytes": 4875,
+      "sha256": "3dd203ed87cd03a8a9111d12ceaefa918e2908e41af7b6bd37bfa2d785a05a7d"
+    },
+    {
+      "path": "exercises/Phase_05_Lab.ipynb",
+      "bytes": 4857,
+      "sha256": "a4b5d7e8435e1758f0aefa8c22827dc9f14e09f72e10b9bb57d637f491330ff2"
+    },
+    {
+      "path": "exercises/Phase_06_Lab.ipynb",
+      "bytes": 4867,
+      "sha256": "87edf4007b0c06487fb393d34de0fe168aef595b804d7457bf56ca6c8d3ee07d"
+    },
+    {
+      "path": "exercises/Phase_07_Lab.ipynb",
+      "bytes": 4910,
+      "sha256": "55c9be1644ceaf93ab0d29826c2509c2c4582a93bf42d018016e6e8c1c947289"
+    },
+    {
+      "path": "exercises/Phase_08_Lab.ipynb",
+      "bytes": 4873,
+      "sha256": "fba5365fe0482fac79182d0cea8068b6c27919ae28e38c7a65ab8ed63a7267b6"
+    },
+    {
+      "path": "exercises/Phase_09_Lab.ipynb",
+      "bytes": 4816,
+      "sha256": "52a68dc33723fbcafa8c83d6117b81089688781b249272654d3e38aeb3e26281"
+    },
+    {
+      "path": "exercises/Phase_10_Lab.ipynb",
+      "bytes": 4848,
+      "sha256": "3705d20544a33f81520ef89f3fda58bc3f1710da570865245d77aaf76fb0a842"
+    },
+    {
+      "path": "projects/Phase_01_Validated_Learning_Record_Processor.ipynb",
+      "bytes": 6117,
+      "sha256": "986df8f200aaa03293acc3ebcc0fc1c40fe28941799748608ad4851635fa9d10"
+    },
+    {
+      "path": "projects/Phase_02_Retail_Data_Preparation_Pipeline.ipynb",
+      "bytes": 5946,
+      "sha256": "5487362dc7e70d2f0510deabf6218d0d5e79be65731cb302e9e0f55521352290"
+    },
+    {
+      "path": "projects/Phase_03_Executive_Sales_Story.ipynb",
+      "bytes": 5970,
+      "sha256": "88e8e205db7a7823c9d6017ccf95bde2b278ae28903b8258f77eba905efddeb6"
+    },
+    {
+      "path": "projects/Phase_04_Statistical_Decision_Study.ipynb",
+      "bytes": 6029,
+      "sha256": "6647d6b00625cb0d09649e1a25844db88d0b9a55fcc1e1c65a02c25090eed63b"
+    },
+    {
+      "path": "projects/Phase_05_Customer_Churn_EDA_Report.ipynb",
+      "bytes": 6008,
+      "sha256": "89edaf6b6b745d619c09516678e073e0687f4e56cfa398889197d390a251f2df"
+    },
+    {
+      "path": "projects/Phase_06_Leakage_Safe_Baseline_Pipeline.ipynb",
+      "bytes": 6014,
+      "sha256": "147bbb4c599ce6a824f2488684523661ef4c56c52b21ebe9856fa2547e87cbca"
+    },
+    {
+      "path": "projects/Phase_07_House_Price_and_Churn_Modelling_Suite.ipynb",
+      "bytes": 6031,
+      "sha256": "f546b91d6f35d09d3fe034607f10ff07976dac8b4fac068e46b49b598b0dd779"
+    },
+    {
+      "path": "projects/Phase_08_Segmentation_and_Anomaly_Investigation.ipynb",
+      "bytes": 6022,
+      "sha256": "34cd8b6dfe10cc88302efbcd86c9cdb64a98b61101638abfd549ae932ebf6ec1"
+    },
+    {
+      "path": "projects/Phase_09_Multi_Modal_Deep_Learning_Portfolio.ipynb",
+      "bytes": 5971,
+      "sha256": "f04f1a8c15efcb18b8a55ad038ac592ad03303df14a77754a9e7f429c5a1534e"
+    },
+    {
+      "path": "projects/Phase_10_Production_Churn_Service.ipynb",
+      "bytes": 5962,
+      "sha256": "462c19acfbed45ba08f3747ccf47de4630e16a697f6d03dbd1ea164f356499d6"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 543,
+      "sha256": "b49179f9c249d77e62dd15d7d5079f0db01e689b285f7e3407be2d14c4fa2cbe"
+    },
+    {
+      "path": "reference/FORMULA_SHEET.md",
+      "bytes": 3794,
+      "sha256": "82ba0ea76ea38dcd9a2b1c8f4a02c093a1011921d3e6d9681c6c354f84f206dc"
+    },
+    {
+      "path": "reference/GLOSSARY.md",
+      "bytes": 14520,
+      "sha256": "803fba6a8d6f205535e6b64608f5d4eddc787ffcb92d0da1a9355b6edd94a914"
+    },
+    {
+      "path": "reference/INTERVIEW_QUESTION_BANK.md",
+      "bytes": 94509,
+      "sha256": "64a4e76a891e171a40d6496651378c93a9cdc7f35b8e4cc44ea88d526f5e5506"
+    },
+    {
+      "path": "reference/PORTFOLIO_GUIDE.md",
+      "bytes": 1167,
+      "sha256": "e5e78f18aeb9dd63e3af872ee9624d6da39cd8768b06a02fde3ecb8e2ffa4fd2"
+    },
+    {
+      "path": "reference/PROGRESS_TRACKER.csv",
+      "bytes": 7359,
+      "sha256": "24f3cc22cbd0d56eaa22773246a78b343f8384de1317471de38b5d415aec4ae6"
+    },
+    {
+      "path": "reference/STUDY_PLANS.md",
+      "bytes": 1471,
+      "sha256": "1d30e7641103b76d538135f3aaf4150086c46b8cfe59e8da55edb0fe81c84155"
+    },
+    {
+      "path": "reference/TROUBLESHOOTING.md",
+      "bytes": 2133,
+      "sha256": "c8fef69104b0ca45dde3af40be9aafe0f403f13e2535d9261bef16b1997f1a5e"
+    },
+    {
+      "path": "requirements-advanced.txt",
+      "bytes": 183,
+      "sha256": "af51da5eb09b4811f54b42142cdbcdbc8e454d17812df3a556cc3a249e3ee9ec"
+    },
+    {
+      "path": "requirements-core.txt",
+      "bytes": 205,
+      "sha256": "0beb5f235dc8736f4c797b610e6ae906bb9df3607d061e06f07e8944c647b5cb"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 183,
+      "sha256": "af51da5eb09b4811f54b42142cdbcdbc8e454d17812df3a556cc3a249e3ee9ec"
+    },
+    {
+      "path": "runtime_smoke_capstones.json",
+      "bytes": 1474,
+      "sha256": "7013c3b1a57dcba0616fdaf366d51feb3335159431a73029affdc327622082c3"
+    },
+    {
+      "path": "runtime_smoke_lessons_1_5.json",
+      "bytes": 5967,
+      "sha256": "09e32765a5077117eb417c9ebe2143f5db50711464089f4ab937291e95d25c58"
+    },
+    {
+      "path": "runtime_smoke_lessons_6_10.json",
+      "bytes": 7713,
+      "sha256": "69edfa283839073327b15a9b3394d2a8a967ccabc6d53750ffcf7e7bb18a06a4"
+    },
+    {
+      "path": "runtime_smoke_solutions.json",
+      "bytes": 1269,
+      "sha256": "58889f3ceef3786f3568a5f2d83f3f10df486937577a52a764c96bdac2402178"
+    },
+    {
+      "path": "runtime_validation_report.json",
+      "bytes": 940,
+      "sha256": "2028c52c115689db8977907d25126a91eb08b163bd33c3f0febb3fa319c15a45"
+    },
+    {
+      "path": "solutions/Phase_01_Assessment_Answer_Key.ipynb",
+      "bytes": 12047,
+      "sha256": "0dff6f13e60796dd65d1a132239c1625d936843457706c2791a5cf41aea6d297"
+    },
+    {
+      "path": "solutions/Phase_01_Lab_Solution.ipynb",
+      "bytes": 7480,
+      "sha256": "621be182226324b584141c1e70a8faa2971f6d60bdd8f460021b138783c4e892"
+    },
+    {
+      "path": "solutions/Phase_02_Assessment_Answer_Key.ipynb",
+      "bytes": 11513,
+      "sha256": "b3beaf31d0d4680c4ee40944badd1494c010b8c5884e9e63df971b673c761946"
+    },
+    {
+      "path": "solutions/Phase_02_Lab_Solution.ipynb",
+      "bytes": 6611,
+      "sha256": "15deb1ed40fa40c43e88056156e4bb85676ba70cf5739aeabe4c7a2c4802bfee"
+    },
+    {
+      "path": "solutions/Phase_03_Assessment_Answer_Key.ipynb",
+      "bytes": 9990,
+      "sha256": "966d4eeb744d45a487b3bed7b84c266ed51c0f32f1017ef34b3a54e485f74808"
+    },
+    {
+      "path": "solutions/Phase_03_Lab_Solution.ipynb",
+      "bytes": 6459,
+      "sha256": "e91ed8688cabff9edb0a4f2c4e124cb5ebebf6d4e5f4eaa256e306c69371669b"
+    },
+    {
+      "path": "solutions/Phase_04_Assessment_Answer_Key.ipynb",
+      "bytes": 12295,
+      "sha256": "2a04d06acf93262283d5c12d3a2535d4771189e80f9fb40c10db972f503a5103"
+    },
+    {
+      "path": "solutions/Phase_04_Lab_Solution.ipynb",
+      "bytes": 6290,
+      "sha256": "2ec053a87ea392680c0d98c4e92bfcecb85c1d9d75389e6a6ba16cdd6a5ded2e"
+    },
+    {
+      "path": "solutions/Phase_05_Assessment_Answer_Key.ipynb",
+      "bytes": 10101,
+      "sha256": "54a9bde6d689e8b7ddcd32e3e0417b0b1eef0ba46bd792b4e240dccfc0b720f0"
+    },
+    {
+      "path": "solutions/Phase_05_Lab_Solution.ipynb",
+      "bytes": 6362,
+      "sha256": "9a80970e76253df80dd9df6dd9da4edaff787a5872312465a50886442eb3001e"
+    },
+    {
+      "path": "solutions/Phase_06_Assessment_Answer_Key.ipynb",
+      "bytes": 11560,
+      "sha256": "0c84b4e72b518877c98494af477832e696be37cdfb426bb647a4987e5112c958"
+    },
+    {
+      "path": "solutions/Phase_06_Lab_Solution.ipynb",
+      "bytes": 6751,
+      "sha256": "0aed1d3f903444fb83ea3d9a49d3c6c2e84398e94273255d7e0234e0d014ea43"
+    },
+    {
+      "path": "solutions/Phase_07_Assessment_Answer_Key.ipynb",
+      "bytes": 14282,
+      "sha256": "95520d912630ee0315f349ee08ddbbc28d9e600baafa62b78adb64432b1727ab"
+    },
+    {
+      "path": "solutions/Phase_07_Lab_Solution.ipynb",
+      "bytes": 7315,
+      "sha256": "96ddd09b8b4de0b0e017874e38d5eca12a75b075369ad72713b343589de7e685"
+    },
+    {
+      "path": "solutions/Phase_08_Assessment_Answer_Key.ipynb",
+      "bytes": 11287,
+      "sha256": "5881072d91763c75d7a6cc5b10f355b9275822ddecf9ac1b8cebb282c36f6224"
+    },
+    {
+      "path": "solutions/Phase_08_Lab_Solution.ipynb",
+      "bytes": 6105,
+      "sha256": "75e68d4779d7f404949db82c753f82b165c8576e02345407536c97be2c8a5a79"
+    },
+    {
+      "path": "solutions/Phase_09_Assessment_Answer_Key.ipynb",
+      "bytes": 14571,
+      "sha256": "7098c97deb7cc3caa912af38b7b3a36cfa962a62c86d2ab3ae59498a2f3e7e69"
+    },
+    {
+      "path": "solutions/Phase_09_Lab_Solution.ipynb",
+      "bytes": 6392,
+      "sha256": "98b8ec4e6caf79c7366de16e8187d3f1cdf597ed0a2b7d54e1c84606d0a9a8af"
+    },
+    {
+      "path": "solutions/Phase_10_Assessment_Answer_Key.ipynb",
+      "bytes": 13297,
+      "sha256": "bf9af4fb04896e441de01f84289a31943e32964c028a048d32b209a30896c4cf"
+    },
+    {
+      "path": "solutions/Phase_10_Lab_Solution.ipynb",
+      "bytes": 6026,
+      "sha256": "ea237d236eda7286ed05a927d726a87f1ff902ef054eeb334f33c16f35fcc14a"
+    },
+    {
+      "path": "src/__init__.py",
+      "bytes": 65,
+      "sha256": "e08798c1b99e7a899e5964ac7ca0e82ed8f1ea5133e4f1f45dc560eb5a8a1c7c"
+    },
+    {
+      "path": "src/course_utils.py",
+      "bytes": 5201,
+      "sha256": "aa7e0e3926794cfd639cbb0cb53abbbad4cccb9b9066cba2c69f02fb96dc69dd"
+    },
+    {
+      "path": "src/production_example/__init__.py",
+      "bytes": 48,
+      "sha256": "d5df951da03b87381f5daa8b2f9dd5d5b84d94e51da71a7de33f02164881949b"
+    },
+    {
+      "path": "src/production_example/api.py",
+      "bytes": 1567,
+      "sha256": "941790ab3b5eddc1d5d73528ccf3f146e55ed8b78640d56a9cf86d4cbed4cbaf"
+    },
+    {
+      "path": "src/production_example/config.py",
+      "bytes": 254,
+      "sha256": "8696d016c73699c739ba6aad1370af413fb2a6118c81070a8dfdd1c8c3c6c068"
+    },
+    {
+      "path": "src/production_example/features.py",
+      "bytes": 958,
+      "sha256": "2aa4aa13bbf304b5e623e8b39df8d756fd10f6a935baa6091b49ada5c4b4f248"
+    },
+    {
+      "path": "src/production_example/predict.py",
+      "bytes": 712,
+      "sha256": "878035c704e034c31d94e9d2754ced6a99c6f3e6ab5a2a1f8651841e1623b48a"
+    },
+    {
+      "path": "src/production_example/train.py",
+      "bytes": 2198,
+      "sha256": "fd6ada44625c2fb71ec18106f9fc1e5ab085a70e99b0f5a1a082f1a1ee57abc5"
+    },
+    {
+      "path": "templates/EDA_REPORT_TEMPLATE.md",
+      "bytes": 493,
+      "sha256": "57224f7a8dc0ea469eb04364e837259c447cb6b6d7ee1340c0f26d75bbbbb316"
+    },
+    {
+      "path": "templates/EXPERIMENT_ANALYSIS_TEMPLATE.md",
+      "bytes": 347,
+      "sha256": "2e927946cb108cf5626b9102c51c8f773f42628b46fcdf790eb69c4f82da5282"
+    },
+    {
+      "path": "templates/MODEL_CARD_TEMPLATE.md",
+      "bytes": 647,
+      "sha256": "c25d5205960aa71a3a9ea4718fa2797cc9c6b4828e349b7d551ffa4fdca06084"
+    },
+    {
+      "path": "tests/conftest.py",
+      "bytes": 144,
+      "sha256": "6d34c88cfc06ba1a91f2333fa65f64d270aaa45f686f86b551dbb9dfbef88085"
+    },
+    {
+      "path": "tests/test_course_utils.py",
+      "bytes": 709,
+      "sha256": "962ab7d799373b21521d56e490ca7ae3f0ef0b67c7280c0081b6b08c25ed4742"
+    },
+    {
+      "path": "tests/test_production_features.py",
+      "bytes": 722,
+      "sha256": "ed1f30daa0feb258c6b189da418208fefcc9373821025ca40255264feee01507"
+    },
+    {
+      "path": "tools/runtime_smoke_test.py",
+      "bytes": 3563,
+      "sha256": "659a08149404cb44b8f7debbc98734461c1e8386f798e2c6e653f6e948ce6a88"
+    },
+    {
+      "path": "tools/verify_course.py",
+      "bytes": 2417,
+      "sha256": "4e3d5d5808c23916b0da30d72fea262a287863c2e44b83a621ac1d7cc92d3e51"
+    },
+    {
+      "path": "verification_report.json",
+      "bytes": 206,
+      "sha256": "af4e15edf0785e7581c6ed13ad1c222c80701d51729c8a07742df78b45d6e7a8"
+    }
+  ]
+}

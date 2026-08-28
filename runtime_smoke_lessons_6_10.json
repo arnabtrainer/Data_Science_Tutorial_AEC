@@ -1,0 +1,259 @@
+{
+  "group": "lessons_6_10",
+  "executed": 50,
+  "passed": 50,
+  "failed": 0,
+  "total_seconds": 20.375,
+  "results": [
+    {
+      "file": "06_Machine_Learning_Fundamentals/01_Problem_Formulation_and_Baseline_Models.ipynb",
+      "status": "pass",
+      "seconds": 0.77
+    },
+    {
+      "file": "06_Machine_Learning_Fundamentals/02_Train_Validation_Test_Group_and_Time_Splits.ipynb",
+      "status": "pass",
+      "seconds": 0.008
+    },
+    {
+      "file": "06_Machine_Learning_Fundamentals/03_Imputation_Encoding_Scaling_and_Feature_Engineering.ipynb",
+      "status": "pass",
+      "seconds": 0.042
+    },
+    {
+      "file": "06_Machine_Learning_Fundamentals/04_Scikit_learn_Estimators_Pipelines_and_ColumnTransformer.ipynb",
+      "status": "pass",
+      "seconds": 0.02
+    },
+    {
+      "file": "06_Machine_Learning_Fundamentals/05_Regression_and_Classification_Metrics.ipynb",
+      "status": "pass",
+      "seconds": 0.008
+    },
+    {
+      "file": "06_Machine_Learning_Fundamentals/06_Underfitting_Overfitting_Bias_Variance_and_Regularization.ipynb",
+      "status": "pass",
+      "seconds": 0.038
+    },
+    {
+      "file": "06_Machine_Learning_Fundamentals/07_Cross_Validation_and_Hyperparameter_Search.ipynb",
+      "status": "pass",
+      "seconds": 0.123
+    },
+    {
+      "file": "06_Machine_Learning_Fundamentals/08_Imbalance_Thresholds_Calibration_and_Error_Analysis.ipynb",
+      "status": "pass",
+      "seconds": 0.01
+    },
+    {
+      "file": "07_Supervised_Learning/01_Simple_Linear_Regression_from_First_Principles.ipynb",
+      "status": "pass",
+      "seconds": 0.023
+    },
+    {
+      "file": "07_Supervised_Learning/02_Multiple_Regression_and_Diagnostics.ipynb",
+      "status": "pass",
+      "seconds": 0.334
+    },
+    {
+      "file": "07_Supervised_Learning/03_Polynomial_Regression_Ridge_Lasso_and_Elastic_Net.ipynb",
+      "status": "pass",
+      "seconds": 0.039
+    },
+    {
+      "file": "07_Supervised_Learning/04_K_Nearest_Neighbours.ipynb",
+      "status": "pass",
+      "seconds": 0.113
+    },
+    {
+      "file": "07_Supervised_Learning/05_Logistic_Regression_from_First_Principles.ipynb",
+      "status": "pass",
+      "seconds": 0.024
+    },
+    {
+      "file": "07_Supervised_Learning/06_Naive_Bayes_and_Linear_Discriminant_Analysis.ipynb",
+      "status": "pass",
+      "seconds": 0.022
+    },
+    {
+      "file": "07_Supervised_Learning/07_Decision_Trees_and_Pruning.ipynb",
+      "status": "pass",
+      "seconds": 0.033
+    },
+    {
+      "file": "07_Supervised_Learning/08_Random_Forests_and_Extra_Trees.ipynb",
+      "status": "pass",
+      "seconds": 1.87
+    },
+    {
+      "file": "07_Supervised_Learning/09_Gradient_Boosting_and_XGBoost_Concepts.ipynb",
+      "status": "pass",
+      "seconds": 1.911
+    },
+    {
+      "file": "07_Supervised_Learning/10_Support_Vector_Machines_and_Kernels.ipynb",
+      "status": "pass",
+      "seconds": 0.163
+    },
+    {
+      "file": "07_Supervised_Learning/11_Voting_Bagging_Boosting_and_Stacking.ipynb",
+      "status": "pass",
+      "seconds": 7.063
+    },
+    {
+      "file": "07_Supervised_Learning/12_Explainability_Importance_PDP_ICE_and_SHAP_Concepts.ipynb",
+      "status": "pass",
+      "seconds": 2.84
+    },
+    {
+      "file": "08_Unsupervised_Learning/01_Distance_Scaling_and_Cluster_Validation.ipynb",
+      "status": "pass",
+      "seconds": 0.008
+    },
+    {
+      "file": "08_Unsupervised_Learning/02_K_Means_from_First_Principles.ipynb",
+      "status": "pass",
+      "seconds": 0.009
+    },
+    {
+      "file": "08_Unsupervised_Learning/03_Hierarchical_Clustering_and_DBSCAN.ipynb",
+      "status": "pass",
+      "seconds": 0.113
+    },
+    {
+      "file": "08_Unsupervised_Learning/04_Gaussian_Mixture_Models_and_Soft_Clustering.ipynb",
+      "status": "pass",
+      "seconds": 0.596
+    },
+    {
+      "file": "08_Unsupervised_Learning/05_Principal_Component_Analysis_from_First_Principles.ipynb",
+      "status": "pass",
+      "seconds": 0.006
+    },
+    {
+      "file": "08_Unsupervised_Learning/06_t_SNE_and_UMAP_Concepts.ipynb",
+      "status": "pass",
+      "seconds": 0.861
+    },
+    {
+      "file": "08_Unsupervised_Learning/07_Anomaly_Detection.ipynb",
+      "status": "pass",
+      "seconds": 0.241
+    },
+    {
+      "file": "08_Unsupervised_Learning/08_Association_Rules_and_Market_Basket_Analysis.ipynb",
+      "status": "pass",
+      "seconds": 0.011
+    },
+    {
+      "file": "09_Deep_Learning/01_PyTorch_Tensors_Devices_and_Autograd.ipynb",
+      "status": "pass",
+      "seconds": 1.277
+    },
+    {
+      "file": "09_Deep_Learning/02_Neurons_Activations_Outputs_and_Losses.ipynb",
+      "status": "pass",
+      "seconds": 0.003
+    },
+    {
+      "file": "09_Deep_Learning/03_Backpropagation_from_First_Principles.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "09_Deep_Learning/04_Datasets_DataLoaders_Training_Loops_and_Optimizers.ipynb",
+      "status": "pass",
+      "seconds": 1.278
+    },
+    {
+      "file": "09_Deep_Learning/05_Feed_Forward_Networks_for_Tabular_Data.ipynb",
+      "status": "pass",
+      "seconds": 0.142
+    },
+    {
+      "file": "09_Deep_Learning/06_Initialization_Normalization_Dropout_Schedules_and_Early_Stopping.ipynb",
+      "status": "pass",
+      "seconds": 0.002
+    },
+    {
+      "file": "09_Deep_Learning/07_Convolutional_Neural_Networks.ipynb",
+      "status": "pass",
+      "seconds": 0.197
+    },
+    {
+      "file": "09_Deep_Learning/08_Transfer_Learning_and_Fine_Tuning.ipynb",
+      "status": "pass",
+      "seconds": 0.002
+    },
+    {
+      "file": "09_Deep_Learning/09_RNNs_LSTMs_and_GRUs.ipynb",
+      "status": "pass",
+      "seconds": 0.069
+    },
+    {
+      "file": "09_Deep_Learning/10_Attention_from_First_Principles.ipynb",
+      "status": "pass",
+      "seconds": 0.003
+    },
+    {
+      "file": "09_Deep_Learning/11_Transformer_Encoders_and_Text_Classification.ipynb",
+      "status": "pass",
+      "seconds": 0.009
+    },
+    {
+      "file": "09_Deep_Learning/12_Deep_Learning_Debugging_Evaluation_Reproducibility_and_Serving.ipynb",
+      "status": "pass",
+      "seconds": 0.008
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/01_Production_Project_Structure_Configuration_Logging_and_Typing.ipynb",
+      "status": "pass",
+      "seconds": 0.003
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/02_Data_Contracts_Validation_and_Testing_Strategy.ipynb",
+      "status": "pass",
+      "seconds": 0.002
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/03_Experiment_Tracking_Reproducibility_and_Model_Registry.ipynb",
+      "status": "pass",
+      "seconds": 0.002
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/04_Serialization_Batch_Inference_and_Feature_Parity.ipynb",
+      "status": "pass",
+      "seconds": 0.053
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/05_FastAPI_Model_Serving_and_API_Design.ipynb",
+      "status": "pass",
+      "seconds": 0.002
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/06_Containers_CI_CD_and_Release_Safety.ipynb",
+      "status": "pass",
+      "seconds": 0.001
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/07_Deployment_Patterns_and_AWS_Oriented_Architecture.ipynb",
+      "status": "pass",
+      "seconds": 0.007
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/08_Monitoring_Drift_Incidents_and_Retraining.ipynb",
+      "status": "pass",
+      "seconds": 0.005
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/09_Responsible_AI_Privacy_Security_and_Governance.ipynb",
+      "status": "pass",
+      "seconds": 0.007
+    },
+    {
+      "file": "10_Real_World_ML_and_MLOps/10_End_to_End_ML_System_Design.ipynb",
+      "status": "pass",
+      "seconds": 0.003
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "group": "capstones",
+  "executed": 10,
+  "passed": 10,
+  "failed": 0,
+  "total_seconds": 7.659,
+  "results": [
+    {
+      "file": "11_Worked_Capstones/01_Retail_Sales_EDA_and_Visual_Story.ipynb",
+      "status": "pass",
+      "seconds": 0.326
+    },
+    {
+      "file": "11_Worked_Capstones/02_Statistical_Process_Comparison.ipynb",
+      "status": "pass",
+      "seconds": 0.68
+    },
+    {
+      "file": "11_Worked_Capstones/03_House_Price_Regression.ipynb",
+      "status": "pass",
+      "seconds": 1.823
+    },
+    {
+      "file": "11_Worked_Capstones/04_Customer_Churn_Classification.ipynb",
+      "status": "pass",
+      "seconds": 0.179
+    },
+    {
+      "file": "11_Worked_Capstones/05_Customer_Segmentation.ipynb",
+      "status": "pass",
+      "seconds": 1.285
+    },
+    {
+      "file": "11_Worked_Capstones/06_Operations_Anomaly_Detection.ipynb",
+      "status": "pass",
+      "seconds": 0.341
+    },
+    {
+      "file": "11_Worked_Capstones/07_Demand_Forecasting_with_Time_Aware_Validation.ipynb",
+      "status": "pass",
+      "seconds": 0.237
+    },
+    {
+      "file": "11_Worked_Capstones/08_CNN_Image_Classification.ipynb",
+      "status": "pass",
+      "seconds": 2.385
+    },
+    {
+      "file": "11_Worked_Capstones/09_Text_Sentiment_Classification.ipynb",
+      "status": "pass",
+      "seconds": 0.137
+    },
+    {
+      "file": "11_Worked_Capstones/10_Production_Churn_Service.ipynb",
+      "status": "pass",
+      "seconds": 0.266
+    }
+  ]
+}

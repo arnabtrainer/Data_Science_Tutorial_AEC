@@ -1,0 +1,38 @@
+{
+  "status": "pass",
+  "validation_method": "Every code cell in all lesson, reference-solution, and worked-capstone notebooks was executed sequentially from the course root in an isolated namespace. Representative notebooks were also executed with Jupyter kernels during generation.",
+  "groups": [
+    {
+      "group": "lessons_1_5",
+      "executed": 38,
+      "passed": 38,
+      "failed": 0,
+      "total_seconds": 1.289
+    },
+    {
+      "group": "lessons_6_10",
+      "executed": 50,
+      "passed": 50,
+      "failed": 0,
+      "total_seconds": 20.375
+    },
+    {
+      "group": "solutions",
+      "executed": 10,
+      "passed": 10,
+      "failed": 0,
+      "total_seconds": 6.115
+    },
+    {
+      "group": "capstones",
+      "executed": 10,
+      "passed": 10,
+      "failed": 0,
+      "total_seconds": 7.659
+    }
+  ],
+  "total_notebooks_executed": 108,
+  "total_passed": 108,
+  "total_failed": 0,
+  "total_seconds": 35.438
+}

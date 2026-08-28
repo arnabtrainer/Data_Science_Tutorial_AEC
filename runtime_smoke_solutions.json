@@ -1,0 +1,59 @@
+{
+  "group": "solutions",
+  "executed": 10,
+  "passed": 10,
+  "failed": 0,
+  "total_seconds": 6.115,
+  "results": [
+    {
+      "file": "solutions/Phase_01_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 0.294
+    },
+    {
+      "file": "solutions/Phase_02_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 0.037
+    },
+    {
+      "file": "solutions/Phase_03_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 0.304
+    },
+    {
+      "file": "solutions/Phase_04_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 1.007
+    },
+    {
+      "file": "solutions/Phase_05_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 0.156
+    },
+    {
+      "file": "solutions/Phase_06_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 0.351
+    },
+    {
+      "file": "solutions/Phase_07_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 0.753
+    },
+    {
+      "file": "solutions/Phase_08_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 0.73
+    },
+    {
+      "file": "solutions/Phase_09_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 2.416
+    },
+    {
+      "file": "solutions/Phase_10_Lab_Solution.ipynb",
+      "status": "pass",
+      "seconds": 0.067
+    }
+  ]
+}
