@@ -1,0 +1,1601 @@
+customer_id,tenure_months,monthly_charges,support_tickets_90d,weekly_usage_hours,contract_type,internet_service,autopay,senior_citizen,churn
+C00001,6,55.48,4,28.0,Month-to-month,Fiber,1,1,1
+C00002,10,108.32,0,21.3,Month-to-month,DSL,0,1,1
+C00003,62,83.4,1,33.9,Month-to-month,Fiber,0,0,0
+C00004,21,48.98,1,28.7,Month-to-month,DSL,1,1,1
+C00005,1,54.4,3,26.0,One year,Fiber,0,0,1
+C00006,8,67.18,3,31.5,Month-to-month,DSL,1,1,0
+C00007,66,74.87,2,22.9,Month-to-month,Fiber,1,0,1
+C00008,67,82.16,2,22.3,Month-to-month,Fiber,0,1,0
+C00009,12,71.95,1,18.3,Month-to-month,DSL,1,1,1
+C00010,21,62.24,1,39.8,One year,Fiber,0,0,0
+C00011,14,109.86,2,20.0,Month-to-month,DSL,0,1,0
+C00012,36,68.81,0,16.6,Month-to-month,DSL,0,0,0
+C00013,60,67.21,1,19.0,One year,Fiber,0,0,0
+C00014,55,65.92,2,36.9,One year,Fiber,0,1,0
+C00015,28,68.83,3,43.4,Two year,DSL,0,1,0
+C00016,51,33.85,1,44.5,One year,None,0,1,0
+C00017,19,43.91,2,37.0,One year,Fiber,0,0,0
+C00018,66,140.49,1,41.5,Two year,None,0,1,0
+C00019,43,25.79,1,33.2,Two year,Fiber,0,1,0
+C00020,67,79.61,3,40.4,Two year,Fiber,1,1,0
+C00021,19,81.59,2,40.2,One year,DSL,1,1,0
+C00022,69,100.36,1,23.8,Two year,Fiber,1,0,0
+C00023,21,82.27,1,18.9,Month-to-month,DSL,0,0,0
+C00024,50,124.94,1,52.9,Two year,Fiber,1,1,0
+C00025,4,78.71,1,35.8,Month-to-month,Fiber,0,1,1
+C00026,17,109.74,0,48.7,Month-to-month,None,0,0,1
+C00027,39,101.12,0,18.6,Month-to-month,Fiber,1,1,0
+C00028,37,115.18,1,28.3,One year,DSL,0,1,1
+C00029,10,72.7,0,14.7,Month-to-month,None,1,0,0
+C00030,1,83.14,2,43.0,One year,DSL,1,0,1
+C00031,61,61.66,0,25.4,Month-to-month,None,1,0,0
+C00032,18,76.47,2,26.2,Month-to-month,None,1,1,0
+C00033,55,78.02,3,61.4,Two year,Fiber,0,1,0
+C00034,13,18.0,1,43.3,Month-to-month,DSL,1,0,0
+C00035,21,67.99,1,43.2,One year,Fiber,0,1,1
+C00036,2,96.92,1,17.2,Two year,DSL,1,1,0
+C00037,39,34.19,3,8.0,Month-to-month,DSL,0,1,1
+C00038,38,44.38,2,47.6,Month-to-month,Fiber,0,0,0
+C00039,42,104.36,1,2.6,Month-to-month,DSL,0,1,1
+C00040,54,109.61,1,27.0,Month-to-month,Fiber,0,1,0
+C00041,48,54.62,0,22.6,One year,DSL,1,1,0
+C00042,15,76.87,2,21.0,Month-to-month,Fiber,0,0,1
+C00043,31,69.81,2,27.8,Month-to-month,Fiber,1,0,0
+C00044,6,104.96,1,19.2,One year,DSL,1,0,1
+C00045,47,57.07,3,17.0,One year,Fiber,0,1,1
+C00046,29,61.4,1,37.6,Month-to-month,DSL,0,1,0
+C00047,13,109.54,3,48.9,Month-to-month,DSL,1,0,0
+C00048,64,43.91,1,9.7,Month-to-month,DSL,1,0,0
+C00049,34,58.06,5,36.7,Month-to-month,DSL,1,0,0
+C00050,4,75.72,3,41.6,Month-to-month,None,0,1,1
+C00051,7,114.67,3,40.3,One year,Fiber,1,1,1
+C00052,21,38.58,0,30.9,Two year,DSL,0,1,0
+C00053,68,52.1,0,25.6,Month-to-month,Fiber,0,0,0
+C00054,8,88.59,2,44.6,Month-to-month,Fiber,1,0,1
+C00055,29,92.91,1,38.7,Month-to-month,DSL,1,1,1
+C00056,29,77.92,3,7.5,One year,DSL,0,1,1
+C00057,45,68.73,0,30.9,One year,DSL,0,1,0
+C00058,44,75.63,3,34.8,One year,DSL,0,0,0
+C00059,36,29.8,3,18.7,Month-to-month,Fiber,0,1,1
+C00060,59,74.84,3,30.6,Month-to-month,None,1,0,0
+C00061,2,113.5,0,40.9,Two year,Fiber,0,0,0
+C00062,29,35.04,0,22.4,Month-to-month,Fiber,0,0,0
+C00063,5,50.05,4,37.3,Month-to-month,Fiber,1,0,1
+C00064,22,60.89,0,20.1,One year,None,0,0,0
+C00065,20,62.65,3,16.7,One year,Fiber,1,1,0
+C00066,64,123.56,1,42.6,Month-to-month,Fiber,1,0,0
+C00067,49,45.91,2,50.4,One year,Fiber,0,0,0
+C00068,18,40.31,2,17.4,Month-to-month,Fiber,0,1,0
+C00069,47,93.59,1,47.3,Two year,Fiber,0,0,0
+C00070,60,53.89,1,33.8,One year,Fiber,0,0,0
+C00071,14,94.05,0,3.0,One year,Fiber,1,1,0
+C00072,41,66.48,2,13.9,Month-to-month,Fiber,0,0,1
+C00073,36,84.85,1,42.5,Month-to-month,Fiber,1,0,0
+C00074,66,28.1,2,11.3,One year,Fiber,0,0,0
+C00075,27,84.76,1,25.3,Month-to-month,Fiber,1,0,1
+C00076,49,78.1,0,32.9,Month-to-month,DSL,1,0,0
+C00077,41,64.85,1,40.3,Two year,Fiber,1,0,0
+C00078,24,37.48,1,36.6,Two year,Fiber,1,1,0
+C00079,25,78.07,2,56.0,Two year,Fiber,1,1,0
+C00080,63,92.27,1,22.6,Month-to-month,None,1,0,0
+C00081,65,57.13,2,35.4,Month-to-month,None,0,1,0
+C00082,19,57.68,1,40.3,Month-to-month,Fiber,0,1,1
+C00083,35,94.23,2,44.0,One year,Fiber,0,1,1
+C00084,11,119.89,0,48.7,Two year,Fiber,0,1,1
+C00085,31,98.31,2,,Month-to-month,Fiber,1,1,0
+C00086,63,78.42,4,43.1,Month-to-month,Fiber,0,1,1
+C00087,51,65.19,3,21.0,Two year,Fiber,0,0,0
+C00088,35,71.23,0,32.9,Month-to-month,Fiber,1,0,0
+C00089,57,34.89,0,41.0,Month-to-month,Fiber,0,0,0
+C00090,40,67.68,2,47.7,Two year,Fiber,0,0,0
+C00091,32,103.36,1,42.0,Month-to-month,Fiber,1,0,0
+C00092,2,73.11,1,35.3,One year,Fiber,0,0,1
+C00093,8,54.49,1,32.9,Two year,DSL,0,1,0
+C00094,39,51.9,0,41.7,Two year,Fiber,1,1,0
+C00095,7,71.11,0,64.6,Month-to-month,Fiber,1,0,1
+C00096,1,37.43,2,46.0,One year,None,1,1,1
+C00097,24,46.56,1,39.3,One year,Fiber,0,1,0
+C00098,41,114.92,0,14.8,Two year,Fiber,0,0,0
+C00099,53,42.99,2,22.2,Month-to-month,DSL,1,0,0
+C00100,70,49.56,1,29.5,One year,Fiber,1,1,0
+C00101,48,80.16,0,46.7,Two year,Fiber,0,0,0
+C00102,71,59.63,2,20.9,Month-to-month,DSL,1,0,0
+C00103,21,74.48,1,43.0,One year,DSL,1,0,0
+C00104,48,96.16,1,35.7,Month-to-month,DSL,0,0,1
+C00105,1,28.68,1,39.0,Month-to-month,Fiber,0,0,1
+C00106,10,93.12,2,31.0,Month-to-month,Fiber,1,1,0
+C00107,47,55.69,1,25.6,Month-to-month,Fiber,0,0,0
+C00108,23,63.99,3,20.4,Month-to-month,Fiber,0,1,1
+C00109,41,125.82,4,42.6,One year,DSL,0,1,1
+C00110,68,32.73,0,32.9,Month-to-month,DSL,1,0,0
+C00111,56,88.54,1,18.9,Month-to-month,Fiber,0,0,1
+C00112,26,103.58,0,37.1,Month-to-month,None,1,1,1
+C00113,50,52.86,3,81.9,One year,Fiber,1,1,0
+C00114,67,53.3,0,31.2,Month-to-month,None,1,0,0
+C00115,18,61.68,2,57.2,One year,Fiber,0,1,0
+C00116,40,52.7,2,1.0,Two year,DSL,1,1,0
+C00117,53,73.86,1,30.2,One year,DSL,1,0,0
+C00118,48,96.99,1,47.4,One year,DSL,1,1,0
+C00119,36,61.83,2,34.2,One year,DSL,0,0,0
+C00120,32,98.0,1,25.0,One year,DSL,0,1,0
+C00121,42,111.23,1,33.6,Month-to-month,DSL,1,1,1
+C00122,36,84.07,1,47.8,Month-to-month,DSL,1,1,1
+C00123,26,86.71,0,64.0,Two year,Fiber,1,1,0
+C00124,63,55.37,1,48.9,Two year,Fiber,1,1,0
+C00125,57,18.0,1,26.9,One year,DSL,0,1,0
+C00126,47,88.4,0,30.7,One year,Fiber,0,1,0
+C00127,15,94.3,2,30.8,One year,Fiber,0,0,0
+C00128,38,78.79,1,21.9,Month-to-month,Fiber,1,1,0
+C00129,15,97.47,1,31.8,Month-to-month,Fiber,0,0,1
+C00130,12,56.65,0,30.2,Month-to-month,DSL,1,0,1
+C00131,18,86.52,1,17.2,One year,DSL,0,1,1
+C00132,12,113.22,3,45.7,One year,Fiber,0,0,0
+C00133,57,90.64,2,39.9,Month-to-month,Fiber,0,0,1
+C00134,38,109.6,2,25.0,Month-to-month,Fiber,1,1,0
+C00135,53,109.78,1,36.1,Two year,None,1,0,0
+C00136,71,37.8,2,20.5,One year,DSL,0,0,0
+C00137,20,92.14,0,26.3,Two year,Fiber,0,1,1
+C00138,15,54.31,4,43.6,Month-to-month,Fiber,1,1,1
+C00139,11,40.99,0,40.6,Month-to-month,DSL,1,1,1
+C00140,2,64.0,3,26.8,One year,DSL,1,0,1
+C00141,3,121.12,4,38.4,Month-to-month,Fiber,1,1,1
+C00142,43,56.77,2,33.0,Month-to-month,DSL,0,0,0
+C00143,50,22.77,3,20.0,Month-to-month,Fiber,0,1,0
+C00144,22,31.55,1,31.7,One year,None,1,0,0
+C00145,39,85.39,0,40.0,Month-to-month,DSL,1,1,0
+C00146,15,50.75,0,38.3,Month-to-month,Fiber,1,1,0
+C00147,51,18.0,1,10.3,Month-to-month,DSL,1,0,0
+C00148,52,32.66,2,36.3,Month-to-month,DSL,1,1,0
+C00149,51,76.67,5,34.4,One year,Fiber,0,0,0
+C00150,37,93.83,2,7.4,Two year,DSL,0,0,0
+C00151,61,59.52,0,22.7,Month-to-month,Fiber,1,0,0
+C00152,7,90.17,1,40.9,One year,Fiber,0,1,1
+C00153,30,97.62,1,53.4,Month-to-month,None,1,1,1
+C00154,5,50.06,1,11.0,One year,DSL,1,0,0
+C00155,60,68.61,3,47.7,Two year,Fiber,1,1,0
+C00156,6,55.19,2,7.7,Month-to-month,Fiber,0,0,1
+C00157,32,87.09,1,53.6,Two year,DSL,1,1,0
+C00158,14,54.86,1,30.7,Month-to-month,DSL,0,0,1
+C00159,51,38.03,2,24.0,Two year,Fiber,0,1,0
+C00160,29,73.47,5,39.0,One year,DSL,1,0,0
+C00161,40,103.09,0,20.5,Month-to-month,DSL,0,0,0
+C00162,70,86.3,1,41.2,One year,DSL,1,0,0
+C00163,67,100.19,3,32.3,Month-to-month,Fiber,1,0,0
+C00164,31,97.73,1,1.0,Two year,None,0,1,0
+C00165,27,73.18,4,22.7,Month-to-month,Fiber,0,1,1
+C00166,22,55.27,2,36.7,One year,DSL,0,0,1
+C00167,50,47.65,1,48.9,Month-to-month,Fiber,1,1,0
+C00168,72,27.57,0,38.6,Month-to-month,None,1,0,0
+C00169,44,105.31,2,48.7,Two year,DSL,0,1,0
+C00170,41,62.74,1,21.5,One year,DSL,1,0,0
+C00171,72,24.27,1,44.2,Month-to-month,Fiber,0,0,0
+C00172,14,106.56,0,44.4,Two year,DSL,0,1,0
+C00173,6,74.64,2,11.2,Two year,Fiber,1,0,0
+C00174,7,99.1,2,49.4,Two year,Fiber,0,0,1
+C00175,44,64.68,1,38.6,Month-to-month,None,1,0,0
+C00176,65,49.79,0,30.1,Two year,DSL,0,1,1
+C00177,17,84.48,1,29.8,Month-to-month,DSL,1,1,1
+C00178,53,86.8,0,19.5,One year,Fiber,1,0,0
+C00179,64,64.16,1,42.8,Two year,Fiber,1,0,0
+C00180,66,108.78,3,38.2,Month-to-month,Fiber,1,1,1
+C00181,58,98.47,1,42.2,Month-to-month,Fiber,0,1,0
+C00182,27,87.81,0,35.1,Two year,None,0,1,0
+C00183,48,40.92,0,36.9,Month-to-month,DSL,1,1,0
+C00184,40,36.98,0,29.9,Month-to-month,Fiber,0,0,0
+C00185,35,105.57,2,49.1,Month-to-month,Fiber,0,1,1
+C00186,51,18.0,1,42.5,One year,Fiber,1,0,0
+C00187,50,69.45,3,36.4,Month-to-month,Fiber,1,0,1
+C00188,59,76.11,3,32.1,Month-to-month,DSL,1,0,0
+C00189,40,58.29,1,9.2,Two year,Fiber,1,0,0
+C00190,48,71.01,1,6.2,One year,Fiber,1,0,1
+C00191,21,83.77,3,28.8,One year,Fiber,1,0,1
+C00192,35,55.56,4,51.8,Month-to-month,DSL,0,1,0
+C00193,59,96.68,2,24.1,Two year,Fiber,0,0,0
+C00194,56,88.31,0,24.7,Month-to-month,Fiber,0,1,0
+C00195,37,66.96,3,20.4,Two year,None,1,0,0
+C00196,41,48.86,1,15.9,Month-to-month,DSL,1,0,1
+C00197,19,69.46,2,21.2,Two year,Fiber,0,0,1
+C00198,28,131.1,2,37.9,Two year,DSL,1,1,0
+C00199,48,50.79,1,27.1,Month-to-month,Fiber,1,1,0
+C00200,9,114.86,1,26.5,Month-to-month,DSL,0,0,1
+C00201,2,22.85,0,25.2,Month-to-month,Fiber,1,1,1
+C00202,44,47.9,0,37.3,Month-to-month,Fiber,0,1,0
+C00203,52,56.81,2,39.5,Month-to-month,Fiber,1,1,1
+C00204,71,98.57,0,7.8,Month-to-month,Fiber,1,1,0
+C00205,34,73.55,3,23.4,Month-to-month,Fiber,1,0,1
+C00206,9,108.68,2,32.7,Month-to-month,Fiber,1,0,1
+C00207,46,62.69,0,40.1,Month-to-month,Fiber,1,1,0
+C00208,23,70.49,2,35.8,One year,Fiber,0,1,1
+C00209,12,62.8,0,45.5,Month-to-month,Fiber,0,0,0
+C00210,45,128.74,2,14.2,Month-to-month,Fiber,1,1,1
+C00211,52,40.63,1,39.8,Month-to-month,DSL,1,1,0
+C00212,4,57.77,1,62.7,Month-to-month,DSL,0,0,1
+C00213,53,44.62,2,34.7,Month-to-month,None,1,1,0
+C00214,42,88.05,2,35.2,Month-to-month,Fiber,1,0,1
+C00215,54,40.05,2,41.3,Month-to-month,Fiber,1,0,1
+C00216,46,123.02,4,26.4,Month-to-month,Fiber,0,1,1
+C00217,34,74.26,1,20.7,Month-to-month,DSL,1,0,0
+C00218,25,83.55,2,34.8,One year,Fiber,0,1,0
+C00219,47,84.97,3,10.8,Two year,DSL,0,0,0
+C00220,15,71.44,1,39.5,One year,None,1,1,0
+C00221,40,75.41,0,41.9,Month-to-month,Fiber,0,0,0
+C00222,55,74.37,0,11.5,Month-to-month,Fiber,0,1,0
+C00223,17,86.54,2,36.3,One year,Fiber,1,0,1
+C00224,7,48.97,0,31.0,One year,DSL,1,1,0
+C00225,2,44.22,2,54.7,Month-to-month,DSL,0,0,0
+C00226,40,94.99,4,52.3,One year,Fiber,1,0,0
+C00227,30,71.95,0,45.8,Month-to-month,Fiber,1,1,0
+C00228,48,18.0,0,50.9,Month-to-month,DSL,1,0,0
+C00229,59,58.69,2,28.9,One year,Fiber,1,0,0
+C00230,71,114.84,0,37.6,Two year,DSL,0,0,0
+C00231,24,67.51,1,30.5,Two year,Fiber,1,0,0
+C00232,9,57.13,1,20.0,Two year,Fiber,0,0,0
+C00233,54,30.15,1,35.2,Month-to-month,Fiber,1,1,0
+C00234,2,56.1,2,32.8,Month-to-month,DSL,1,1,1
+C00235,47,39.41,0,31.2,Month-to-month,Fiber,1,1,0
+C00236,20,84.02,2,33.2,Month-to-month,Fiber,1,1,1
+C00237,26,73.38,0,34.9,One year,Fiber,0,0,0
+C00238,9,61.82,2,46.4,Month-to-month,DSL,1,1,1
+C00239,1,50.66,0,25.8,Month-to-month,Fiber,0,1,1
+C00240,14,114.74,1,16.1,Two year,DSL,0,1,0
+C00241,32,52.25,1,43.5,Month-to-month,None,1,0,0
+C00242,22,52.36,1,46.0,Month-to-month,Fiber,0,1,1
+C00243,29,65.2,1,39.0,Two year,None,1,1,0
+C00244,9,69.11,3,18.1,Month-to-month,Fiber,0,1,1
+C00245,10,85.5,1,32.2,Two year,DSL,1,1,0
+C00246,54,98.05,2,38.0,Month-to-month,Fiber,0,0,1
+C00247,59,95.96,0,19.0,Month-to-month,DSL,0,0,0
+C00248,54,140.04,2,23.3,Month-to-month,DSL,0,0,1
+C00249,69,24.6,0,31.9,Month-to-month,Fiber,0,0,0
+C00250,53,78.46,2,50.6,Month-to-month,Fiber,0,1,0
+C00251,9,57.43,3,37.2,One year,Fiber,0,1,1
+C00252,54,128.27,2,26.0,Month-to-month,Fiber,0,0,0
+C00253,17,76.92,0,31.2,Month-to-month,DSL,0,1,0
+C00254,56,18.0,3,24.7,Month-to-month,DSL,0,0,0
+C00255,46,84.16,3,28.2,One year,Fiber,1,1,0
+C00256,61,79.47,1,44.1,Month-to-month,Fiber,1,1,1
+C00257,69,93.22,2,7.1,Month-to-month,None,1,0,1
+C00258,50,51.74,3,52.4,Two year,Fiber,1,1,1
+C00259,68,81.18,3,64.6,Two year,DSL,0,0,0
+C00260,39,64.43,1,36.3,Month-to-month,Fiber,0,1,1
+C00261,68,53.2,0,22.4,Month-to-month,DSL,0,1,0
+C00262,7,81.6,1,50.3,One year,DSL,0,0,0
+C00263,32,76.28,1,37.9,Month-to-month,Fiber,0,0,1
+C00264,55,101.4,1,26.6,Two year,Fiber,0,0,0
+C00265,71,72.76,0,20.4,Month-to-month,Fiber,0,0,0
+C00266,63,88.91,0,28.3,Month-to-month,Fiber,0,1,0
+C00267,27,38.19,1,36.7,Month-to-month,DSL,1,0,0
+C00268,46,111.05,0,46.5,Month-to-month,DSL,1,1,1
+C00269,7,50.24,2,38.0,Month-to-month,DSL,1,0,0
+C00270,9,97.28,4,40.4,One year,Fiber,0,0,0
+C00271,51,79.37,3,29.3,Two year,Fiber,1,0,0
+C00272,23,75.82,2,46.0,Month-to-month,Fiber,1,1,0
+C00273,41,93.29,1,31.1,One year,Fiber,0,1,1
+C00274,15,18.0,3,59.7,Month-to-month,Fiber,1,1,0
+C00275,58,55.94,2,24.9,Two year,Fiber,0,0,0
+C00276,7,92.89,0,39.5,Month-to-month,None,0,1,1
+C00277,45,125.82,3,64.7,Month-to-month,Fiber,1,0,0
+C00278,49,71.32,1,48.6,Month-to-month,Fiber,0,1,0
+C00279,60,18.0,1,44.4,One year,Fiber,1,1,0
+C00280,19,63.12,2,38.2,Month-to-month,DSL,1,0,0
+C00281,25,70.32,3,34.7,One year,DSL,0,1,1
+C00282,41,103.06,2,31.6,Month-to-month,DSL,1,1,1
+C00283,21,73.35,2,26.1,One year,Fiber,0,1,0
+C00284,54,36.25,0,12.5,Two year,Fiber,0,1,0
+C00285,55,98.98,0,43.0,Month-to-month,DSL,1,1,0
+C00286,55,87.91,0,12.5,One year,DSL,1,1,0
+C00287,36,52.43,2,43.1,Month-to-month,None,1,0,0
+C00288,46,92.16,1,29.7,Month-to-month,DSL,0,0,0
+C00289,13,56.69,1,20.6,Month-to-month,Fiber,0,1,0
+C00290,15,63.65,1,53.7,Month-to-month,Fiber,1,1,1
+C00291,28,57.17,0,13.7,One year,DSL,1,1,0
+C00292,15,63.32,2,24.7,Month-to-month,DSL,0,1,1
+C00293,58,97.39,1,26.0,Month-to-month,Fiber,1,0,1
+C00294,19,22.0,5,36.1,Month-to-month,DSL,0,0,1
+C00295,67,102.92,1,25.4,One year,None,0,1,0
+C00296,30,76.94,3,54.5,Two year,Fiber,1,1,0
+C00297,55,61.08,2,14.8,Two year,Fiber,1,1,1
+C00298,6,72.58,0,91.2,One year,Fiber,1,0,0
+C00299,52,46.55,1,19.2,Two year,Fiber,0,1,0
+C00300,33,26.31,0,75.4,One year,DSL,1,1,0
+C00301,59,47.34,5,49.3,Month-to-month,DSL,0,1,1
+C00302,14,18.93,3,32.5,Month-to-month,Fiber,0,1,1
+C00303,15,34.13,0,37.2,Two year,DSL,1,1,0
+C00304,63,26.56,1,28.7,Month-to-month,Fiber,0,1,0
+C00305,42,106.27,0,38.9,Month-to-month,DSL,0,0,0
+C00306,41,36.04,1,23.7,One year,DSL,1,0,0
+C00307,43,70.85,0,43.9,Month-to-month,DSL,1,1,1
+C00308,26,103.27,1,,Two year,Fiber,0,0,0
+C00309,69,95.8,3,20.1,Two year,DSL,1,0,0
+C00310,40,63.74,1,40.0,Month-to-month,DSL,1,1,0
+C00311,2,63.86,2,39.1,Two year,DSL,0,1,1
+C00312,21,77.04,1,24.0,Month-to-month,DSL,0,1,0
+C00313,70,131.14,2,28.0,Two year,None,0,0,0
+C00314,36,83.57,1,41.2,Month-to-month,Fiber,0,0,1
+C00315,53,90.71,0,49.3,Month-to-month,Fiber,0,0,0
+C00316,2,135.46,1,32.0,Month-to-month,Fiber,1,1,1
+C00317,2,79.78,2,,One year,Fiber,0,1,0
+C00318,15,104.14,1,50.3,One year,DSL,1,1,0
+C00319,38,85.38,0,52.2,One year,Fiber,1,0,0
+C00320,44,84.97,5,39.8,One year,Fiber,0,0,1
+C00321,6,45.03,0,21.4,One year,DSL,0,1,0
+C00322,67,40.38,2,46.5,Two year,Fiber,0,1,0
+C00323,44,57.66,0,31.3,Month-to-month,Fiber,0,0,0
+C00324,26,96.69,1,41.1,Two year,DSL,0,0,0
+C00325,33,95.37,0,25.2,Two year,DSL,1,1,0
+C00326,37,109.33,2,25.6,Two year,Fiber,0,0,0
+C00327,56,71.69,1,,Month-to-month,DSL,1,1,0
+C00328,7,87.06,2,15.5,Two year,Fiber,1,0,0
+C00329,42,87.18,2,25.8,Month-to-month,Fiber,1,1,0
+C00330,38,68.99,3,19.5,Month-to-month,Fiber,1,1,0
+C00331,57,63.0,1,41.9,Month-to-month,Fiber,0,0,0
+C00332,26,30.42,1,19.1,Two year,DSL,1,0,0
+C00333,27,67.73,4,24.6,Two year,DSL,1,1,1
+C00334,59,69.09,0,34.0,Month-to-month,Fiber,0,0,0
+C00335,62,103.76,2,59.4,One year,Fiber,0,0,1
+C00336,60,106.52,0,24.3,Month-to-month,Fiber,1,1,0
+C00337,63,76.08,2,14.6,Month-to-month,None,1,1,0
+C00338,8,129.77,3,15.6,One year,DSL,1,0,0
+C00339,48,77.32,0,22.0,Month-to-month,DSL,1,1,0
+C00340,50,100.92,1,24.8,One year,Fiber,1,1,0
+C00341,19,69.2,1,66.3,Month-to-month,DSL,1,0,1
+C00342,33,40.08,1,47.5,Month-to-month,DSL,0,0,0
+C00343,72,60.09,1,29.6,One year,Fiber,1,0,0
+C00344,11,113.27,2,59.9,Month-to-month,Fiber,0,1,1
+C00345,59,64.6,2,25.4,Two year,Fiber,1,0,0
+C00346,23,58.94,2,28.2,One year,Fiber,0,0,0
+C00347,62,71.89,3,27.4,Month-to-month,Fiber,1,1,0
+C00348,39,61.09,1,48.4,One year,Fiber,1,1,0
+C00349,1,105.43,1,33.0,Month-to-month,DSL,0,0,1
+C00350,8,124.79,3,55.1,One year,Fiber,1,1,0
+C00351,60,72.17,0,40.1,Month-to-month,Fiber,1,0,0
+C00352,57,87.13,2,46.7,Month-to-month,DSL,0,1,1
+C00353,16,99.21,2,8.6,Month-to-month,Fiber,1,0,1
+C00354,47,75.04,2,10.2,Two year,Fiber,1,1,0
+C00355,37,47.42,2,10.7,Month-to-month,None,1,1,1
+C00356,4,60.54,0,28.0,Two year,Fiber,0,0,0
+C00357,51,83.54,0,12.5,One year,Fiber,0,1,0
+C00358,12,83.03,0,51.4,Month-to-month,Fiber,1,1,0
+C00359,30,21.82,2,31.2,One year,Fiber,1,0,0
+C00360,1,59.77,1,42.6,One year,Fiber,0,1,1
+C00361,18,51.36,1,27.1,Month-to-month,DSL,1,0,0
+C00362,68,96.7,1,45.5,Month-to-month,DSL,1,1,0
+C00363,37,52.45,2,6.5,Two year,Fiber,0,0,0
+C00364,53,59.09,1,33.3,Two year,Fiber,0,0,0
+C00365,22,58.11,0,41.0,One year,Fiber,0,1,0
+C00366,4,94.16,2,42.2,One year,DSL,0,0,1
+C00367,45,99.13,4,29.6,Month-to-month,DSL,0,1,1
+C00368,18,85.82,4,10.0,Month-to-month,Fiber,0,0,1
+C00369,8,102.98,1,48.2,One year,DSL,1,1,1
+C00370,36,106.59,2,28.5,Month-to-month,Fiber,1,1,1
+C00371,30,21.31,1,29.7,One year,DSL,0,1,0
+C00372,9,88.57,0,65.1,Month-to-month,Fiber,1,0,0
+C00373,43,61.65,3,35.4,Two year,DSL,0,0,1
+C00374,33,36.81,0,,Month-to-month,DSL,1,1,0
+C00375,72,63.05,1,25.9,One year,DSL,1,0,0
+C00376,7,92.46,0,43.0,Month-to-month,DSL,1,1,1
+C00377,36,112.75,0,22.5,Two year,Fiber,0,1,0
+C00378,58,34.34,1,41.2,One year,Fiber,0,1,0
+C00379,31,89.32,2,,Month-to-month,DSL,0,1,1
+C00380,16,127.04,3,32.8,Month-to-month,DSL,0,1,1
+C00381,72,123.26,1,47.8,One year,None,0,0,0
+C00382,24,18.0,4,,Month-to-month,DSL,1,0,1
+C00383,67,133.01,1,24.4,One year,Fiber,1,0,0
+C00384,61,98.91,1,10.7,One year,Fiber,0,0,0
+C00385,49,18.0,2,37.9,One year,DSL,1,0,0
+C00386,56,50.56,0,38.1,Month-to-month,Fiber,1,0,0
+C00387,40,107.22,1,47.7,Month-to-month,Fiber,1,1,0
+C00388,49,82.09,0,46.4,Month-to-month,Fiber,0,1,0
+C00389,20,55.93,1,62.9,Month-to-month,Fiber,1,1,0
+C00390,5,73.86,1,25.9,One year,DSL,1,1,0
+C00391,45,87.29,2,39.0,Month-to-month,Fiber,0,0,0
+C00392,58,55.78,1,24.4,Month-to-month,DSL,0,1,1
+C00393,61,68.44,1,47.0,Month-to-month,DSL,0,1,0
+C00394,55,97.11,0,21.0,Month-to-month,DSL,1,1,0
+C00395,71,52.38,2,46.8,Two year,DSL,1,1,1
+C00396,43,34.0,1,23.7,Month-to-month,Fiber,0,0,0
+C00397,13,54.16,1,44.7,Month-to-month,Fiber,0,0,0
+C00398,15,47.11,1,50.9,Month-to-month,DSL,1,1,0
+C00399,20,55.06,0,12.2,Month-to-month,Fiber,0,0,0
+C00400,71,23.63,4,15.1,One year,Fiber,0,0,0
+C00401,64,78.6,0,37.3,Two year,None,0,0,0
+C00402,53,96.29,1,35.8,One year,DSL,0,0,0
+C00403,62,49.27,1,29.9,Two year,Fiber,1,1,0
+C00404,25,53.74,0,27.3,Month-to-month,DSL,1,1,0
+C00405,52,66.75,0,22.0,Month-to-month,DSL,0,0,0
+C00406,13,46.48,1,38.6,Month-to-month,None,1,1,0
+C00407,8,99.55,4,20.5,One year,DSL,1,1,0
+C00408,47,47.12,1,39.1,Month-to-month,Fiber,0,0,0
+C00409,51,57.27,2,26.0,Month-to-month,DSL,1,1,1
+C00410,43,50.63,1,28.1,Month-to-month,DSL,0,1,0
+C00411,34,100.21,4,51.0,Two year,Fiber,0,1,1
+C00412,44,65.53,1,47.4,Month-to-month,DSL,1,1,0
+C00413,27,127.81,4,20.0,Month-to-month,Fiber,0,1,1
+C00414,22,81.91,0,21.8,Month-to-month,None,1,0,0
+C00415,19,104.44,1,44.9,Month-to-month,None,0,0,1
+C00416,27,62.92,1,13.9,One year,Fiber,1,1,0
+C00417,23,45.61,2,54.4,One year,Fiber,0,1,1
+C00418,12,71.07,0,35.9,Two year,Fiber,1,0,0
+C00419,39,52.99,0,25.9,Two year,Fiber,0,1,0
+C00420,30,18.0,2,34.1,Month-to-month,Fiber,1,1,0
+C00421,12,100.38,2,53.1,Two year,Fiber,1,0,0
+C00422,66,72.92,1,4.2,One year,Fiber,1,0,0
+C00423,37,52.39,1,48.4,Two year,DSL,1,0,0
+C00424,11,82.54,0,50.7,Month-to-month,Fiber,0,1,1
+C00425,4,73.31,2,29.5,Month-to-month,Fiber,0,0,1
+C00426,7,111.47,2,33.0,One year,Fiber,1,0,1
+C00427,30,84.12,2,35.9,Two year,Fiber,1,1,0
+C00428,18,67.61,2,44.3,Two year,Fiber,1,1,1
+C00429,70,91.42,1,23.8,Month-to-month,DSL,0,0,0
+C00430,34,70.99,0,33.8,Month-to-month,Fiber,0,0,0
+C00431,54,77.15,3,32.6,Two year,None,1,1,0
+C00432,18,106.33,1,43.5,Month-to-month,Fiber,0,1,0
+C00433,5,39.28,2,71.5,Month-to-month,Fiber,1,1,0
+C00434,25,47.83,0,23.7,Two year,DSL,1,0,0
+C00435,50,60.26,1,35.1,Month-to-month,Fiber,1,0,0
+C00436,56,64.36,0,23.3,Month-to-month,Fiber,0,1,0
+C00437,15,104.38,3,27.2,Month-to-month,Fiber,1,0,1
+C00438,22,32.39,2,18.9,Month-to-month,DSL,0,0,1
+C00439,35,71.17,1,12.6,Month-to-month,Fiber,0,0,1
+C00440,25,56.58,3,50.6,Two year,Fiber,1,0,0
+C00441,22,119.61,2,39.0,One year,DSL,1,0,1
+C00442,71,96.75,2,35.3,Month-to-month,DSL,1,1,0
+C00443,68,78.68,3,21.8,Two year,DSL,1,1,0
+C00444,26,99.13,1,33.0,Month-to-month,Fiber,1,0,0
+C00445,4,35.06,0,17.8,Month-to-month,DSL,1,0,0
+C00446,26,128.77,0,33.6,Month-to-month,DSL,1,1,0
+C00447,64,48.43,1,38.7,Month-to-month,Fiber,1,0,0
+C00448,65,107.19,0,26.4,Month-to-month,DSL,1,1,0
+C00449,51,87.45,2,23.4,Month-to-month,None,0,0,1
+C00450,49,79.4,3,27.1,Two year,Fiber,1,1,0
+C00451,27,106.03,3,45.4,One year,Fiber,1,0,0
+C00452,32,99.9,0,36.8,Month-to-month,Fiber,1,0,0
+C00453,64,75.01,2,11.5,Two year,DSL,1,1,1
+C00454,16,60.2,1,44.1,Month-to-month,DSL,0,1,1
+C00455,30,75.44,4,,Month-to-month,Fiber,1,0,1
+C00456,64,69.12,4,36.6,Month-to-month,Fiber,0,0,0
+C00457,51,81.91,0,57.0,Month-to-month,Fiber,1,1,0
+C00458,8,100.58,0,34.3,Month-to-month,Fiber,1,1,1
+C00459,57,85.12,1,40.0,Month-to-month,DSL,1,1,1
+C00460,5,77.18,3,40.6,Month-to-month,Fiber,1,1,1
+C00461,21,53.69,1,46.3,Month-to-month,Fiber,1,1,1
+C00462,67,81.09,2,30.9,Month-to-month,Fiber,0,1,0
+C00463,6,24.51,1,25.0,One year,Fiber,0,0,0
+C00464,14,49.67,0,47.6,Month-to-month,DSL,0,1,1
+C00465,63,88.97,0,46.9,One year,DSL,1,0,0
+C00466,49,96.79,2,51.8,Month-to-month,DSL,1,0,0
+C00467,17,71.42,2,39.8,One year,Fiber,0,0,1
+C00468,25,77.63,3,10.9,Two year,DSL,0,1,1
+C00469,68,82.37,1,36.3,Month-to-month,Fiber,1,0,1
+C00470,44,91.08,1,34.5,One year,Fiber,1,0,0
+C00471,23,66.36,1,51.2,One year,DSL,0,1,0
+C00472,11,44.48,0,48.8,Month-to-month,Fiber,0,0,1
+C00473,30,82.84,0,42.6,Month-to-month,Fiber,0,1,0
+C00474,23,126.83,2,5.0,Month-to-month,Fiber,1,0,1
+C00475,31,46.17,3,22.5,One year,DSL,1,1,0
+C00476,4,68.45,0,28.9,Month-to-month,Fiber,1,1,1
+C00477,34,61.19,3,29.2,Two year,DSL,1,1,0
+C00478,18,139.57,3,36.3,Month-to-month,Fiber,1,1,1
+C00479,70,45.1,0,54.7,Month-to-month,Fiber,0,0,0
+C00480,20,67.51,1,44.9,Month-to-month,Fiber,1,0,0
+C00481,18,61.79,2,21.1,Month-to-month,DSL,1,0,0
+C00482,22,36.88,0,22.4,One year,DSL,0,0,0
+C00483,44,35.36,3,21.1,Month-to-month,Fiber,0,1,1
+C00484,53,87.91,0,32.4,One year,DSL,1,1,0
+C00485,22,91.84,3,45.3,Two year,Fiber,1,0,1
+C00486,50,56.33,0,47.5,Two year,None,0,0,0
+C00487,10,111.45,1,28.7,Two year,Fiber,0,0,1
+C00488,14,18.0,2,33.6,Month-to-month,Fiber,0,0,1
+C00489,21,36.76,2,57.4,Two year,DSL,0,1,0
+C00490,51,48.91,0,13.2,Month-to-month,Fiber,1,0,0
+C00491,40,71.75,2,42.9,Month-to-month,DSL,0,0,0
+C00492,34,59.37,0,41.4,Two year,Fiber,1,1,0
+C00493,44,66.37,1,29.8,Month-to-month,Fiber,0,1,1
+C00494,15,85.58,0,33.7,Month-to-month,Fiber,1,1,1
+C00495,19,112.8,5,39.9,Month-to-month,Fiber,1,0,0
+C00496,51,94.47,1,29.9,Month-to-month,Fiber,0,0,0
+C00497,72,73.57,3,25.1,One year,Fiber,0,1,0
+C00498,1,69.76,0,24.0,One year,DSL,0,1,1
+C00499,27,102.84,0,60.1,Month-to-month,Fiber,1,0,1
+C00500,64,124.76,2,27.8,Month-to-month,Fiber,1,0,0
+C00501,60,89.87,2,36.8,Month-to-month,DSL,1,1,1
+C00502,19,58.28,0,45.0,Month-to-month,Fiber,1,1,1
+C00503,3,79.26,0,31.0,Month-to-month,DSL,0,0,1
+C00504,41,88.25,2,34.5,Month-to-month,Fiber,1,0,1
+C00505,51,56.46,1,41.0,Two year,DSL,1,0,0
+C00506,19,96.24,1,22.1,Two year,DSL,0,1,0
+C00507,22,79.39,1,12.5,Month-to-month,Fiber,1,1,1
+C00508,49,104.61,1,23.8,Month-to-month,Fiber,1,1,0
+C00509,39,44.65,3,58.2,Two year,Fiber,0,1,0
+C00510,21,23.24,2,25.9,One year,Fiber,0,0,0
+C00511,61,61.0,0,35.8,Two year,Fiber,1,0,0
+C00512,66,72.66,2,15.4,Two year,DSL,0,0,0
+C00513,53,21.57,0,52.8,Month-to-month,DSL,0,0,0
+C00514,69,54.96,0,29.8,Month-to-month,Fiber,0,1,0
+C00515,26,107.94,1,27.6,Month-to-month,DSL,0,1,0
+C00516,8,86.93,0,32.1,One year,Fiber,1,1,1
+C00517,53,75.87,0,69.2,Two year,Fiber,0,1,1
+C00518,41,42.44,2,40.2,Month-to-month,Fiber,0,0,0
+C00519,30,107.01,1,31.8,Two year,Fiber,0,1,0
+C00520,19,60.31,0,1.0,One year,Fiber,1,0,0
+C00521,5,74.66,1,52.9,One year,Fiber,0,0,0
+C00522,13,83.41,4,24.3,One year,Fiber,1,0,1
+C00523,48,76.8,4,22.1,Month-to-month,None,0,0,0
+C00524,17,113.77,1,23.3,One year,DSL,0,1,1
+C00525,68,88.1,2,54.5,One year,None,1,1,0
+C00526,35,81.47,1,33.4,One year,Fiber,0,0,0
+C00527,7,69.58,2,12.7,Month-to-month,DSL,1,1,0
+C00528,48,84.09,0,31.1,Month-to-month,Fiber,1,0,1
+C00529,50,66.12,0,22.4,One year,Fiber,0,0,1
+C00530,13,77.3,1,39.0,Two year,Fiber,0,1,0
+C00531,61,62.43,3,28.6,Month-to-month,Fiber,0,0,1
+C00532,54,58.02,1,12.0,Month-to-month,Fiber,1,0,0
+C00533,43,46.35,4,32.8,Month-to-month,DSL,0,0,1
+C00534,9,64.41,2,33.2,Two year,DSL,0,1,0
+C00535,35,62.57,2,16.5,Month-to-month,Fiber,0,1,1
+C00536,70,123.22,1,6.6,Month-to-month,DSL,0,1,1
+C00537,18,99.78,0,38.0,One year,Fiber,1,1,0
+C00538,68,68.25,4,30.1,Month-to-month,Fiber,0,1,0
+C00539,14,60.15,3,31.0,One year,Fiber,1,1,0
+C00540,44,89.22,1,44.4,Month-to-month,Fiber,0,0,0
+C00541,29,126.38,0,6.9,One year,Fiber,0,1,0
+C00542,5,94.3,1,34.8,Month-to-month,Fiber,1,1,1
+C00543,47,23.84,2,43.3,Month-to-month,Fiber,1,1,0
+C00544,35,96.17,4,31.4,One year,DSL,1,0,1
+C00545,23,101.13,0,14.2,Month-to-month,DSL,0,1,1
+C00546,17,133.58,2,24.7,Month-to-month,None,1,1,0
+C00547,36,65.05,2,27.7,Month-to-month,Fiber,0,0,0
+C00548,8,75.88,1,11.9,One year,Fiber,1,0,1
+C00549,44,84.61,1,39.2,One year,DSL,1,0,0
+C00550,7,50.61,1,34.0,Two year,DSL,0,1,1
+C00551,16,48.07,1,25.0,Month-to-month,Fiber,1,1,0
+C00552,37,83.18,0,47.8,Month-to-month,DSL,0,1,0
+C00553,54,28.8,2,26.7,Two year,None,1,1,1
+C00554,29,35.12,2,54.7,Month-to-month,Fiber,0,1,1
+C00555,46,94.84,0,30.2,Two year,None,1,0,1
+C00556,68,85.94,1,20.6,Month-to-month,Fiber,1,0,0
+C00557,43,106.99,5,21.1,Month-to-month,Fiber,0,0,0
+C00558,55,84.97,1,35.3,One year,Fiber,1,0,0
+C00559,35,72.29,2,19.0,Month-to-month,DSL,1,1,1
+C00560,19,108.09,0,36.0,One year,Fiber,0,1,0
+C00561,27,60.16,3,28.4,Month-to-month,Fiber,1,0,0
+C00562,26,62.67,4,28.1,Month-to-month,Fiber,0,1,1
+C00563,40,70.19,1,33.4,One year,Fiber,0,1,0
+C00564,11,84.61,1,48.1,Two year,DSL,1,1,0
+C00565,56,70.13,2,26.4,Month-to-month,Fiber,1,1,1
+C00566,11,30.42,0,36.6,Month-to-month,Fiber,1,0,1
+C00567,51,64.54,1,40.2,Two year,None,0,1,0
+C00568,34,71.12,0,17.1,Month-to-month,DSL,1,1,0
+C00569,54,75.21,1,41.3,Month-to-month,None,1,1,1
+C00570,13,59.42,1,45.4,Month-to-month,Fiber,0,0,1
+C00571,16,86.16,2,47.5,One year,Fiber,1,0,0
+C00572,19,26.91,1,18.5,Month-to-month,DSL,1,0,1
+C00573,57,83.64,1,19.5,Month-to-month,None,0,0,1
+C00574,20,122.2,0,33.2,Month-to-month,Fiber,0,1,1
+C00575,25,55.01,4,32.4,Month-to-month,None,0,0,1
+C00576,11,73.61,0,34.3,Month-to-month,Fiber,0,1,0
+C00577,17,65.08,3,29.0,Month-to-month,DSL,1,0,1
+C00578,62,65.56,3,36.6,Month-to-month,Fiber,0,0,1
+C00579,9,43.2,2,1.0,Month-to-month,Fiber,0,1,1
+C00580,66,127.76,2,43.2,Month-to-month,Fiber,1,0,0
+C00581,60,82.8,3,54.6,Month-to-month,Fiber,1,1,0
+C00582,69,53.22,3,26.3,Month-to-month,DSL,0,0,0
+C00583,45,50.03,0,36.8,One year,DSL,0,1,0
+C00584,50,73.72,0,57.5,One year,Fiber,0,1,0
+C00585,61,18.0,2,34.5,Month-to-month,DSL,1,1,0
+C00586,52,101.48,1,38.3,Month-to-month,Fiber,0,1,1
+C00587,41,57.61,0,59.8,Month-to-month,Fiber,0,1,1
+C00588,31,82.89,2,62.5,Two year,Fiber,0,1,1
+C00589,62,84.2,1,19.1,Two year,Fiber,1,1,0
+C00590,23,99.03,5,28.2,Month-to-month,Fiber,0,1,1
+C00591,41,85.79,4,46.5,Two year,None,1,0,0
+C00592,5,92.81,4,41.0,Month-to-month,None,1,0,1
+C00593,47,100.53,1,43.9,One year,Fiber,1,0,0
+C00594,10,62.75,2,1.0,One year,Fiber,0,1,0
+C00595,5,132.24,1,6.6,Month-to-month,DSL,1,0,1
+C00596,22,81.88,1,59.0,One year,Fiber,1,0,0
+C00597,49,71.22,3,44.8,Month-to-month,Fiber,1,1,1
+C00598,60,48.45,3,39.0,Two year,None,1,0,0
+C00599,44,66.2,1,16.6,Month-to-month,DSL,1,1,1
+C00600,48,83.25,1,28.2,Month-to-month,None,1,0,1
+C00601,18,74.67,2,42.0,Month-to-month,Fiber,0,1,1
+C00602,8,123.17,1,14.6,Month-to-month,Fiber,0,1,1
+C00603,9,61.08,1,24.1,Month-to-month,DSL,0,0,0
+C00604,6,91.02,4,39.3,Month-to-month,Fiber,0,1,1
+C00605,25,40.48,2,42.3,Month-to-month,DSL,1,1,0
+C00606,54,133.13,1,26.7,One year,Fiber,1,1,1
+C00607,5,38.58,3,47.8,One year,DSL,0,1,0
+C00608,25,130.08,2,47.3,Month-to-month,Fiber,0,0,0
+C00609,44,68.2,3,8.9,Month-to-month,Fiber,1,0,0
+C00610,5,18.0,0,56.9,Month-to-month,None,1,0,0
+C00611,40,109.86,2,50.3,Month-to-month,DSL,0,1,0
+C00612,29,74.31,0,36.9,Month-to-month,Fiber,0,1,1
+C00613,67,59.3,0,32.1,Month-to-month,None,0,1,1
+C00614,36,89.97,1,45.1,Month-to-month,DSL,0,0,1
+C00615,38,90.6,1,41.5,Month-to-month,DSL,1,0,0
+C00616,62,83.61,2,30.2,Two year,Fiber,1,1,1
+C00617,53,103.78,2,56.5,One year,DSL,1,1,0
+C00618,40,79.07,0,4.5,Two year,DSL,0,0,0
+C00619,48,90.19,2,24.7,One year,DSL,0,1,1
+C00620,30,57.39,2,40.3,Month-to-month,None,0,0,0
+C00621,51,93.44,0,33.3,One year,Fiber,1,0,0
+C00622,23,57.51,2,43.8,Two year,DSL,1,1,0
+C00623,23,40.51,1,14.5,Two year,DSL,1,0,0
+C00624,60,66.22,1,30.4,One year,Fiber,0,0,0
+C00625,30,64.28,1,50.1,Month-to-month,DSL,0,0,0
+C00626,39,97.98,2,13.1,One year,DSL,0,0,0
+C00627,9,31.31,0,30.6,Month-to-month,Fiber,1,1,0
+C00628,25,102.62,0,26.6,Month-to-month,Fiber,1,1,1
+C00629,47,54.56,0,39.1,Month-to-month,Fiber,1,0,0
+C00630,39,18.0,2,39.5,Month-to-month,Fiber,0,1,1
+C00631,22,38.19,1,35.4,Month-to-month,Fiber,0,0,0
+C00632,3,63.39,0,29.9,Two year,DSL,1,0,1
+C00633,40,84.44,2,34.9,One year,DSL,1,1,0
+C00634,26,68.27,3,31.7,One year,Fiber,1,1,0
+C00635,67,38.13,0,33.5,Two year,Fiber,1,0,0
+C00636,4,50.2,1,54.4,Month-to-month,DSL,0,0,1
+C00637,50,38.6,2,17.2,One year,DSL,1,0,0
+C00638,28,79.25,1,38.8,One year,DSL,1,0,0
+C00639,20,69.46,0,20.8,Month-to-month,DSL,0,1,0
+C00640,52,89.19,0,61.4,Month-to-month,Fiber,1,1,0
+C00641,38,22.43,0,35.2,One year,None,0,1,0
+C00642,6,57.05,2,16.2,Two year,DSL,1,0,0
+C00643,44,128.81,0,30.8,Month-to-month,None,0,1,1
+C00644,13,89.95,0,13.6,One year,DSL,1,1,1
+C00645,62,63.71,1,25.1,One year,Fiber,1,0,0
+C00646,18,44.35,2,42.6,Two year,Fiber,0,0,1
+C00647,58,103.02,1,53.1,One year,Fiber,1,0,0
+C00648,24,114.91,1,49.1,Month-to-month,Fiber,0,1,1
+C00649,23,39.84,0,32.5,One year,Fiber,1,1,0
+C00650,1,42.49,2,42.0,Two year,None,0,1,0
+C00651,67,79.81,1,45.3,Month-to-month,Fiber,0,1,0
+C00652,40,82.42,1,65.5,One year,Fiber,0,1,0
+C00653,11,85.52,2,25.5,Month-to-month,DSL,1,1,1
+C00654,3,123.61,2,55.1,Month-to-month,Fiber,1,1,1
+C00655,20,44.8,1,18.7,One year,Fiber,1,0,0
+C00656,36,73.12,3,50.5,Month-to-month,DSL,0,1,1
+C00657,3,92.19,2,25.3,Month-to-month,Fiber,1,1,1
+C00658,26,91.89,2,24.4,One year,Fiber,1,1,1
+C00659,23,53.86,0,30.0,Month-to-month,Fiber,1,1,1
+C00660,63,54.97,3,23.1,Two year,Fiber,0,0,0
+C00661,30,59.14,1,40.0,Month-to-month,Fiber,1,1,1
+C00662,8,119.7,2,51.2,One year,Fiber,1,1,0
+C00663,18,44.6,2,4.4,Month-to-month,None,0,0,1
+C00664,60,62.92,2,31.6,One year,Fiber,1,1,0
+C00665,1,93.71,1,18.8,Two year,Fiber,1,0,1
+C00666,10,41.51,1,46.7,One year,Fiber,1,0,1
+C00667,1,79.22,2,53.9,One year,DSL,1,0,0
+C00668,4,18.81,2,31.6,Month-to-month,Fiber,0,0,1
+C00669,67,77.39,2,24.2,Two year,DSL,0,1,0
+C00670,72,73.47,1,11.4,Month-to-month,DSL,1,0,0
+C00671,53,76.58,0,61.3,Month-to-month,Fiber,1,1,0
+C00672,7,47.67,1,52.5,Month-to-month,DSL,1,0,0
+C00673,51,78.38,2,6.3,One year,Fiber,1,0,0
+C00674,56,70.91,1,43.2,Two year,DSL,0,0,0
+C00675,57,108.38,1,18.4,Two year,DSL,1,1,0
+C00676,54,89.86,1,26.9,One year,DSL,0,1,0
+C00677,50,31.43,2,16.5,One year,Fiber,1,1,0
+C00678,32,48.69,0,6.0,Two year,Fiber,1,1,0
+C00679,5,54.74,1,33.4,One year,Fiber,1,0,1
+C00680,60,77.05,5,60.5,Month-to-month,Fiber,1,0,1
+C00681,67,67.26,0,21.0,Two year,DSL,0,1,0
+C00682,37,67.15,4,46.5,Two year,Fiber,1,1,0
+C00683,31,150.9,4,48.7,One year,Fiber,0,0,1
+C00684,67,57.64,2,44.1,One year,Fiber,0,1,0
+C00685,33,110.94,3,62.0,Two year,DSL,0,1,1
+C00686,27,67.87,0,47.4,One year,Fiber,0,0,0
+C00687,64,18.0,2,59.3,Month-to-month,DSL,1,1,0
+C00688,67,77.36,1,17.9,Two year,None,0,1,0
+C00689,15,103.34,1,44.4,One year,Fiber,0,1,0
+C00690,20,89.74,2,55.2,One year,Fiber,0,0,0
+C00691,23,79.17,0,23.2,Month-to-month,None,1,0,0
+C00692,12,72.66,1,1.0,Month-to-month,DSL,0,1,1
+C00693,62,58.15,2,16.3,Month-to-month,Fiber,1,0,0
+C00694,71,97.09,1,23.9,Month-to-month,Fiber,0,1,0
+C00695,38,59.84,1,41.9,Month-to-month,Fiber,0,0,0
+C00696,52,54.07,2,26.1,One year,DSL,0,0,1
+C00697,31,83.5,6,34.0,Month-to-month,Fiber,0,0,1
+C00698,72,63.6,2,,Month-to-month,DSL,0,1,0
+C00699,69,107.86,1,32.2,Month-to-month,Fiber,1,1,1
+C00700,54,85.08,3,33.1,One year,Fiber,1,1,0
+C00701,64,50.22,1,25.1,One year,Fiber,0,1,0
+C00702,10,39.95,0,45.5,Month-to-month,Fiber,1,0,0
+C00703,64,55.94,3,53.3,Month-to-month,DSL,0,0,0
+C00704,31,137.46,1,17.9,Month-to-month,Fiber,1,1,1
+C00705,16,65.35,2,37.0,One year,DSL,0,1,0
+C00706,68,93.23,2,14.0,One year,Fiber,1,0,0
+C00707,61,35.44,0,9.5,One year,Fiber,0,0,0
+C00708,10,41.67,0,48.5,Two year,Fiber,1,0,0
+C00709,48,66.72,4,62.1,One year,Fiber,0,0,0
+C00710,64,119.63,3,29.4,Month-to-month,None,1,1,0
+C00711,50,35.86,1,59.7,Month-to-month,Fiber,0,0,0
+C00712,35,54.37,1,24.9,Month-to-month,Fiber,0,1,1
+C00713,4,97.25,0,30.7,Month-to-month,Fiber,0,1,1
+C00714,36,116.59,2,57.3,Month-to-month,DSL,1,1,0
+C00715,41,84.25,2,21.2,Month-to-month,Fiber,0,0,1
+C00716,61,90.92,1,46.8,Month-to-month,None,0,0,1
+C00717,16,46.89,2,29.1,Month-to-month,DSL,1,0,1
+C00718,15,34.96,1,23.9,Two year,DSL,0,1,1
+C00719,67,39.92,2,26.9,Month-to-month,Fiber,0,0,0
+C00720,61,47.55,4,3.6,Month-to-month,Fiber,0,1,1
+C00721,41,78.32,1,51.7,Month-to-month,DSL,0,0,0
+C00722,33,37.85,2,37.2,One year,Fiber,1,1,0
+C00723,45,79.01,2,31.9,Two year,DSL,1,0,0
+C00724,11,63.17,2,24.3,Month-to-month,DSL,0,0,1
+C00725,18,56.25,2,38.4,Two year,None,1,0,0
+C00726,40,96.78,1,46.4,Two year,Fiber,0,1,0
+C00727,31,45.15,3,30.2,One year,DSL,1,1,0
+C00728,13,112.2,1,47.5,One year,Fiber,1,1,0
+C00729,39,95.26,1,37.9,Month-to-month,DSL,1,0,0
+C00730,48,44.28,2,32.7,Month-to-month,DSL,0,1,0
+C00731,59,105.66,1,46.8,One year,Fiber,0,0,0
+C00732,46,40.97,1,26.9,Two year,Fiber,1,1,0
+C00733,45,108.21,3,16.5,One year,Fiber,1,1,1
+C00734,41,81.32,1,33.3,Month-to-month,Fiber,1,0,0
+C00735,9,27.78,1,34.5,Month-to-month,Fiber,1,0,0
+C00736,28,35.73,2,30.9,Month-to-month,Fiber,1,1,0
+C00737,33,60.66,1,50.7,Two year,Fiber,0,0,0
+C00738,38,96.3,0,41.0,Month-to-month,Fiber,0,1,0
+C00739,22,67.22,2,32.4,Month-to-month,Fiber,0,1,1
+C00740,54,66.52,0,33.9,One year,DSL,1,1,0
+C00741,39,73.12,1,35.1,Month-to-month,Fiber,0,0,0
+C00742,23,18.0,0,41.4,Month-to-month,DSL,0,1,1
+C00743,34,95.08,0,34.7,Month-to-month,DSL,1,1,1
+C00744,52,109.51,0,31.8,Month-to-month,DSL,0,1,0
+C00745,2,94.1,1,15.3,Month-to-month,Fiber,0,1,1
+C00746,25,60.14,1,24.1,Month-to-month,Fiber,1,0,1
+C00747,15,47.22,2,37.9,Month-to-month,Fiber,1,1,0
+C00748,24,41.71,3,36.6,One year,Fiber,0,1,0
+C00749,48,40.27,1,13.2,One year,Fiber,1,0,0
+C00750,16,135.41,0,26.1,One year,Fiber,1,0,0
+C00751,40,69.79,5,21.0,One year,None,1,1,0
+C00752,28,97.33,3,53.1,One year,Fiber,1,1,1
+C00753,4,95.79,3,37.5,Month-to-month,Fiber,0,1,1
+C00754,64,75.99,0,40.0,Month-to-month,Fiber,1,1,0
+C00755,44,45.91,1,33.1,One year,Fiber,0,1,1
+C00756,22,86.52,0,25.2,Month-to-month,Fiber,0,0,0
+C00757,37,41.69,1,27.8,Month-to-month,Fiber,0,0,1
+C00758,72,88.86,1,40.9,Month-to-month,DSL,0,1,0
+C00759,11,42.97,4,30.4,Two year,DSL,1,1,0
+C00760,62,59.79,1,41.0,Two year,DSL,0,0,0
+C00761,1,59.74,4,36.0,Month-to-month,DSL,1,1,1
+C00762,63,111.17,4,38.1,Month-to-month,DSL,1,0,0
+C00763,25,18.0,1,38.9,Month-to-month,Fiber,1,0,1
+C00764,22,137.26,2,26.6,Month-to-month,DSL,1,0,1
+C00765,57,49.43,1,29.6,Month-to-month,Fiber,0,0,1
+C00766,12,68.55,3,46.7,Month-to-month,DSL,1,1,1
+C00767,10,83.57,0,59.6,One year,Fiber,1,1,0
+C00768,34,81.17,0,46.9,Two year,Fiber,1,0,0
+C00769,68,95.62,2,1.0,Month-to-month,Fiber,0,1,1
+C00770,24,89.09,0,23.4,Month-to-month,Fiber,0,0,1
+C00771,40,129.04,0,35.6,One year,DSL,1,1,0
+C00772,29,92.48,3,18.6,Month-to-month,DSL,1,1,1
+C00773,55,68.71,2,18.0,Month-to-month,DSL,0,1,0
+C00774,65,56.52,1,28.1,Month-to-month,DSL,1,1,0
+C00775,71,55.79,2,38.8,One year,DSL,1,0,0
+C00776,20,108.21,1,42.6,Month-to-month,DSL,1,1,1
+C00777,19,121.15,2,28.9,Month-to-month,DSL,1,0,0
+C00778,67,100.11,2,27.8,One year,DSL,0,1,1
+C00779,42,18.0,2,22.2,Month-to-month,Fiber,1,1,0
+C00780,24,18.0,3,41.1,Two year,None,0,1,0
+C00781,25,71.79,0,40.2,Month-to-month,Fiber,0,1,1
+C00782,13,67.33,2,46.7,Month-to-month,Fiber,1,0,0
+C00783,7,72.56,0,35.8,Month-to-month,Fiber,1,1,1
+C00784,25,107.05,1,15.6,Two year,DSL,0,0,1
+C00785,58,105.65,1,29.1,Month-to-month,DSL,0,0,0
+C00786,48,76.9,2,46.0,Month-to-month,Fiber,1,0,1
+C00787,1,29.33,1,9.7,Month-to-month,Fiber,0,1,1
+C00788,4,37.58,1,32.8,Two year,DSL,1,0,0
+C00789,63,73.89,3,38.0,Two year,DSL,0,1,0
+C00790,58,83.67,4,62.1,One year,Fiber,0,0,0
+C00791,58,37.92,1,25.6,Month-to-month,DSL,0,0,0
+C00792,63,90.49,0,32.3,Month-to-month,DSL,1,1,0
+C00793,46,22.93,5,57.6,Month-to-month,Fiber,0,1,0
+C00794,25,18.0,1,25.8,Month-to-month,Fiber,1,1,0
+C00795,43,47.5,0,49.0,Two year,Fiber,1,0,0
+C00796,47,110.45,2,39.5,One year,DSL,0,1,0
+C00797,61,114.62,1,,Month-to-month,None,1,0,1
+C00798,39,27.34,2,40.3,One year,None,0,0,0
+C00799,5,29.48,2,31.9,Month-to-month,DSL,0,1,0
+C00800,45,93.31,1,65.6,Month-to-month,Fiber,1,0,1
+C00801,54,59.66,2,5.1,Month-to-month,Fiber,0,0,1
+C00802,69,110.26,2,30.0,Month-to-month,DSL,0,1,0
+C00803,13,92.85,1,30.5,Month-to-month,Fiber,0,1,0
+C00804,62,97.66,1,32.1,Month-to-month,DSL,0,1,0
+C00805,2,48.99,2,49.1,Two year,None,1,1,0
+C00806,53,84.43,4,27.7,Two year,Fiber,0,0,0
+C00807,23,128.46,1,40.9,Month-to-month,Fiber,1,0,1
+C00808,9,75.98,1,37.2,One year,DSL,0,0,0
+C00809,24,70.74,3,45.7,Month-to-month,Fiber,1,1,0
+C00810,40,59.8,2,32.1,Month-to-month,Fiber,0,0,0
+C00811,14,27.15,1,38.5,Month-to-month,DSL,1,0,0
+C00812,40,41.23,0,32.3,Month-to-month,Fiber,1,1,1
+C00813,52,47.03,3,20.2,Month-to-month,Fiber,1,0,0
+C00814,64,25.96,2,56.4,One year,None,0,0,0
+C00815,41,28.78,1,23.3,One year,Fiber,0,0,1
+C00816,44,18.0,0,27.3,Month-to-month,Fiber,1,0,0
+C00817,67,50.09,5,22.0,Month-to-month,DSL,0,1,0
+C00818,3,90.91,1,39.6,One year,Fiber,1,0,0
+C00819,55,63.14,0,27.3,Two year,Fiber,1,0,0
+C00820,71,63.26,1,55.2,Month-to-month,None,1,1,0
+C00821,60,93.47,3,41.5,Month-to-month,DSL,0,0,0
+C00822,67,119.29,0,30.1,Two year,Fiber,0,0,0
+C00823,65,135.65,4,21.3,Month-to-month,DSL,0,1,1
+C00824,43,76.05,1,32.5,One year,Fiber,0,1,0
+C00825,59,64.11,5,41.3,Month-to-month,DSL,1,1,0
+C00826,27,60.43,2,33.4,Two year,DSL,0,0,0
+C00827,9,88.55,0,32.0,Two year,DSL,1,1,0
+C00828,7,67.62,2,19.7,Month-to-month,Fiber,0,1,1
+C00829,14,67.72,0,65.4,Month-to-month,Fiber,0,0,1
+C00830,53,69.58,1,31.2,One year,Fiber,1,0,0
+C00831,29,45.62,0,14.8,Month-to-month,DSL,1,1,0
+C00832,59,18.0,3,18.9,Month-to-month,DSL,0,0,0
+C00833,24,53.26,1,29.2,Month-to-month,Fiber,0,1,1
+C00834,57,112.81,3,61.2,Month-to-month,Fiber,0,0,0
+C00835,64,111.49,1,31.6,Two year,Fiber,0,0,0
+C00836,24,98.31,2,28.8,Month-to-month,Fiber,0,0,1
+C00837,38,58.18,1,45.8,Month-to-month,DSL,0,0,0
+C00838,39,49.87,1,46.8,One year,DSL,1,1,0
+C00839,64,117.49,3,43.2,One year,DSL,1,0,0
+C00840,27,41.67,1,36.8,Month-to-month,None,1,0,0
+C00841,28,73.1,0,18.5,Month-to-month,DSL,0,1,1
+C00842,56,119.31,1,23.5,Month-to-month,Fiber,1,0,0
+C00843,66,75.47,1,11.7,Two year,DSL,1,1,0
+C00844,3,63.78,1,30.9,Month-to-month,Fiber,0,0,1
+C00845,6,104.48,1,28.1,Month-to-month,Fiber,0,0,1
+C00846,68,74.02,1,26.6,Two year,DSL,0,0,0
+C00847,33,77.49,0,37.9,Month-to-month,Fiber,0,0,0
+C00848,41,114.41,2,24.8,Two year,DSL,0,1,0
+C00849,65,18.0,1,29.2,One year,Fiber,0,1,0
+C00850,29,82.05,1,27.2,Month-to-month,Fiber,1,1,0
+C00851,33,50.54,1,33.6,Two year,Fiber,1,1,0
+C00852,61,66.2,2,39.1,Month-to-month,Fiber,1,0,1
+C00853,53,75.16,1,15.2,Two year,Fiber,1,1,0
+C00854,50,53.09,0,40.3,Month-to-month,Fiber,1,1,0
+C00855,26,78.4,0,37.7,Month-to-month,Fiber,0,0,1
+C00856,51,82.79,2,39.9,Month-to-month,Fiber,1,0,0
+C00857,60,77.7,1,35.9,Month-to-month,Fiber,1,1,1
+C00858,66,75.12,2,39.1,Month-to-month,Fiber,0,1,0
+C00859,46,68.71,1,28.2,Month-to-month,DSL,0,0,0
+C00860,63,69.26,3,40.2,Month-to-month,DSL,0,1,1
+C00861,59,74.22,1,50.0,Month-to-month,Fiber,0,0,0
+C00862,53,45.61,3,27.1,Month-to-month,DSL,1,1,0
+C00863,39,107.56,2,27.6,One year,None,0,1,0
+C00864,32,69.45,0,42.8,One year,Fiber,0,1,0
+C00865,46,60.71,2,26.2,One year,None,0,0,0
+C00866,64,83.08,0,23.9,One year,DSL,0,0,0
+C00867,39,68.79,2,39.9,Month-to-month,Fiber,1,1,0
+C00868,51,106.79,0,28.0,Month-to-month,Fiber,0,1,1
+C00869,41,97.05,0,51.1,One year,None,1,0,0
+C00870,47,74.6,2,27.5,Month-to-month,Fiber,1,1,1
+C00871,50,98.29,1,22.5,One year,Fiber,1,1,1
+C00872,4,78.59,2,33.9,Month-to-month,Fiber,1,0,0
+C00873,9,39.68,3,40.1,Month-to-month,Fiber,1,0,1
+C00874,3,96.92,2,38.5,Month-to-month,Fiber,1,0,1
+C00875,56,18.79,2,41.5,One year,Fiber,1,0,0
+C00876,65,18.0,3,26.3,Two year,DSL,0,0,0
+C00877,26,91.54,0,49.9,One year,Fiber,0,0,0
+C00878,6,84.42,1,10.8,One year,DSL,1,1,0
+C00879,1,82.55,2,23.1,One year,None,0,1,1
+C00880,33,110.91,0,34.5,Two year,Fiber,1,1,0
+C00881,47,71.31,1,24.2,Two year,None,0,1,0
+C00882,24,61.41,3,29.7,Month-to-month,DSL,1,1,1
+C00883,45,94.31,1,20.3,Month-to-month,Fiber,0,1,1
+C00884,12,52.01,0,31.1,Two year,Fiber,0,0,1
+C00885,53,65.33,1,40.5,One year,Fiber,0,1,0
+C00886,24,79.07,2,26.5,Month-to-month,None,0,0,1
+C00887,72,81.31,2,21.7,One year,Fiber,0,1,0
+C00888,56,62.68,1,27.5,Month-to-month,DSL,1,1,0
+C00889,34,58.27,3,49.5,Two year,DSL,1,0,0
+C00890,69,40.64,2,49.3,Month-to-month,None,0,0,0
+C00891,71,49.96,1,27.3,Two year,None,0,0,0
+C00892,15,122.93,1,41.1,One year,Fiber,0,0,1
+C00893,42,64.56,2,33.7,Month-to-month,Fiber,1,1,0
+C00894,48,77.3,1,52.0,Two year,Fiber,0,0,0
+C00895,26,30.24,1,36.7,Month-to-month,Fiber,0,1,0
+C00896,72,143.77,3,31.2,One year,DSL,0,0,0
+C00897,49,47.88,1,56.4,Month-to-month,DSL,0,0,0
+C00898,55,39.1,0,21.1,Month-to-month,None,1,1,0
+C00899,15,70.29,2,38.5,One year,Fiber,0,0,0
+C00900,65,47.01,2,53.1,One year,Fiber,1,0,0
+C00901,70,82.22,5,43.3,Two year,Fiber,1,1,0
+C00902,66,29.67,0,23.3,One year,Fiber,0,1,0
+C00903,32,103.84,4,22.6,Month-to-month,DSL,1,0,1
+C00904,68,98.32,1,14.3,Two year,DSL,1,0,0
+C00905,1,68.68,2,54.8,Two year,DSL,1,0,0
+C00906,15,25.65,1,18.1,Two year,DSL,1,1,0
+C00907,48,49.26,1,44.0,Two year,Fiber,1,1,0
+C00908,56,73.75,0,14.0,One year,Fiber,1,1,0
+C00909,9,38.11,1,69.8,One year,DSL,0,1,0
+C00910,22,42.66,1,15.1,One year,Fiber,0,0,0
+C00911,7,101.38,1,34.6,Month-to-month,Fiber,1,0,0
+C00912,8,76.34,2,51.0,Two year,Fiber,0,0,1
+C00913,2,75.45,2,24.2,Month-to-month,None,1,1,1
+C00914,72,86.77,5,41.9,Month-to-month,DSL,1,1,0
+C00915,64,67.41,2,30.1,Month-to-month,Fiber,1,0,1
+C00916,44,70.33,2,39.4,Month-to-month,DSL,1,1,0
+C00917,3,84.77,1,49.1,One year,Fiber,0,0,1
+C00918,53,94.65,1,28.0,Month-to-month,Fiber,0,1,0
+C00919,39,85.95,1,55.0,Month-to-month,Fiber,1,1,0
+C00920,56,112.89,1,38.9,Month-to-month,Fiber,0,0,0
+C00921,36,72.69,2,61.3,One year,None,1,1,0
+C00922,1,34.28,2,22.4,Month-to-month,Fiber,0,1,1
+C00923,66,102.47,2,25.0,Month-to-month,Fiber,0,1,0
+C00924,64,65.14,2,30.7,Month-to-month,DSL,1,1,1
+C00925,66,50.48,2,17.0,Two year,Fiber,0,0,0
+C00926,48,91.95,3,47.0,Month-to-month,DSL,0,1,1
+C00927,67,82.38,2,32.9,Two year,Fiber,0,0,0
+C00928,6,36.2,2,18.0,Month-to-month,Fiber,0,1,1
+C00929,29,90.78,1,22.5,Month-to-month,Fiber,1,0,1
+C00930,24,124.48,1,21.8,Two year,DSL,0,1,1
+C00931,35,81.06,0,46.9,One year,Fiber,1,0,0
+C00932,3,64.83,2,40.4,Month-to-month,Fiber,0,0,1
+C00933,60,25.26,1,32.1,One year,Fiber,1,0,0
+C00934,22,129.43,1,28.9,Month-to-month,DSL,1,1,1
+C00935,9,57.53,3,30.7,Month-to-month,DSL,0,0,1
+C00936,15,32.58,2,58.9,Month-to-month,None,1,0,1
+C00937,9,75.1,0,30.7,Month-to-month,DSL,0,0,1
+C00938,50,100.23,0,46.0,Month-to-month,Fiber,1,0,0
+C00939,67,106.61,1,29.4,Month-to-month,Fiber,0,1,0
+C00940,7,53.18,3,57.6,Two year,Fiber,1,0,0
+C00941,3,69.24,1,16.9,Month-to-month,Fiber,1,0,1
+C00942,64,72.01,1,45.3,Month-to-month,Fiber,0,1,0
+C00943,28,99.34,0,23.4,Month-to-month,DSL,0,0,1
+C00944,9,88.6,1,65.0,Two year,Fiber,1,0,0
+C00945,15,79.58,2,43.8,Month-to-month,None,1,0,1
+C00946,49,97.62,1,10.1,Month-to-month,Fiber,0,0,1
+C00947,7,33.86,1,21.0,Two year,DSL,0,1,1
+C00948,29,83.78,3,43.6,Month-to-month,Fiber,0,0,1
+C00949,71,78.2,3,43.2,Month-to-month,DSL,0,0,0
+C00950,32,70.6,0,42.2,One year,None,0,0,0
+C00951,12,65.01,2,36.2,Month-to-month,Fiber,0,0,1
+C00952,55,75.76,3,29.5,Month-to-month,Fiber,0,1,0
+C00953,32,56.03,0,49.2,One year,DSL,0,0,0
+C00954,29,148.36,2,21.9,Two year,DSL,1,1,0
+C00955,19,110.05,2,34.7,Two year,DSL,1,0,0
+C00956,55,102.6,1,25.3,One year,Fiber,0,0,0
+C00957,36,57.17,0,24.2,Month-to-month,DSL,1,1,0
+C00958,35,45.2,3,27.6,One year,DSL,0,0,0
+C00959,56,66.07,4,23.7,Two year,Fiber,1,0,0
+C00960,27,75.2,0,41.7,One year,DSL,0,0,0
+C00961,48,31.45,1,13.3,Month-to-month,Fiber,0,1,0
+C00962,13,85.44,2,40.0,Two year,Fiber,1,1,0
+C00963,42,102.3,2,25.1,Two year,Fiber,1,1,0
+C00964,31,18.0,0,34.4,Month-to-month,DSL,0,1,0
+C00965,37,46.79,1,31.7,One year,Fiber,0,1,0
+C00966,27,106.38,0,27.0,Two year,Fiber,0,0,1
+C00967,10,82.47,1,,Month-to-month,DSL,0,1,0
+C00968,67,47.74,1,28.8,Two year,Fiber,0,0,0
+C00969,29,92.59,0,43.8,Month-to-month,Fiber,1,0,1
+C00970,54,55.36,1,44.0,Month-to-month,None,1,0,0
+C00971,66,65.39,3,30.2,Two year,DSL,0,0,0
+C00972,32,40.11,0,16.4,Two year,Fiber,0,1,0
+C00973,60,72.47,3,21.6,Month-to-month,Fiber,1,0,0
+C00974,32,100.51,2,51.9,Two year,Fiber,1,0,0
+C00975,5,58.63,2,40.9,One year,DSL,1,0,0
+C00976,64,90.07,0,35.9,Two year,Fiber,0,0,0
+C00977,61,70.6,1,26.1,Month-to-month,Fiber,1,0,0
+C00978,41,102.21,2,58.2,Two year,None,0,1,1
+C00979,60,59.03,0,21.8,One year,DSL,0,0,0
+C00980,49,115.54,1,36.0,One year,DSL,0,1,0
+C00981,58,91.08,2,41.0,Month-to-month,DSL,0,0,0
+C00982,5,78.83,2,15.7,Month-to-month,None,1,1,1
+C00983,59,79.85,1,23.4,Month-to-month,Fiber,1,1,0
+C00984,16,58.98,2,27.6,Month-to-month,Fiber,1,0,1
+C00985,71,57.18,1,46.1,Two year,Fiber,0,0,0
+C00986,70,79.34,1,27.9,One year,Fiber,0,1,0
+C00987,4,38.44,0,13.9,One year,DSL,1,0,0
+C00988,47,55.15,2,12.5,Month-to-month,DSL,0,1,0
+C00989,28,45.76,1,23.3,One year,Fiber,1,1,0
+C00990,19,88.01,4,13.1,Month-to-month,Fiber,1,0,1
+C00991,70,88.44,1,44.8,Two year,DSL,0,1,0
+C00992,29,107.5,1,,Month-to-month,Fiber,1,1,0
+C00993,40,62.63,5,34.1,Month-to-month,DSL,0,0,1
+C00994,23,49.38,1,30.3,Month-to-month,None,0,1,0
+C00995,50,30.86,1,44.4,Month-to-month,DSL,0,1,0
+C00996,19,79.59,0,43.8,One year,Fiber,0,1,0
+C00997,27,111.11,2,20.2,One year,DSL,0,0,1
+C00998,51,69.91,3,22.1,Month-to-month,DSL,0,1,1
+C00999,16,72.75,1,43.9,One year,DSL,1,1,0
+C01000,57,71.83,2,37.8,Two year,Fiber,0,1,0
+C01001,71,79.11,1,42.5,One year,DSL,1,1,0
+C01002,51,99.92,1,21.5,One year,DSL,1,0,0
+C01003,27,125.74,2,23.5,Month-to-month,Fiber,1,0,1
+C01004,14,85.95,2,40.5,One year,Fiber,0,0,1
+C01005,41,87.8,2,24.5,Month-to-month,Fiber,0,1,1
+C01006,32,65.3,0,12.7,Month-to-month,DSL,0,1,0
+C01007,18,68.98,1,24.7,Month-to-month,Fiber,0,0,0
+C01008,27,68.6,0,31.1,Month-to-month,Fiber,1,0,0
+C01009,70,61.75,3,57.8,Month-to-month,Fiber,0,0,0
+C01010,13,75.57,2,22.3,Month-to-month,Fiber,1,0,0
+C01011,19,89.5,5,33.1,Two year,DSL,1,0,0
+C01012,26,73.78,1,62.6,Month-to-month,Fiber,1,1,0
+C01013,66,64.15,0,18.7,Month-to-month,Fiber,1,1,1
+C01014,26,75.53,1,43.2,Month-to-month,Fiber,0,1,1
+C01015,22,45.12,2,24.0,Month-to-month,Fiber,0,1,1
+C01016,22,94.49,1,39.6,Month-to-month,DSL,1,0,0
+C01017,69,60.43,1,66.7,One year,DSL,1,0,0
+C01018,26,39.66,4,45.1,Month-to-month,Fiber,1,0,1
+C01019,27,84.93,1,36.1,Month-to-month,Fiber,0,1,1
+C01020,27,86.32,2,20.7,One year,Fiber,1,0,0
+C01021,63,47.92,2,31.5,Month-to-month,Fiber,1,1,0
+C01022,52,89.46,2,26.1,Two year,Fiber,0,0,0
+C01023,44,89.75,0,13.7,Month-to-month,None,1,0,0
+C01024,16,127.3,2,4.2,Month-to-month,Fiber,0,0,1
+C01025,9,65.42,2,22.4,Month-to-month,Fiber,1,1,0
+C01026,7,70.48,2,33.6,Two year,None,0,0,1
+C01027,22,55.01,1,49.7,Month-to-month,DSL,1,1,0
+C01028,57,85.82,1,23.7,Month-to-month,Fiber,0,1,0
+C01029,55,71.87,2,36.7,Month-to-month,DSL,1,1,0
+C01030,57,99.66,1,10.2,Two year,DSL,1,1,1
+C01031,49,59.85,3,22.8,One year,DSL,0,0,0
+C01032,38,85.21,0,1.0,Month-to-month,Fiber,0,0,0
+C01033,26,65.34,1,65.3,One year,Fiber,1,1,0
+C01034,53,20.41,3,36.8,One year,DSL,1,0,0
+C01035,15,89.59,0,36.3,Month-to-month,None,1,1,1
+C01036,5,23.05,1,41.5,Month-to-month,DSL,1,1,0
+C01037,60,67.53,1,69.5,Month-to-month,Fiber,0,0,0
+C01038,35,67.97,1,27.9,Month-to-month,None,0,0,0
+C01039,45,71.77,3,20.3,One year,Fiber,1,0,0
+C01040,69,73.32,0,62.0,Two year,Fiber,0,1,0
+C01041,50,73.05,1,16.8,One year,Fiber,1,1,0
+C01042,56,82.17,1,52.2,Month-to-month,DSL,0,1,0
+C01043,35,68.96,2,33.0,Month-to-month,Fiber,0,0,0
+C01044,23,145.24,1,40.1,Month-to-month,None,1,0,0
+C01045,26,62.41,1,13.9,One year,Fiber,0,1,0
+C01046,65,37.77,1,70.3,One year,Fiber,0,0,0
+C01047,28,32.52,2,28.6,One year,DSL,0,0,0
+C01048,68,90.43,1,24.2,Two year,Fiber,1,0,0
+C01049,3,27.43,1,41.7,Month-to-month,Fiber,0,0,0
+C01050,22,38.13,1,25.0,One year,None,1,1,0
+C01051,68,34.09,0,39.9,Two year,None,1,1,0
+C01052,42,84.8,3,16.3,Month-to-month,DSL,1,0,0
+C01053,27,109.26,1,36.0,One year,Fiber,1,0,1
+C01054,13,45.57,3,25.6,Month-to-month,DSL,0,0,1
+C01055,35,83.82,2,23.0,Month-to-month,DSL,0,0,0
+C01056,69,18.0,2,20.8,Month-to-month,Fiber,0,1,0
+C01057,26,51.15,4,46.4,Month-to-month,Fiber,1,0,1
+C01058,35,88.87,2,29.1,One year,Fiber,1,1,0
+C01059,26,63.26,0,31.4,Month-to-month,Fiber,0,1,1
+C01060,62,99.83,0,40.0,Month-to-month,Fiber,0,1,0
+C01061,50,18.0,1,50.0,One year,Fiber,1,0,0
+C01062,45,51.42,1,21.1,Month-to-month,DSL,1,1,0
+C01063,49,84.68,5,37.1,Month-to-month,DSL,1,1,1
+C01064,30,84.33,2,21.3,Two year,Fiber,0,1,0
+C01065,59,86.47,2,31.1,Two year,None,0,1,0
+C01066,45,77.81,3,48.9,Month-to-month,DSL,0,1,0
+C01067,6,39.96,2,1.2,Two year,DSL,0,1,1
+C01068,27,50.18,2,21.1,Two year,DSL,0,1,0
+C01069,63,136.86,0,30.8,Month-to-month,Fiber,1,0,0
+C01070,19,36.74,3,39.3,Two year,DSL,1,1,1
+C01071,69,32.36,1,51.1,One year,Fiber,0,0,0
+C01072,59,91.04,0,10.2,Two year,None,1,1,0
+C01073,72,42.34,1,53.8,Month-to-month,DSL,1,1,0
+C01074,58,122.18,1,41.3,One year,DSL,0,1,1
+C01075,10,148.56,1,30.6,Month-to-month,Fiber,0,0,1
+C01076,14,65.25,0,13.4,One year,Fiber,0,1,1
+C01077,36,80.66,1,26.0,Month-to-month,Fiber,0,1,0
+C01078,26,20.91,0,48.4,One year,Fiber,0,1,0
+C01079,68,100.88,2,34.4,Two year,Fiber,1,1,0
+C01080,62,18.0,2,31.5,Month-to-month,Fiber,1,1,0
+C01081,55,34.49,1,20.4,Month-to-month,None,0,1,0
+C01082,68,75.32,0,44.3,Month-to-month,DSL,0,0,0
+C01083,5,87.33,2,31.9,Month-to-month,Fiber,1,1,1
+C01084,51,30.45,1,30.7,Two year,DSL,0,0,0
+C01085,63,56.81,3,32.7,One year,DSL,1,1,0
+C01086,71,25.48,4,25.0,One year,None,0,0,0
+C01087,61,63.12,2,22.6,Two year,DSL,1,0,0
+C01088,59,49.58,0,,One year,DSL,1,0,0
+C01089,57,54.2,0,25.3,Month-to-month,Fiber,0,0,0
+C01090,10,90.23,2,,Month-to-month,DSL,0,0,1
+C01091,30,79.88,2,40.8,Month-to-month,DSL,1,1,0
+C01092,64,87.71,1,24.7,Two year,Fiber,1,1,0
+C01093,46,68.38,3,28.5,Two year,Fiber,1,1,1
+C01094,19,92.07,2,33.5,Month-to-month,DSL,1,0,1
+C01095,52,71.02,1,22.8,Month-to-month,None,0,0,0
+C01096,2,58.24,1,17.5,One year,DSL,1,0,0
+C01097,29,87.98,1,37.1,One year,Fiber,0,0,0
+C01098,55,60.14,1,60.4,One year,Fiber,0,0,0
+C01099,57,62.77,1,46.7,Month-to-month,Fiber,0,1,0
+C01100,37,101.91,2,51.9,One year,DSL,0,0,1
+C01101,20,99.27,1,15.8,One year,Fiber,0,0,0
+C01102,36,63.68,1,31.3,Month-to-month,Fiber,1,1,0
+C01103,14,96.44,1,31.2,One year,DSL,1,0,0
+C01104,68,36.21,1,54.0,Month-to-month,DSL,1,0,0
+C01105,62,63.84,2,46.8,Two year,None,1,0,0
+C01106,52,50.95,0,31.7,Two year,Fiber,0,0,0
+C01107,25,71.95,3,2.0,One year,Fiber,1,0,0
+C01108,11,92.57,1,17.8,Month-to-month,Fiber,0,1,0
+C01109,5,87.56,1,42.9,Two year,DSL,1,0,1
+C01110,28,83.75,1,29.5,Month-to-month,Fiber,1,1,0
+C01111,60,75.85,0,32.5,Month-to-month,DSL,1,0,0
+C01112,27,67.54,3,42.6,Month-to-month,Fiber,1,0,0
+C01113,58,105.63,0,49.8,Month-to-month,Fiber,0,0,0
+C01114,13,28.7,2,23.1,Two year,Fiber,0,1,0
+C01115,58,53.33,3,42.3,Month-to-month,None,0,1,0
+C01116,6,83.52,3,56.6,One year,DSL,1,1,0
+C01117,25,114.78,0,54.0,One year,Fiber,1,1,0
+C01118,11,62.32,0,26.6,One year,Fiber,1,0,0
+C01119,44,64.69,2,38.1,Month-to-month,Fiber,0,0,1
+C01120,14,35.88,1,44.5,Month-to-month,Fiber,0,0,1
+C01121,2,56.84,2,34.3,Two year,DSL,1,0,0
+C01122,24,91.83,5,30.5,Month-to-month,Fiber,0,0,1
+C01123,1,116.22,3,9.8,Month-to-month,Fiber,1,0,1
+C01124,28,63.79,1,21.9,One year,None,0,1,0
+C01125,19,49.63,2,24.3,One year,DSL,0,1,1
+C01126,68,73.95,2,16.3,One year,Fiber,0,0,1
+C01127,38,26.79,2,35.5,Month-to-month,Fiber,0,0,1
+C01128,32,106.6,3,46.1,Month-to-month,Fiber,0,1,1
+C01129,44,37.54,0,28.1,Month-to-month,DSL,0,1,0
+C01130,10,80.79,0,3.1,One year,None,1,0,0
+C01131,10,80.37,1,32.3,Two year,Fiber,0,1,1
+C01132,12,89.58,4,37.8,One year,Fiber,1,0,1
+C01133,63,79.16,1,36.9,One year,Fiber,1,1,0
+C01134,54,72.08,2,23.9,One year,Fiber,1,1,1
+C01135,70,84.0,1,17.1,One year,DSL,1,0,0
+C01136,59,95.37,1,,Month-to-month,Fiber,0,0,1
+C01137,9,122.3,1,38.9,Two year,None,0,1,1
+C01138,12,41.13,3,24.5,One year,Fiber,1,0,1
+C01139,60,20.51,2,13.0,Month-to-month,DSL,1,0,1
+C01140,40,28.69,2,37.1,One year,DSL,1,1,0
+C01141,45,21.23,2,21.4,Month-to-month,Fiber,1,1,0
+C01142,17,38.41,1,39.4,Month-to-month,DSL,1,1,1
+C01143,37,34.85,0,36.2,Two year,DSL,0,1,0
+C01144,65,60.34,2,63.1,One year,DSL,0,0,0
+C01145,36,95.94,1,32.9,Month-to-month,DSL,0,1,1
+C01146,50,89.54,2,62.0,One year,DSL,1,0,0
+C01147,54,54.58,1,35.1,Month-to-month,Fiber,0,1,0
+C01148,67,57.0,7,24.7,One year,DSL,1,1,0
+C01149,16,128.3,0,19.2,Month-to-month,DSL,1,1,1
+C01150,66,88.65,4,21.7,One year,DSL,1,0,1
+C01151,44,76.84,0,40.0,Two year,DSL,1,0,0
+C01152,60,75.4,1,35.8,Month-to-month,None,1,1,0
+C01153,19,63.9,1,8.3,One year,Fiber,1,1,1
+C01154,9,128.09,1,48.3,One year,DSL,0,1,0
+C01155,7,66.68,2,54.7,One year,DSL,1,0,0
+C01156,28,76.18,1,8.1,Two year,Fiber,1,1,0
+C01157,40,25.83,2,48.2,Month-to-month,Fiber,1,0,0
+C01158,21,54.18,2,57.6,Month-to-month,Fiber,1,0,1
+C01159,20,56.58,1,,One year,DSL,0,0,1
+C01160,59,85.62,0,27.5,Month-to-month,None,0,1,0
+C01161,54,50.29,2,,Two year,None,0,0,0
+C01162,46,73.35,3,47.6,One year,Fiber,0,1,1
+C01163,47,55.02,2,28.2,One year,DSL,1,0,0
+C01164,61,41.18,1,27.6,Month-to-month,Fiber,0,0,0
+C01165,17,40.04,0,39.9,Month-to-month,None,0,0,1
+C01166,68,67.14,0,55.8,Two year,None,1,0,0
+C01167,63,74.89,1,33.1,Month-to-month,DSL,1,0,0
+C01168,25,66.58,3,27.4,One year,Fiber,1,0,0
+C01169,25,48.68,1,30.0,One year,None,0,1,0
+C01170,14,68.14,1,43.2,Month-to-month,DSL,0,0,0
+C01171,52,62.96,0,15.4,One year,None,0,0,0
+C01172,22,42.83,1,33.8,Month-to-month,Fiber,0,0,1
+C01173,20,74.33,2,20.9,Two year,Fiber,1,1,1
+C01174,49,122.69,1,17.2,One year,Fiber,1,0,0
+C01175,15,67.81,0,6.8,Month-to-month,Fiber,1,0,1
+C01176,9,31.09,1,26.8,One year,None,0,0,0
+C01177,62,113.12,1,49.1,Two year,Fiber,1,0,0
+C01178,3,107.2,1,6.2,Month-to-month,DSL,0,0,1
+C01179,67,112.11,3,41.6,Month-to-month,None,0,1,1
+C01180,50,70.82,0,24.9,Month-to-month,Fiber,1,0,0
+C01181,26,50.06,2,19.1,One year,Fiber,0,1,0
+C01182,41,47.0,0,38.8,Month-to-month,DSL,1,0,0
+C01183,23,103.95,2,52.3,One year,Fiber,1,0,0
+C01184,30,116.96,1,55.0,Month-to-month,Fiber,1,1,0
+C01185,51,46.23,2,38.0,Two year,DSL,1,0,0
+C01186,66,18.0,1,33.0,Two year,Fiber,0,0,0
+C01187,17,71.5,2,39.5,Month-to-month,DSL,0,1,0
+C01188,39,46.68,3,,One year,None,0,0,0
+C01189,63,52.2,1,29.9,Month-to-month,Fiber,0,1,0
+C01190,2,65.33,2,49.9,Month-to-month,Fiber,1,0,1
+C01191,1,83.48,2,25.7,Month-to-month,Fiber,1,1,1
+C01192,45,50.13,1,22.4,One year,DSL,1,1,0
+C01193,11,75.81,1,58.8,Two year,Fiber,1,0,1
+C01194,72,68.47,3,34.0,Month-to-month,Fiber,0,1,1
+C01195,9,18.0,2,37.1,Month-to-month,DSL,0,0,0
+C01196,54,87.26,1,41.7,One year,Fiber,0,0,0
+C01197,23,59.37,1,21.5,Two year,DSL,1,0,0
+C01198,67,36.61,4,27.9,One year,DSL,1,0,0
+C01199,63,51.67,1,25.0,Month-to-month,Fiber,0,1,1
+C01200,58,77.68,2,38.7,Two year,DSL,0,1,0
+C01201,47,73.29,1,39.1,Month-to-month,Fiber,0,0,0
+C01202,16,90.04,2,25.6,Month-to-month,Fiber,1,1,1
+C01203,8,84.22,2,62.4,Month-to-month,Fiber,0,0,1
+C01204,19,39.2,1,33.6,Month-to-month,DSL,1,1,1
+C01205,6,18.0,1,35.4,One year,DSL,0,1,1
+C01206,57,75.39,1,52.8,Two year,DSL,1,1,0
+C01207,21,89.67,1,21.8,One year,Fiber,1,0,1
+C01208,32,66.33,1,26.7,Two year,DSL,0,1,1
+C01209,45,90.5,2,38.0,Month-to-month,Fiber,0,0,0
+C01210,51,43.95,5,13.3,One year,DSL,1,0,1
+C01211,43,62.31,0,30.7,One year,Fiber,0,1,0
+C01212,53,46.22,0,62.7,Month-to-month,Fiber,1,1,0
+C01213,9,91.52,1,59.6,Month-to-month,Fiber,0,1,0
+C01214,21,46.51,1,46.6,Two year,Fiber,1,0,0
+C01215,55,129.68,1,50.6,Month-to-month,Fiber,0,1,0
+C01216,52,57.94,1,40.9,Two year,Fiber,0,0,0
+C01217,46,94.35,1,28.0,Two year,None,0,0,0
+C01218,68,58.3,0,57.0,Month-to-month,DSL,1,1,0
+C01219,71,109.45,2,20.7,Month-to-month,None,0,1,0
+C01220,7,108.39,1,47.6,One year,Fiber,1,1,1
+C01221,40,62.93,0,26.9,Month-to-month,Fiber,0,1,1
+C01222,65,79.69,2,27.7,One year,Fiber,0,1,0
+C01223,24,107.67,2,41.5,Month-to-month,DSL,1,1,0
+C01224,5,80.52,1,62.5,Two year,None,0,0,1
+C01225,9,46.22,1,54.0,Month-to-month,Fiber,0,0,1
+C01226,53,73.96,1,38.7,One year,DSL,1,1,0
+C01227,67,51.05,3,34.9,Two year,Fiber,0,1,0
+C01228,51,76.23,2,44.9,One year,DSL,1,0,0
+C01229,3,49.95,3,53.1,One year,None,1,1,0
+C01230,30,82.44,1,9.4,Two year,DSL,1,1,0
+C01231,26,21.91,1,32.2,Two year,DSL,0,0,0
+C01232,66,40.58,5,19.3,Two year,Fiber,1,0,0
+C01233,39,49.79,3,30.9,Two year,Fiber,0,0,1
+C01234,17,67.51,3,16.4,Month-to-month,Fiber,1,0,1
+C01235,42,29.66,1,8.7,Two year,DSL,0,0,1
+C01236,54,47.26,0,15.5,Two year,DSL,0,0,0
+C01237,42,93.79,2,26.3,One year,Fiber,0,1,1
+C01238,31,97.12,3,42.2,One year,Fiber,0,1,1
+C01239,52,18.0,1,22.6,One year,Fiber,0,0,0
+C01240,22,55.57,2,21.9,Month-to-month,Fiber,0,1,1
+C01241,10,107.7,1,39.5,Month-to-month,Fiber,0,0,1
+C01242,63,82.81,4,38.0,One year,DSL,0,0,1
+C01243,52,83.41,2,57.8,Month-to-month,Fiber,0,0,1
+C01244,53,87.8,1,47.1,Month-to-month,None,0,0,0
+C01245,65,45.15,0,19.6,Two year,Fiber,0,1,0
+C01246,52,77.99,0,24.6,Month-to-month,Fiber,0,1,1
+C01247,3,85.21,3,44.5,Two year,DSL,0,1,0
+C01248,61,75.0,0,21.6,One year,Fiber,0,0,0
+C01249,3,60.98,2,29.5,Two year,None,1,1,0
+C01250,50,70.65,0,10.1,Month-to-month,DSL,0,0,0
+C01251,72,40.08,2,15.7,Month-to-month,Fiber,1,1,0
+C01252,30,89.2,2,51.6,One year,None,0,0,1
+C01253,23,31.81,2,36.3,Month-to-month,Fiber,1,1,0
+C01254,67,49.14,2,25.2,One year,Fiber,1,0,0
+C01255,33,91.09,1,27.2,One year,DSL,0,1,0
+C01256,67,80.13,0,58.0,Month-to-month,Fiber,0,1,0
+C01257,23,58.44,4,24.8,Two year,DSL,1,1,0
+C01258,14,24.05,3,40.6,Month-to-month,Fiber,1,1,1
+C01259,41,70.71,1,46.2,Month-to-month,None,1,0,0
+C01260,27,54.36,2,54.2,Two year,Fiber,0,0,0
+C01261,52,85.45,3,22.1,Month-to-month,Fiber,0,0,1
+C01262,22,57.53,2,14.4,One year,None,1,1,1
+C01263,55,22.98,0,18.5,One year,DSL,1,1,0
+C01264,26,33.26,2,44.2,Month-to-month,DSL,1,1,0
+C01265,26,60.04,2,61.9,Month-to-month,Fiber,1,1,0
+C01266,52,75.05,2,44.7,Month-to-month,DSL,0,0,0
+C01267,19,39.41,0,24.8,Month-to-month,Fiber,0,1,1
+C01268,21,50.76,2,50.6,Month-to-month,Fiber,0,1,0
+C01269,40,94.19,0,27.4,Month-to-month,Fiber,0,0,0
+C01270,24,103.07,1,22.4,Two year,Fiber,0,0,0
+C01271,28,79.75,1,29.4,Two year,Fiber,0,1,1
+C01272,25,64.02,2,25.9,Month-to-month,DSL,1,1,0
+C01273,45,54.6,0,24.2,One year,Fiber,1,1,0
+C01274,25,87.1,1,51.1,Month-to-month,Fiber,0,1,0
+C01275,45,63.14,2,26.8,Month-to-month,DSL,1,0,0
+C01276,17,97.76,3,11.8,Month-to-month,Fiber,0,1,1
+C01277,65,99.24,1,42.2,One year,Fiber,1,1,0
+C01278,69,83.48,7,20.6,Month-to-month,Fiber,0,1,1
+C01279,1,58.07,2,21.1,Two year,Fiber,0,1,0
+C01280,8,60.23,2,43.8,One year,DSL,0,1,1
+C01281,8,25.98,1,23.8,One year,Fiber,0,0,0
+C01282,14,70.53,1,,Two year,Fiber,0,0,0
+C01283,57,69.66,2,34.6,Month-to-month,Fiber,1,1,0
+C01284,18,33.43,1,30.0,One year,Fiber,1,1,0
+C01285,43,138.2,1,28.0,Month-to-month,Fiber,1,0,1
+C01286,19,87.57,2,1.2,Month-to-month,Fiber,1,0,1
+C01287,5,48.47,4,31.6,Month-to-month,Fiber,1,1,1
+C01288,7,129.52,0,56.6,Month-to-month,DSL,0,0,0
+C01289,68,58.11,1,42.8,One year,Fiber,1,1,0
+C01290,41,95.25,1,28.7,Month-to-month,Fiber,1,1,1
+C01291,47,74.45,5,40.6,Month-to-month,DSL,1,0,0
+C01292,14,59.07,1,42.8,Two year,Fiber,1,1,0
+C01293,35,62.57,0,22.2,Month-to-month,Fiber,1,0,0
+C01294,48,112.23,1,51.6,Month-to-month,None,1,0,1
+C01295,57,96.53,1,36.3,Month-to-month,Fiber,1,0,1
+C01296,48,68.57,3,29.6,Month-to-month,DSL,1,1,0
+C01297,43,18.0,3,56.3,Two year,DSL,1,0,0
+C01298,45,80.52,0,5.0,Two year,Fiber,1,1,0
+C01299,27,37.1,2,17.5,One year,Fiber,1,1,0
+C01300,51,87.08,1,43.0,Month-to-month,DSL,0,0,1
+C01301,22,52.01,2,43.4,Two year,Fiber,1,1,0
+C01302,52,54.94,2,57.1,One year,Fiber,1,0,1
+C01303,33,54.13,1,2.4,Two year,None,1,1,0
+C01304,42,100.57,1,46.0,Month-to-month,Fiber,1,1,1
+C01305,35,22.54,2,16.6,One year,DSL,1,1,0
+C01306,41,92.66,2,39.9,Month-to-month,Fiber,1,0,1
+C01307,52,81.58,0,33.1,Month-to-month,DSL,1,0,0
+C01308,21,69.97,1,45.9,Two year,Fiber,0,1,0
+C01309,35,59.45,3,30.7,One year,DSL,0,0,0
+C01310,30,85.62,3,48.2,One year,Fiber,0,0,1
+C01311,2,59.68,3,22.4,Month-to-month,Fiber,1,1,1
+C01312,62,59.43,2,32.9,Month-to-month,DSL,1,1,0
+C01313,50,73.79,2,36.7,Two year,DSL,1,0,0
+C01314,4,120.15,1,57.5,Month-to-month,Fiber,1,0,1
+C01315,6,29.64,1,45.7,Month-to-month,Fiber,0,0,1
+C01316,67,86.02,0,36.9,Month-to-month,DSL,0,1,0
+C01317,61,67.99,2,43.0,One year,Fiber,0,1,0
+C01318,53,65.82,1,49.2,Month-to-month,DSL,1,1,0
+C01319,51,29.24,5,39.2,Month-to-month,Fiber,0,1,0
+C01320,61,22.84,5,19.6,One year,Fiber,1,1,1
+C01321,44,81.52,1,42.8,One year,Fiber,1,0,0
+C01322,1,36.46,3,33.6,One year,Fiber,0,1,1
+C01323,33,100.46,1,29.1,Month-to-month,DSL,1,0,1
+C01324,24,43.56,2,23.0,Month-to-month,Fiber,1,0,1
+C01325,13,87.43,3,42.1,Month-to-month,None,0,1,0
+C01326,62,55.87,1,41.2,Month-to-month,Fiber,0,0,0
+C01327,48,54.53,1,20.6,Month-to-month,DSL,1,1,0
+C01328,65,46.41,2,18.5,Two year,DSL,0,1,0
+C01329,8,84.23,2,60.5,Two year,Fiber,1,1,0
+C01330,71,92.04,1,46.0,Month-to-month,DSL,0,1,1
+C01331,44,63.17,2,35.2,One year,Fiber,1,1,1
+C01332,41,88.55,0,42.5,Month-to-month,DSL,1,1,0
+C01333,14,72.35,1,27.5,Month-to-month,Fiber,1,1,1
+C01334,45,34.64,3,31.6,One year,Fiber,0,1,0
+C01335,43,82.6,1,34.3,Month-to-month,Fiber,1,1,0
+C01336,51,63.58,4,47.5,Month-to-month,Fiber,1,1,1
+C01337,11,18.0,3,14.2,Month-to-month,None,0,1,1
+C01338,46,61.06,0,19.7,One year,DSL,1,0,0
+C01339,7,24.58,2,16.9,One year,DSL,0,1,0
+C01340,6,37.52,2,45.9,Month-to-month,DSL,1,1,0
+C01341,34,65.03,0,32.6,Month-to-month,DSL,0,1,1
+C01342,9,69.89,2,21.2,Month-to-month,DSL,1,0,1
+C01343,52,48.62,1,30.9,Month-to-month,Fiber,0,0,0
+C01344,35,86.76,1,25.2,Month-to-month,None,1,1,1
+C01345,18,68.79,1,13.9,One year,Fiber,1,1,0
+C01346,20,60.13,2,51.6,One year,DSL,0,0,0
+C01347,36,73.22,2,31.9,One year,Fiber,1,1,0
+C01348,44,105.74,3,52.0,Month-to-month,Fiber,1,0,0
+C01349,58,18.0,0,13.7,One year,Fiber,0,0,0
+C01350,42,108.39,2,41.1,Two year,None,1,1,0
+C01351,40,54.73,1,13.8,Month-to-month,DSL,1,0,0
+C01352,44,50.19,1,68.2,Month-to-month,Fiber,1,0,1
+C01353,43,60.74,1,9.8,Two year,None,0,0,0
+C01354,26,47.17,4,59.1,One year,None,1,1,0
+C01355,16,42.87,5,33.7,Month-to-month,DSL,0,1,1
+C01356,38,95.71,3,31.4,One year,Fiber,0,1,1
+C01357,9,76.47,3,42.3,Month-to-month,Fiber,0,1,0
+C01358,18,18.3,0,20.9,Month-to-month,DSL,0,0,1
+C01359,11,90.88,0,45.0,One year,Fiber,0,1,1
+C01360,36,86.8,1,46.0,One year,Fiber,0,0,0
+C01361,71,30.43,1,34.2,Month-to-month,Fiber,1,0,1
+C01362,64,77.05,0,37.5,Month-to-month,DSL,0,1,0
+C01363,7,89.37,1,61.0,Two year,Fiber,0,1,1
+C01364,60,27.08,2,43.1,One year,None,1,1,0
+C01365,11,79.99,2,23.0,Month-to-month,DSL,0,0,1
+C01366,66,53.1,3,,Month-to-month,None,0,0,0
+C01367,15,87.18,1,26.5,One year,Fiber,0,1,1
+C01368,10,45.86,3,23.8,Month-to-month,Fiber,1,1,0
+C01369,57,101.18,0,41.2,Month-to-month,DSL,1,0,0
+C01370,60,65.18,2,19.9,Two year,None,1,1,1
+C01371,29,54.78,1,34.6,One year,Fiber,0,0,0
+C01372,40,51.77,1,43.4,Two year,Fiber,0,1,0
+C01373,57,96.47,3,60.7,Month-to-month,DSL,1,0,0
+C01374,62,51.75,0,42.9,Month-to-month,DSL,0,0,0
+C01375,31,101.69,1,13.4,Two year,Fiber,1,1,0
+C01376,57,77.98,1,15.6,Two year,Fiber,1,0,0
+C01377,58,33.2,2,58.2,One year,Fiber,1,1,0
+C01378,58,72.73,3,25.1,Month-to-month,Fiber,0,0,1
+C01379,65,73.31,2,12.8,One year,Fiber,0,1,0
+C01380,61,32.29,1,19.9,Month-to-month,DSL,0,0,0
+C01381,33,72.23,4,45.1,Two year,Fiber,1,1,1
+C01382,23,87.18,2,35.6,One year,Fiber,0,1,0
+C01383,72,103.59,2,43.1,Month-to-month,Fiber,1,0,1
+C01384,33,102.36,0,33.5,Month-to-month,Fiber,1,0,0
+C01385,68,138.89,2,,Month-to-month,DSL,0,0,0
+C01386,72,72.02,3,9.0,One year,DSL,1,0,0
+C01387,2,87.51,2,22.3,Month-to-month,DSL,0,0,1
+C01388,11,55.03,1,35.7,Month-to-month,Fiber,1,0,0
+C01389,41,124.76,2,17.4,Month-to-month,Fiber,0,1,0
+C01390,7,47.05,1,47.8,Month-to-month,DSL,1,1,0
+C01391,48,123.5,2,20.0,One year,Fiber,1,0,0
+C01392,1,119.91,1,10.9,Month-to-month,Fiber,0,1,1
+C01393,61,50.02,2,34.0,Month-to-month,DSL,1,0,0
+C01394,31,101.02,1,44.7,Month-to-month,Fiber,1,0,1
+C01395,49,84.79,1,54.9,Two year,Fiber,0,1,0
+C01396,34,60.46,0,11.4,Month-to-month,Fiber,0,1,1
+C01397,50,68.2,1,,Month-to-month,Fiber,0,0,1
+C01398,49,79.43,3,36.6,Month-to-month,DSL,0,0,1
+C01399,21,82.1,1,25.3,Month-to-month,DSL,0,1,0
+C01400,58,113.84,2,43.5,One year,Fiber,1,0,0
+C01401,60,87.99,0,53.0,Month-to-month,Fiber,1,0,1
+C01402,24,50.44,1,10.5,Two year,Fiber,1,0,0
+C01403,5,92.82,2,28.0,One year,DSL,0,0,1
+C01404,33,23.07,2,26.4,One year,DSL,1,1,0
+C01405,48,61.18,1,42.8,Month-to-month,Fiber,0,1,1
+C01406,57,63.87,0,54.4,Month-to-month,None,0,1,0
+C01407,15,90.43,2,35.0,Month-to-month,DSL,1,1,0
+C01408,35,121.58,2,29.9,Two year,DSL,1,1,1
+C01409,56,78.1,2,40.2,Two year,None,0,0,1
+C01410,38,61.88,1,30.7,Month-to-month,Fiber,1,1,0
+C01411,57,52.45,2,3.6,Two year,Fiber,1,0,0
+C01412,49,95.38,2,41.2,One year,Fiber,1,0,0
+C01413,13,66.54,0,47.8,One year,Fiber,1,0,0
+C01414,16,57.91,1,49.0,Two year,Fiber,1,1,0
+C01415,58,98.64,1,17.8,Two year,None,1,1,0
+C01416,51,104.74,2,42.5,One year,DSL,1,1,1
+C01417,61,45.14,0,55.5,Month-to-month,Fiber,1,0,1
+C01418,22,30.1,0,69.4,One year,DSL,1,0,0
+C01419,4,69.26,3,40.7,Month-to-month,Fiber,0,1,1
+C01420,18,40.07,2,47.8,Month-to-month,Fiber,1,1,0
+C01421,31,36.24,2,20.1,Two year,Fiber,1,1,1
+C01422,9,42.86,2,18.3,Month-to-month,DSL,1,0,1
+C01423,14,101.3,2,47.8,Month-to-month,DSL,1,1,1
+C01424,11,90.21,1,5.5,Month-to-month,DSL,1,1,1
+C01425,10,140.81,1,36.2,One year,None,0,0,0
+C01426,28,54.03,1,54.0,Month-to-month,Fiber,0,1,0
+C01427,58,109.24,0,44.0,Two year,Fiber,1,0,1
+C01428,28,85.82,0,43.9,One year,Fiber,0,0,1
+C01429,22,56.42,2,33.3,Month-to-month,None,1,1,0
+C01430,40,67.89,2,28.3,Month-to-month,Fiber,0,0,1
+C01431,47,56.29,0,64.2,Month-to-month,Fiber,1,0,1
+C01432,26,79.24,1,51.3,Month-to-month,None,0,0,0
+C01433,1,99.63,0,45.8,Month-to-month,Fiber,0,1,1
+C01434,22,61.68,1,34.4,Month-to-month,Fiber,1,1,1
+C01435,6,95.75,1,25.8,Month-to-month,Fiber,0,1,1
+C01436,11,107.59,5,49.1,Month-to-month,Fiber,0,0,1
+C01437,44,113.83,2,29.7,Month-to-month,DSL,0,0,1
+C01438,13,39.16,0,35.1,Two year,None,1,0,1
+C01439,27,70.62,3,42.6,Two year,Fiber,1,1,0
+C01440,29,91.86,0,36.9,Month-to-month,DSL,0,0,0
+C01441,64,41.57,0,55.7,One year,Fiber,1,0,0
+C01442,12,35.33,2,15.5,Month-to-month,DSL,1,1,0
+C01443,6,71.26,4,34.9,One year,Fiber,0,0,1
+C01444,39,60.44,2,63.9,Two year,Fiber,0,0,0
+C01445,45,67.17,2,46.6,One year,Fiber,1,0,0
+C01446,37,58.8,3,31.2,One year,DSL,1,0,0
+C01447,51,132.48,2,45.2,Two year,Fiber,0,1,0
+C01448,63,59.07,2,33.3,Month-to-month,Fiber,1,1,0
+C01449,45,88.4,1,54.5,One year,Fiber,0,0,0
+C01450,39,86.52,1,45.5,Month-to-month,None,0,1,0
+C01451,50,24.71,0,21.9,Month-to-month,Fiber,0,0,0
+C01452,16,113.05,3,37.3,One year,None,1,0,1
+C01453,18,89.52,0,39.9,Month-to-month,Fiber,0,1,1
+C01454,27,76.39,2,40.6,Month-to-month,Fiber,1,1,1
+C01455,56,101.61,1,38.5,Month-to-month,Fiber,1,0,1
+C01456,62,70.66,3,41.9,Two year,Fiber,0,1,1
+C01457,40,96.69,1,39.9,Month-to-month,Fiber,0,0,1
+C01458,45,19.47,1,23.9,Month-to-month,Fiber,1,1,0
+C01459,57,94.89,2,27.6,Month-to-month,Fiber,1,0,1
+C01460,18,77.14,1,30.4,Two year,Fiber,0,1,0
+C01461,9,77.58,1,35.3,Month-to-month,DSL,0,0,1
+C01462,54,48.42,0,30.5,Month-to-month,Fiber,0,0,0
+C01463,10,65.87,0,49.4,Month-to-month,Fiber,0,0,1
+C01464,12,65.05,4,20.6,One year,DSL,0,0,1
+C01465,29,40.1,2,9.7,Two year,DSL,0,0,0
+C01466,57,82.03,0,61.5,Month-to-month,DSL,0,1,0
+C01467,29,116.05,1,22.6,Month-to-month,Fiber,1,1,1
+C01468,9,32.2,1,49.4,Month-to-month,DSL,0,0,0
+C01469,10,85.73,1,42.5,Month-to-month,Fiber,1,1,1
+C01470,19,60.23,1,23.0,Two year,Fiber,0,0,0
+C01471,6,56.99,2,32.1,Month-to-month,Fiber,0,1,1
+C01472,24,74.09,1,30.1,Two year,DSL,0,1,0
+C01473,6,74.52,1,39.0,Month-to-month,Fiber,0,1,1
+C01474,61,77.17,2,23.3,Month-to-month,Fiber,0,0,0
+C01475,4,40.34,3,31.5,One year,Fiber,1,1,1
+C01476,15,102.52,0,33.5,One year,Fiber,0,0,0
+C01477,3,74.27,2,49.4,Month-to-month,Fiber,0,0,0
+C01478,21,88.63,2,28.2,Two year,Fiber,1,0,1
+C01479,59,106.01,3,20.3,Month-to-month,DSL,1,0,0
+C01480,42,18.21,2,26.4,Two year,Fiber,1,0,0
+C01481,68,89.65,0,39.1,Month-to-month,DSL,0,0,0
+C01482,45,67.4,1,9.2,Month-to-month,Fiber,1,1,1
+C01483,31,100.53,1,50.8,Two year,Fiber,0,0,1
+C01484,70,49.56,4,34.3,Month-to-month,Fiber,1,1,0
+C01485,14,98.19,4,40.1,Month-to-month,Fiber,1,1,0
+C01486,9,42.46,1,37.1,Two year,Fiber,1,1,0
+C01487,24,83.26,0,24.7,Month-to-month,Fiber,0,1,1
+C01488,67,79.96,0,18.8,One year,Fiber,1,1,0
+C01489,59,67.65,3,24.2,Month-to-month,DSL,0,1,0
+C01490,39,43.1,1,12.9,Month-to-month,DSL,0,1,0
+C01491,67,61.68,0,38.9,Month-to-month,Fiber,1,0,0
+C01492,47,97.84,1,31.7,Month-to-month,Fiber,0,1,0
+C01493,18,113.66,1,12.5,Month-to-month,Fiber,0,1,1
+C01494,1,126.72,1,25.4,Month-to-month,DSL,1,1,1
+C01495,3,86.75,1,43.1,One year,Fiber,0,1,1
+C01496,62,79.04,1,52.1,Month-to-month,Fiber,0,0,0
+C01497,23,84.57,0,,Month-to-month,DSL,0,0,1
+C01498,31,126.0,0,64.3,Two year,DSL,0,0,0
+C01499,28,86.58,4,20.6,Month-to-month,Fiber,1,1,1
+C01500,7,74.44,3,10.1,Two year,DSL,1,1,1
+C01501,1,64.29,5,58.6,One year,Fiber,1,1,1
+C01502,53,67.53,1,19.4,Two year,Fiber,1,1,0
+C01503,50,82.82,2,55.3,Two year,DSL,1,0,0
+C01504,17,50.96,2,24.7,Month-to-month,DSL,0,1,1
+C01505,9,54.46,2,29.9,One year,Fiber,1,0,1
+C01506,38,70.21,1,15.7,Month-to-month,Fiber,0,1,1
+C01507,6,59.35,3,51.9,Month-to-month,Fiber,1,1,1
+C01508,21,88.7,2,50.0,Month-to-month,DSL,0,1,0
+C01509,52,90.87,2,24.8,Month-to-month,Fiber,0,1,1
+C01510,13,79.35,2,33.0,Month-to-month,DSL,0,1,1
+C01511,56,85.72,1,43.3,Two year,DSL,1,0,0
+C01512,64,75.29,2,27.4,Month-to-month,Fiber,0,1,0
+C01513,14,18.0,2,53.1,One year,DSL,1,1,1
+C01514,48,47.48,0,32.5,Two year,Fiber,0,0,0
+C01515,56,91.81,1,26.7,Month-to-month,Fiber,0,0,0
+C01516,38,48.51,0,11.8,Month-to-month,Fiber,1,0,1
+C01517,22,95.95,2,15.9,One year,DSL,1,0,1
+C01518,71,97.53,2,42.2,Two year,None,0,1,1
+C01519,23,64.57,1,37.3,Two year,Fiber,0,0,0
+C01520,18,55.46,1,45.4,Month-to-month,Fiber,0,0,0
+C01521,9,72.27,1,26.1,Two year,Fiber,0,0,0
+C01522,66,70.77,0,11.0,Month-to-month,Fiber,0,0,0
+C01523,17,89.56,2,27.1,Month-to-month,DSL,1,0,1
+C01524,10,18.0,2,62.5,Month-to-month,DSL,0,0,0
+C01525,3,51.45,4,20.5,One year,DSL,0,1,1
+C01526,21,43.65,2,33.5,Month-to-month,Fiber,1,0,0
+C01527,49,18.0,1,1.0,One year,Fiber,0,1,0
+C01528,50,58.15,0,26.7,Month-to-month,Fiber,0,0,0
+C01529,62,30.01,0,28.2,Month-to-month,DSL,0,1,0
+C01530,49,61.15,0,38.6,Two year,DSL,0,1,0
+C01531,4,58.34,0,29.5,One year,Fiber,1,0,0
+C01532,61,84.69,3,12.7,Month-to-month,Fiber,1,0,0
+C01533,19,65.0,3,24.7,One year,Fiber,1,1,0
+C01534,69,24.64,1,31.1,Month-to-month,None,1,1,0
+C01535,25,81.7,2,20.1,Month-to-month,DSL,1,1,1
+C01536,2,139.76,1,22.1,Month-to-month,DSL,1,1,1
+C01537,29,102.1,3,48.1,Two year,Fiber,1,1,0
+C01538,33,91.02,3,25.3,Month-to-month,Fiber,1,0,1
+C01539,60,66.53,0,40.2,Month-to-month,Fiber,1,0,1
+C01540,40,58.25,2,31.5,One year,Fiber,1,0,0
+C01541,4,56.31,0,16.8,Month-to-month,Fiber,0,0,0
+C01542,4,78.74,2,29.3,Month-to-month,Fiber,1,0,1
+C01543,45,40.19,3,38.1,Month-to-month,Fiber,0,0,0
+C01544,7,78.17,1,58.3,Two year,Fiber,0,1,1
+C01545,39,53.42,1,23.2,Month-to-month,Fiber,1,1,0
+C01546,65,23.99,0,32.8,Month-to-month,DSL,1,0,0
+C01547,61,53.02,0,46.7,Month-to-month,DSL,1,0,0
+C01548,46,107.03,0,51.6,Month-to-month,Fiber,0,1,0
+C01549,23,75.87,2,24.9,Month-to-month,None,1,0,0
+C01550,38,18.0,0,31.8,One year,None,0,0,0
+C01551,8,53.14,4,,One year,DSL,1,1,1
+C01552,54,97.29,2,41.2,One year,DSL,1,0,0
+C01553,10,63.65,3,48.5,Month-to-month,Fiber,0,1,1
+C01554,4,86.67,1,50.4,Month-to-month,Fiber,1,1,1
+C01555,46,60.93,0,41.8,Month-to-month,Fiber,1,0,0
+C01556,42,77.15,0,36.0,Two year,Fiber,0,0,0
+C01557,40,72.99,1,24.6,One year,Fiber,0,1,0
+C01558,35,53.92,0,30.6,Month-to-month,None,0,0,0
+C01559,43,88.0,0,31.5,One year,None,0,0,0
+C01560,32,114.88,0,50.8,Month-to-month,Fiber,0,1,1
+C01561,10,82.77,1,36.5,Two year,DSL,1,0,0
+C01562,42,74.91,1,36.6,One year,None,0,1,0
+C01563,4,48.39,1,20.1,Month-to-month,DSL,1,1,0
+C01564,5,98.27,0,50.9,Month-to-month,Fiber,1,1,1
+C01565,41,57.69,2,23.3,Month-to-month,None,0,1,0
+C01566,51,87.7,2,30.0,Month-to-month,DSL,0,1,1
+C01567,6,93.33,3,52.3,Month-to-month,Fiber,1,0,1
+C01568,28,99.65,4,46.4,Month-to-month,Fiber,1,1,1
+C01569,67,100.17,3,22.1,One year,DSL,1,0,0
+C01570,57,99.16,0,18.9,Month-to-month,Fiber,1,1,0
+C01571,58,36.83,1,31.1,Month-to-month,DSL,0,1,0
+C01572,48,47.95,0,25.9,Month-to-month,DSL,0,1,0
+C01573,13,33.57,2,13.5,Month-to-month,Fiber,0,1,1
+C01574,28,31.69,1,23.5,Month-to-month,Fiber,0,1,0
+C01575,44,114.71,3,1.0,One year,Fiber,0,1,0
+C01576,48,44.39,2,,Month-to-month,Fiber,1,1,0
+C01577,10,40.46,6,45.8,Month-to-month,DSL,0,0,1
+C01578,70,70.44,1,53.7,Two year,None,1,0,0
+C01579,68,51.11,5,38.9,Month-to-month,DSL,0,0,0
+C01580,3,135.33,2,27.7,Month-to-month,Fiber,0,1,1
+C01581,43,64.34,1,48.3,Month-to-month,DSL,0,0,1
+C01582,11,84.46,2,24.2,Month-to-month,None,0,1,1
+C01583,23,50.15,1,15.4,One year,None,0,0,1
+C01584,64,25.46,0,31.9,One year,Fiber,1,0,0
+C01585,49,51.6,1,39.8,Month-to-month,Fiber,0,1,0
+C01586,26,51.9,4,22.6,Month-to-month,DSL,1,1,1
+C01587,1,51.7,2,19.3,Month-to-month,Fiber,0,0,1
+C01588,61,27.2,4,28.2,Month-to-month,Fiber,0,1,0
+C01589,21,75.81,1,39.8,Two year,DSL,1,0,0
+C01590,44,62.57,3,32.0,Month-to-month,None,1,0,0
+C01591,17,28.83,1,70.9,Two year,Fiber,0,1,0
+C01592,57,74.98,1,32.1,Month-to-month,DSL,0,0,0
+C01593,25,93.34,2,44.5,One year,Fiber,0,0,0
+C01594,54,105.54,0,13.7,Month-to-month,DSL,1,1,0
+C01595,7,18.0,0,42.2,Two year,Fiber,0,0,1
+C01596,45,51.53,3,27.5,One year,Fiber,0,0,1
+C01597,70,33.62,0,33.9,One year,DSL,1,1,0
+C01598,35,53.74,1,57.6,Month-to-month,DSL,1,1,1
+C01599,34,110.88,0,28.8,Month-to-month,DSL,0,0,1
+C01600,50,51.64,0,15.7,One year,Fiber,1,1,0

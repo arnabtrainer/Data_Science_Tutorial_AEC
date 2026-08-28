@@ -1,0 +1,601 @@
+review_id,review_text,positive
+1,Excellent quality and very easy to use compared with alternatives,1
+2,Fast delivery and the product works perfectly for my needs,1
+3,I am satisfied and would recommend this product,1
+4,Support was unhelpful and the experience was frustrating for my needs,0
+5,Fast delivery and the product works perfectly compared with alternatives,1
+6,Helpful support and a smooth experience compared with alternatives,1
+7,Excellent quality and very easy to use,1
+8,Not worth the price and difficult to use overall,0
+9,Poor quality and stopped working quickly for my needs,0
+10,Support was unhelpful and the experience was frustrating overall,0
+11,Delivery was late and the item was damaged overall,0
+12,Fast delivery and the product works perfectly for my needs,1
+13,Helpful support and a smooth experience compared with alternatives,1
+14,Not worth the price and difficult to use,0
+15,"Great value, reliable and well designed overall",1
+16,Fast delivery and the product works perfectly overall,1
+17,I am disappointed and would not recommend it,0
+18,Helpful support and a smooth experience,1
+19,Excellent quality and very easy to use,1
+20,"Great value, reliable and well designed compared with alternatives",1
+21,Excellent quality and very easy to use compared with alternatives,1
+22,Poor quality and stopped working quickly overall,0
+23,Delivery was late and the item was damaged overall,0
+24,Fast delivery and the product works perfectly for my needs,1
+25,Poor quality and stopped working quickly compared with alternatives,0
+26,Support was unhelpful and the experience was frustrating overall,0
+27,Excellent quality and very easy to use after one month,1
+28,"Great value, reliable and well designed after one month",1
+29,"Great value, reliable and well designed compared with alternatives",1
+30,Helpful support and a smooth experience overall,1
+31,Poor quality and stopped working quickly after one month,0
+32,Poor quality and stopped working quickly compared with alternatives,0
+33,Support was unhelpful and the experience was frustrating overall,0
+34,"Great value, reliable and well designed for my needs",1
+35,Not worth the price and difficult to use compared with alternatives,0
+36,Not worth the price and difficult to use compared with alternatives,0
+37,Support was unhelpful and the experience was frustrating after one month,0
+38,I am satisfied and would recommend this product after one month,1
+39,Fast delivery and the product works perfectly overall,1
+40,Fast delivery and the product works perfectly after one month,1
+41,Delivery was late and the item was damaged after one month,0
+42,Fast delivery and the product works perfectly after one month,1
+43,Delivery was late and the item was damaged for my needs,0
+44,Fast delivery and the product works perfectly for my needs,1
+45,Fast delivery and the product works perfectly for my needs,1
+46,Fast delivery and the product works perfectly overall,1
+47,I am satisfied and would recommend this product for my needs,1
+48,Not worth the price and difficult to use compared with alternatives,0
+49,"Great value, reliable and well designed after one month",1
+50,Poor quality and stopped working quickly after one month,0
+51,Support was unhelpful and the experience was frustrating compared with alternatives,0
+52,Helpful support and a smooth experience after one month,1
+53,I am disappointed and would not recommend it overall,0
+54,Fast delivery and the product works perfectly compared with alternatives,1
+55,"Great value, reliable and well designed compared with alternatives",1
+56,Not worth the price and difficult to use compared with alternatives,0
+57,Excellent quality and very easy to use,1
+58,I am satisfied and would recommend this product for my needs,1
+59,Poor quality and stopped working quickly,0
+60,Fast delivery and the product works perfectly overall,1
+61,Helpful support and a smooth experience,1
+62,Fast delivery and the product works perfectly after one month,1
+63,Excellent quality and very easy to use overall,1
+64,Poor quality and stopped working quickly overall,0
+65,I am satisfied and would recommend this product,1
+66,Fast delivery and the product works perfectly for my needs,1
+67,"Great value, reliable and well designed for my needs",1
+68,I am satisfied and would recommend this product overall,1
+69,Not worth the price and difficult to use after one month,0
+70,Poor quality and stopped working quickly,0
+71,Fast delivery and the product works perfectly after one month,1
+72,I am satisfied and would recommend this product,1
+73,Poor quality and stopped working quickly for my needs,0
+74,Excellent quality and very easy to use for my needs,1
+75,Not worth the price and difficult to use,0
+76,Excellent quality and very easy to use for my needs,1
+77,Delivery was late and the item was damaged after one month,0
+78,Fast delivery and the product works perfectly overall,1
+79,Helpful support and a smooth experience for my needs,1
+80,"Great value, reliable and well designed compared with alternatives",1
+81,Delivery was late and the item was damaged for my needs,0
+82,Fast delivery and the product works perfectly,1
+83,Not worth the price and difficult to use,0
+84,"Great value, reliable and well designed after one month",1
+85,Poor quality and stopped working quickly,0
+86,I am satisfied and would recommend this product overall,1
+87,"Great value, reliable and well designed",1
+88,Not worth the price and difficult to use,0
+89,Fast delivery and the product works perfectly compared with alternatives,1
+90,Delivery was late and the item was damaged,0
+91,I am disappointed and would not recommend it overall,0
+92,Not worth the price and difficult to use after one month,0
+93,"Great value, reliable and well designed overall",1
+94,I am satisfied and would recommend this product compared with alternatives,1
+95,Fast delivery and the product works perfectly,1
+96,Excellent quality and very easy to use compared with alternatives,1
+97,Delivery was late and the item was damaged for my needs,0
+98,Fast delivery and the product works perfectly overall,1
+99,Poor quality and stopped working quickly compared with alternatives,0
+100,Delivery was late and the item was damaged after one month,0
+101,Support was unhelpful and the experience was frustrating after one month,0
+102,Support was unhelpful and the experience was frustrating overall,0
+103,Excellent quality and very easy to use after one month,1
+104,Fast delivery and the product works perfectly overall,1
+105,Poor quality and stopped working quickly compared with alternatives,0
+106,Helpful support and a smooth experience,1
+107,I am disappointed and would not recommend it compared with alternatives,0
+108,Fast delivery and the product works perfectly,1
+109,Support was unhelpful and the experience was frustrating after one month,0
+110,"Great value, reliable and well designed for my needs",1
+111,Delivery was late and the item was damaged for my needs,0
+112,Not worth the price and difficult to use overall,0
+113,Poor quality and stopped working quickly,0
+114,Helpful support and a smooth experience after one month,1
+115,I am satisfied and would recommend this product compared with alternatives,1
+116,I am disappointed and would not recommend it overall,0
+117,I am satisfied and would recommend this product compared with alternatives,1
+118,Not worth the price and difficult to use for my needs,0
+119,"Great value, reliable and well designed after one month",1
+120,Delivery was late and the item was damaged compared with alternatives,0
+121,Support was unhelpful and the experience was frustrating compared with alternatives,0
+122,"Great value, reliable and well designed compared with alternatives",1
+123,I am disappointed and would not recommend it compared with alternatives,0
+124,Support was unhelpful and the experience was frustrating for my needs,0
+125,Helpful support and a smooth experience compared with alternatives,1
+126,Support was unhelpful and the experience was frustrating overall,0
+127,I am disappointed and would not recommend it after one month,0
+128,Poor quality and stopped working quickly,0
+129,Excellent quality and very easy to use overall,1
+130,Delivery was late and the item was damaged,0
+131,"Great value, reliable and well designed",1
+132,Helpful support and a smooth experience,1
+133,Support was unhelpful and the experience was frustrating,0
+134,Excellent quality and very easy to use,1
+135,Excellent quality and very easy to use for my needs,1
+136,"Great value, reliable and well designed for my needs",1
+137,"Great value, reliable and well designed for my needs",1
+138,Helpful support and a smooth experience,1
+139,Poor quality and stopped working quickly,0
+140,I am disappointed and would not recommend it for my needs,0
+141,Fast delivery and the product works perfectly after one month,1
+142,Delivery was late and the item was damaged after one month,0
+143,Excellent quality and very easy to use overall,1
+144,"Great value, reliable and well designed for my needs",1
+145,I am satisfied and would recommend this product for my needs,1
+146,Helpful support and a smooth experience,1
+147,"Great value, reliable and well designed compared with alternatives",1
+148,Delivery was late and the item was damaged after one month,0
+149,Excellent quality and very easy to use after one month,1
+150,Not worth the price and difficult to use compared with alternatives,0
+151,Support was unhelpful and the experience was frustrating compared with alternatives,0
+152,Fast delivery and the product works perfectly after one month,1
+153,I am disappointed and would not recommend it for my needs,0
+154,Helpful support and a smooth experience,1
+155,I am satisfied and would recommend this product compared with alternatives,1
+156,I am satisfied and would recommend this product after one month,1
+157,Poor quality and stopped working quickly after one month,0
+158,I am satisfied and would recommend this product after one month,1
+159,Not worth the price and difficult to use compared with alternatives,0
+160,Helpful support and a smooth experience compared with alternatives,1
+161,Fast delivery and the product works perfectly,1
+162,Excellent quality and very easy to use after one month,1
+163,Support was unhelpful and the experience was frustrating overall,0
+164,I am satisfied and would recommend this product,1
+165,Excellent quality and very easy to use for my needs,1
+166,I am satisfied and would recommend this product for my needs,1
+167,Not worth the price and difficult to use compared with alternatives,0
+168,Fast delivery and the product works perfectly after one month,1
+169,Support was unhelpful and the experience was frustrating compared with alternatives,0
+170,I am disappointed and would not recommend it after one month,0
+171,Poor quality and stopped working quickly,0
+172,I am disappointed and would not recommend it compared with alternatives,0
+173,I am satisfied and would recommend this product compared with alternatives,1
+174,Poor quality and stopped working quickly,0
+175,Fast delivery and the product works perfectly overall,1
+176,Delivery was late and the item was damaged compared with alternatives,0
+177,I am satisfied and would recommend this product compared with alternatives,1
+178,"Great value, reliable and well designed for my needs",1
+179,Delivery was late and the item was damaged after one month,0
+180,Not worth the price and difficult to use for my needs,0
+181,Helpful support and a smooth experience for my needs,1
+182,I am disappointed and would not recommend it compared with alternatives,0
+183,"Great value, reliable and well designed overall",1
+184,Excellent quality and very easy to use for my needs,1
+185,"Great value, reliable and well designed after one month",1
+186,Helpful support and a smooth experience after one month,1
+187,Support was unhelpful and the experience was frustrating for my needs,0
+188,Poor quality and stopped working quickly after one month,0
+189,Fast delivery and the product works perfectly,1
+190,Not worth the price and difficult to use,0
+191,Excellent quality and very easy to use for my needs,1
+192,Poor quality and stopped working quickly,0
+193,Fast delivery and the product works perfectly for my needs,1
+194,Delivery was late and the item was damaged overall,0
+195,"Great value, reliable and well designed compared with alternatives",1
+196,Helpful support and a smooth experience,1
+197,Excellent quality and very easy to use after one month,1
+198,Helpful support and a smooth experience for my needs,1
+199,Fast delivery and the product works perfectly for my needs,1
+200,Excellent quality and very easy to use after one month,1
+201,Fast delivery and the product works perfectly after one month,1
+202,Helpful support and a smooth experience after one month,1
+203,"Great value, reliable and well designed overall",1
+204,Helpful support and a smooth experience,1
+205,Poor quality and stopped working quickly overall,0
+206,"Great value, reliable and well designed for my needs",1
+207,Excellent quality and very easy to use compared with alternatives,1
+208,Not worth the price and difficult to use,0
+209,Fast delivery and the product works perfectly for my needs,1
+210,Support was unhelpful and the experience was frustrating after one month,0
+211,Helpful support and a smooth experience overall,1
+212,Poor quality and stopped working quickly compared with alternatives,0
+213,Poor quality and stopped working quickly compared with alternatives,0
+214,I am disappointed and would not recommend it after one month,0
+215,I am disappointed and would not recommend it after one month,0
+216,Not worth the price and difficult to use,0
+217,Excellent quality and very easy to use for my needs,1
+218,I am satisfied and would recommend this product,1
+219,Support was unhelpful and the experience was frustrating compared with alternatives,0
+220,Support was unhelpful and the experience was frustrating,0
+221,Poor quality and stopped working quickly after one month,0
+222,"Great value, reliable and well designed overall",1
+223,"Great value, reliable and well designed",1
+224,Not worth the price and difficult to use after one month,0
+225,Excellent quality and very easy to use,1
+226,"Great value, reliable and well designed overall",1
+227,Fast delivery and the product works perfectly,1
+228,Helpful support and a smooth experience for my needs,1
+229,"Great value, reliable and well designed after one month",1
+230,"Great value, reliable and well designed for my needs",1
+231,I am disappointed and would not recommend it compared with alternatives,0
+232,Poor quality and stopped working quickly after one month,0
+233,"Great value, reliable and well designed",1
+234,I am satisfied and would recommend this product for my needs,1
+235,Not worth the price and difficult to use for my needs,0
+236,Helpful support and a smooth experience after one month,1
+237,Helpful support and a smooth experience,1
+238,Support was unhelpful and the experience was frustrating for my needs,0
+239,Poor quality and stopped working quickly after one month,0
+240,Helpful support and a smooth experience compared with alternatives,1
+241,Support was unhelpful and the experience was frustrating after one month,0
+242,I am disappointed and would not recommend it,0
+243,Delivery was late and the item was damaged compared with alternatives,0
+244,I am disappointed and would not recommend it for my needs,0
+245,Fast delivery and the product works perfectly,1
+246,Fast delivery and the product works perfectly after one month,1
+247,"Great value, reliable and well designed compared with alternatives",1
+248,I am disappointed and would not recommend it after one month,0
+249,Not worth the price and difficult to use compared with alternatives,0
+250,Support was unhelpful and the experience was frustrating compared with alternatives,0
+251,"Great value, reliable and well designed",1
+252,I am disappointed and would not recommend it overall,0
+253,Poor quality and stopped working quickly overall,0
+254,Support was unhelpful and the experience was frustrating,0
+255,I am satisfied and would recommend this product after one month,1
+256,Fast delivery and the product works perfectly after one month,1
+257,Delivery was late and the item was damaged,0
+258,Excellent quality and very easy to use for my needs,1
+259,Support was unhelpful and the experience was frustrating after one month,0
+260,Excellent quality and very easy to use compared with alternatives,1
+261,Not worth the price and difficult to use compared with alternatives,0
+262,I am disappointed and would not recommend it,0
+263,I am satisfied and would recommend this product for my needs,1
+264,Helpful support and a smooth experience after one month,1
+265,Excellent quality and very easy to use,1
+266,Not worth the price and difficult to use for my needs,0
+267,I am disappointed and would not recommend it compared with alternatives,0
+268,Not worth the price and difficult to use,0
+269,Excellent quality and very easy to use compared with alternatives,1
+270,Excellent quality and very easy to use compared with alternatives,1
+271,Fast delivery and the product works perfectly for my needs,1
+272,Helpful support and a smooth experience,1
+273,Excellent quality and very easy to use for my needs,1
+274,Fast delivery and the product works perfectly for my needs,1
+275,Support was unhelpful and the experience was frustrating after one month,0
+276,Poor quality and stopped working quickly after one month,0
+277,I am disappointed and would not recommend it for my needs,0
+278,Fast delivery and the product works perfectly overall,1
+279,Helpful support and a smooth experience overall,1
+280,Fast delivery and the product works perfectly after one month,1
+281,Excellent quality and very easy to use overall,1
+282,Excellent quality and very easy to use overall,1
+283,I am disappointed and would not recommend it overall,0
+284,Excellent quality and very easy to use overall,1
+285,"Great value, reliable and well designed for my needs",1
+286,Poor quality and stopped working quickly,0
+287,Not worth the price and difficult to use compared with alternatives,0
+288,Not worth the price and difficult to use overall,0
+289,Helpful support and a smooth experience,1
+290,I am satisfied and would recommend this product,1
+291,I am satisfied and would recommend this product for my needs,1
+292,"Great value, reliable and well designed compared with alternatives",1
+293,I am satisfied and would recommend this product compared with alternatives,1
+294,Fast delivery and the product works perfectly after one month,1
+295,I am satisfied and would recommend this product overall,1
+296,Delivery was late and the item was damaged after one month,0
+297,Excellent quality and very easy to use after one month,1
+298,Helpful support and a smooth experience overall,1
+299,Helpful support and a smooth experience after one month,1
+300,"Great value, reliable and well designed",1
+301,Poor quality and stopped working quickly after one month,0
+302,Fast delivery and the product works perfectly for my needs,1
+303,Fast delivery and the product works perfectly compared with alternatives,1
+304,Poor quality and stopped working quickly overall,0
+305,Poor quality and stopped working quickly for my needs,0
+306,Delivery was late and the item was damaged,0
+307,I am disappointed and would not recommend it for my needs,0
+308,I am satisfied and would recommend this product after one month,1
+309,I am disappointed and would not recommend it compared with alternatives,0
+310,I am disappointed and would not recommend it compared with alternatives,0
+311,Fast delivery and the product works perfectly,1
+312,Excellent quality and very easy to use overall,1
+313,Poor quality and stopped working quickly compared with alternatives,0
+314,Helpful support and a smooth experience overall,1
+315,Not worth the price and difficult to use for my needs,0
+316,Not worth the price and difficult to use after one month,0
+317,I am disappointed and would not recommend it compared with alternatives,0
+318,I am satisfied and would recommend this product for my needs,1
+319,Poor quality and stopped working quickly,0
+320,Poor quality and stopped working quickly overall,0
+321,Excellent quality and very easy to use after one month,1
+322,I am satisfied and would recommend this product,1
+323,"Great value, reliable and well designed after one month",1
+324,Support was unhelpful and the experience was frustrating for my needs,0
+325,Excellent quality and very easy to use compared with alternatives,1
+326,Delivery was late and the item was damaged overall,0
+327,Support was unhelpful and the experience was frustrating compared with alternatives,0
+328,Fast delivery and the product works perfectly compared with alternatives,1
+329,Delivery was late and the item was damaged for my needs,0
+330,"Great value, reliable and well designed",1
+331,Not worth the price and difficult to use after one month,0
+332,Delivery was late and the item was damaged for my needs,0
+333,Support was unhelpful and the experience was frustrating compared with alternatives,0
+334,Fast delivery and the product works perfectly compared with alternatives,1
+335,Not worth the price and difficult to use,0
+336,Support was unhelpful and the experience was frustrating for my needs,0
+337,Not worth the price and difficult to use,0
+338,Not worth the price and difficult to use for my needs,0
+339,Delivery was late and the item was damaged,0
+340,Fast delivery and the product works perfectly after one month,1
+341,Delivery was late and the item was damaged compared with alternatives,0
+342,"Great value, reliable and well designed",1
+343,"Great value, reliable and well designed compared with alternatives",1
+344,Helpful support and a smooth experience after one month,1
+345,I am satisfied and would recommend this product after one month,1
+346,Excellent quality and very easy to use overall,1
+347,Support was unhelpful and the experience was frustrating overall,0
+348,I am disappointed and would not recommend it,0
+349,I am disappointed and would not recommend it for my needs,0
+350,Support was unhelpful and the experience was frustrating for my needs,0
+351,Poor quality and stopped working quickly compared with alternatives,0
+352,"Great value, reliable and well designed after one month",1
+353,"Great value, reliable and well designed overall",1
+354,Poor quality and stopped working quickly,0
+355,I am satisfied and would recommend this product compared with alternatives,1
+356,I am satisfied and would recommend this product after one month,1
+357,"Great value, reliable and well designed overall",1
+358,I am disappointed and would not recommend it after one month,0
+359,Helpful support and a smooth experience,1
+360,"Great value, reliable and well designed",1
+361,Poor quality and stopped working quickly after one month,0
+362,Helpful support and a smooth experience,1
+363,I am satisfied and would recommend this product overall,1
+364,I am disappointed and would not recommend it,0
+365,Fast delivery and the product works perfectly after one month,1
+366,Excellent quality and very easy to use,1
+367,"Great value, reliable and well designed for my needs",1
+368,Support was unhelpful and the experience was frustrating overall,0
+369,Helpful support and a smooth experience after one month,1
+370,Excellent quality and very easy to use overall,1
+371,"Great value, reliable and well designed compared with alternatives",1
+372,Excellent quality and very easy to use compared with alternatives,1
+373,Fast delivery and the product works perfectly,1
+374,Support was unhelpful and the experience was frustrating,0
+375,Fast delivery and the product works perfectly compared with alternatives,1
+376,Fast delivery and the product works perfectly after one month,1
+377,Fast delivery and the product works perfectly overall,1
+378,Excellent quality and very easy to use after one month,1
+379,Delivery was late and the item was damaged compared with alternatives,0
+380,Excellent quality and very easy to use compared with alternatives,1
+381,Poor quality and stopped working quickly after one month,0
+382,Support was unhelpful and the experience was frustrating after one month,0
+383,Support was unhelpful and the experience was frustrating,0
+384,Delivery was late and the item was damaged overall,0
+385,Helpful support and a smooth experience after one month,1
+386,Delivery was late and the item was damaged for my needs,0
+387,"Great value, reliable and well designed overall",1
+388,Poor quality and stopped working quickly,0
+389,I am disappointed and would not recommend it for my needs,0
+390,Helpful support and a smooth experience,1
+391,Delivery was late and the item was damaged for my needs,0
+392,Helpful support and a smooth experience for my needs,1
+393,Excellent quality and very easy to use,1
+394,Delivery was late and the item was damaged for my needs,0
+395,Delivery was late and the item was damaged compared with alternatives,0
+396,Support was unhelpful and the experience was frustrating after one month,0
+397,Support was unhelpful and the experience was frustrating for my needs,0
+398,Excellent quality and very easy to use after one month,1
+399,Delivery was late and the item was damaged,0
+400,Excellent quality and very easy to use after one month,1
+401,"Great value, reliable and well designed for my needs",1
+402,I am disappointed and would not recommend it after one month,0
+403,Excellent quality and very easy to use compared with alternatives,1
+404,Poor quality and stopped working quickly compared with alternatives,0
+405,I am disappointed and would not recommend it compared with alternatives,0
+406,Helpful support and a smooth experience overall,1
+407,Excellent quality and very easy to use overall,1
+408,Not worth the price and difficult to use,0
+409,Poor quality and stopped working quickly overall,0
+410,Delivery was late and the item was damaged compared with alternatives,0
+411,Excellent quality and very easy to use after one month,1
+412,"Great value, reliable and well designed overall",1
+413,Helpful support and a smooth experience after one month,1
+414,Not worth the price and difficult to use overall,0
+415,Helpful support and a smooth experience overall,1
+416,Not worth the price and difficult to use after one month,0
+417,Not worth the price and difficult to use compared with alternatives,0
+418,Fast delivery and the product works perfectly compared with alternatives,1
+419,Not worth the price and difficult to use after one month,0
+420,Support was unhelpful and the experience was frustrating compared with alternatives,0
+421,"Great value, reliable and well designed overall",1
+422,Helpful support and a smooth experience for my needs,1
+423,Support was unhelpful and the experience was frustrating overall,0
+424,Delivery was late and the item was damaged,0
+425,Delivery was late and the item was damaged for my needs,0
+426,I am satisfied and would recommend this product after one month,1
+427,Helpful support and a smooth experience for my needs,1
+428,I am satisfied and would recommend this product,1
+429,I am satisfied and would recommend this product overall,1
+430,"Great value, reliable and well designed",1
+431,"Great value, reliable and well designed overall",1
+432,Poor quality and stopped working quickly compared with alternatives,0
+433,Delivery was late and the item was damaged after one month,0
+434,Poor quality and stopped working quickly for my needs,0
+435,Delivery was late and the item was damaged for my needs,0
+436,Delivery was late and the item was damaged,0
+437,"Great value, reliable and well designed for my needs",1
+438,Support was unhelpful and the experience was frustrating,0
+439,I am disappointed and would not recommend it for my needs,0
+440,"Great value, reliable and well designed overall",1
+441,Support was unhelpful and the experience was frustrating,0
+442,Delivery was late and the item was damaged overall,0
+443,I am disappointed and would not recommend it after one month,0
+444,Support was unhelpful and the experience was frustrating overall,0
+445,Not worth the price and difficult to use,0
+446,Excellent quality and very easy to use compared with alternatives,1
+447,Fast delivery and the product works perfectly for my needs,1
+448,Helpful support and a smooth experience overall,1
+449,"Great value, reliable and well designed compared with alternatives",1
+450,I am disappointed and would not recommend it after one month,0
+451,"Great value, reliable and well designed compared with alternatives",1
+452,Delivery was late and the item was damaged,0
+453,"Great value, reliable and well designed for my needs",1
+454,Not worth the price and difficult to use after one month,0
+455,Support was unhelpful and the experience was frustrating overall,0
+456,I am satisfied and would recommend this product after one month,1
+457,I am disappointed and would not recommend it overall,0
+458,Support was unhelpful and the experience was frustrating for my needs,0
+459,"Great value, reliable and well designed compared with alternatives",1
+460,Helpful support and a smooth experience overall,1
+461,Support was unhelpful and the experience was frustrating for my needs,0
+462,Excellent quality and very easy to use compared with alternatives,1
+463,Poor quality and stopped working quickly after one month,0
+464,Helpful support and a smooth experience after one month,1
+465,Helpful support and a smooth experience for my needs,1
+466,Fast delivery and the product works perfectly compared with alternatives,1
+467,Support was unhelpful and the experience was frustrating for my needs,0
+468,Excellent quality and very easy to use overall,1
+469,I am disappointed and would not recommend it,0
+470,Poor quality and stopped working quickly overall,0
+471,Helpful support and a smooth experience overall,1
+472,"Great value, reliable and well designed overall",1
+473,Fast delivery and the product works perfectly for my needs,1
+474,Support was unhelpful and the experience was frustrating compared with alternatives,0
+475,"Great value, reliable and well designed overall",1
+476,"Great value, reliable and well designed overall",1
+477,Delivery was late and the item was damaged compared with alternatives,0
+478,Excellent quality and very easy to use overall,1
+479,Fast delivery and the product works perfectly compared with alternatives,1
+480,Helpful support and a smooth experience compared with alternatives,1
+481,Helpful support and a smooth experience for my needs,1
+482,I am satisfied and would recommend this product,1
+483,Not worth the price and difficult to use,0
+484,I am disappointed and would not recommend it,0
+485,I am satisfied and would recommend this product compared with alternatives,1
+486,Delivery was late and the item was damaged after one month,0
+487,Poor quality and stopped working quickly for my needs,0
+488,Poor quality and stopped working quickly after one month,0
+489,Helpful support and a smooth experience,1
+490,"Great value, reliable and well designed overall",1
+491,Poor quality and stopped working quickly for my needs,0
+492,"Great value, reliable and well designed",1
+493,Fast delivery and the product works perfectly compared with alternatives,1
+494,I am satisfied and would recommend this product after one month,1
+495,I am satisfied and would recommend this product after one month,1
+496,I am satisfied and would recommend this product compared with alternatives,1
+497,Fast delivery and the product works perfectly,1
+498,I am satisfied and would recommend this product,1
+499,Delivery was late and the item was damaged,0
+500,I am satisfied and would recommend this product for my needs,1
+501,I am satisfied and would recommend this product after one month,1
+502,Fast delivery and the product works perfectly for my needs,1
+503,Delivery was late and the item was damaged after one month,0
+504,"Great value, reliable and well designed overall",1
+505,Not worth the price and difficult to use for my needs,0
+506,"Great value, reliable and well designed after one month",1
+507,Delivery was late and the item was damaged after one month,0
+508,I am disappointed and would not recommend it overall,0
+509,Delivery was late and the item was damaged for my needs,0
+510,Fast delivery and the product works perfectly for my needs,1
+511,"Great value, reliable and well designed for my needs",1
+512,Poor quality and stopped working quickly compared with alternatives,0
+513,Excellent quality and very easy to use overall,1
+514,Helpful support and a smooth experience for my needs,1
+515,Support was unhelpful and the experience was frustrating,0
+516,Helpful support and a smooth experience,1
+517,Excellent quality and very easy to use,1
+518,Fast delivery and the product works perfectly overall,1
+519,Fast delivery and the product works perfectly overall,1
+520,Helpful support and a smooth experience after one month,1
+521,"Great value, reliable and well designed compared with alternatives",1
+522,I am satisfied and would recommend this product compared with alternatives,1
+523,I am satisfied and would recommend this product overall,1
+524,Helpful support and a smooth experience after one month,1
+525,Poor quality and stopped working quickly,0
+526,I am disappointed and would not recommend it,0
+527,Delivery was late and the item was damaged,0
+528,I am satisfied and would recommend this product,1
+529,Excellent quality and very easy to use after one month,1
+530,Delivery was late and the item was damaged after one month,0
+531,I am disappointed and would not recommend it overall,0
+532,I am satisfied and would recommend this product overall,1
+533,I am disappointed and would not recommend it compared with alternatives,0
+534,Support was unhelpful and the experience was frustrating for my needs,0
+535,Excellent quality and very easy to use for my needs,1
+536,"Great value, reliable and well designed for my needs",1
+537,Excellent quality and very easy to use for my needs,1
+538,Support was unhelpful and the experience was frustrating overall,0
+539,Fast delivery and the product works perfectly overall,1
+540,Excellent quality and very easy to use for my needs,1
+541,Fast delivery and the product works perfectly,1
+542,I am satisfied and would recommend this product after one month,1
+543,Helpful support and a smooth experience after one month,1
+544,Delivery was late and the item was damaged after one month,0
+545,Helpful support and a smooth experience overall,1
+546,Not worth the price and difficult to use compared with alternatives,0
+547,I am satisfied and would recommend this product overall,1
+548,Support was unhelpful and the experience was frustrating for my needs,0
+549,Not worth the price and difficult to use compared with alternatives,0
+550,Support was unhelpful and the experience was frustrating for my needs,0
+551,Delivery was late and the item was damaged,0
+552,Fast delivery and the product works perfectly,1
+553,I am satisfied and would recommend this product,1
+554,Support was unhelpful and the experience was frustrating overall,0
+555,I am satisfied and would recommend this product after one month,1
+556,I am disappointed and would not recommend it,0
+557,Excellent quality and very easy to use,1
+558,I am disappointed and would not recommend it compared with alternatives,0
+559,Helpful support and a smooth experience after one month,1
+560,Helpful support and a smooth experience after one month,1
+561,"Great value, reliable and well designed for my needs",1
+562,Not worth the price and difficult to use,0
+563,Helpful support and a smooth experience compared with alternatives,1
+564,"Great value, reliable and well designed for my needs",1
+565,Delivery was late and the item was damaged for my needs,0
+566,Helpful support and a smooth experience for my needs,1
+567,Not worth the price and difficult to use compared with alternatives,0
+568,Support was unhelpful and the experience was frustrating compared with alternatives,0
+569,I am disappointed and would not recommend it compared with alternatives,0
+570,I am disappointed and would not recommend it for my needs,0
+571,Helpful support and a smooth experience for my needs,1
+572,I am satisfied and would recommend this product overall,1
+573,I am disappointed and would not recommend it overall,0
+574,Poor quality and stopped working quickly overall,0
+575,I am satisfied and would recommend this product,1
+576,Support was unhelpful and the experience was frustrating,0
+577,I am disappointed and would not recommend it after one month,0
+578,Helpful support and a smooth experience overall,1
+579,Delivery was late and the item was damaged,0
+580,Fast delivery and the product works perfectly after one month,1
+581,"Great value, reliable and well designed compared with alternatives",1
+582,I am disappointed and would not recommend it after one month,0
+583,Helpful support and a smooth experience for my needs,1
+584,"Great value, reliable and well designed after one month",1
+585,Excellent quality and very easy to use overall,1
+586,Support was unhelpful and the experience was frustrating for my needs,0
+587,"Great value, reliable and well designed compared with alternatives",1
+588,Fast delivery and the product works perfectly for my needs,1
+589,Delivery was late and the item was damaged compared with alternatives,0
+590,Poor quality and stopped working quickly compared with alternatives,0
+591,I am disappointed and would not recommend it,0
+592,Delivery was late and the item was damaged compared with alternatives,0
+593,Support was unhelpful and the experience was frustrating,0
+594,"Great value, reliable and well designed overall",1
+595,Delivery was late and the item was damaged for my needs,0
+596,I am satisfied and would recommend this product compared with alternatives,1
+597,Support was unhelpful and the experience was frustrating,0
+598,I am disappointed and would not recommend it compared with alternatives,0
+599,"Great value, reliable and well designed for my needs",1
+600,Poor quality and stopped working quickly after one month,0

@@ -1,0 +1,5 @@
+2026-01-01T10:00:01Z INFO request_id=a1 status=200 latency_ms=84
+2026-01-01T10:00:02Z INFO request_id=a2 status=200 latency_ms=91
+2026-01-01T10:00:04Z ERROR request_id=a3 status=500 latency_ms=1432
+2026-01-01T10:00:06Z WARN request_id=a4 status=429 latency_ms=210
+2026-01-01T10:00:08Z INFO request_id=a5 status=200 latency_ms=79
